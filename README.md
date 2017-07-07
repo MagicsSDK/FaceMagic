@@ -21,7 +21,12 @@ FaceMagicSDK是北京迈吉客科技公司旗下的新型视觉服务平台，�
 
 FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识别技术和丰富炫酷特效商店提供给广大移动开发者和用户
 
+# 详情文档 请参阅 下方链接
+
+
 ## FaceMagic SDK 快速入门
+
+[文档地址](https://www.gitbook.com/book/appmagics/facemagic-sdk/details) 
 
 ### `第一步` 将下载的SDK解压后导入到您的工程中，见下图
  ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.png)
@@ -43,7 +48,9 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ##
 
 `#import<MKEngine/FaceManager.h>
+
 #import<FaceMagicDetection/MagicDetection.h>
+
 @property(nonatomic, assign) MagicDetection *detection;`
 
 ## 初始化人脸识别引擎 FaceMagicDetection
@@ -53,11 +60,17 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ## 初始化渲染引擎 FaceManager
 
 `float scale = [UIScreen mainScreen].scale;
+
 mfm2 = [FM2 new];
+
 [mfm2 fm2Init:NULL Version:2];
+
 [mfm2 startEngine:fm2DETECTTYPE];(识别库类型设置)
+
 [mfm2 createScene:@"fm2" Width:[UIScreen mainScreen].bounds.size.width*scale Height:[UIScreen mainScreen].bounds.size.height*scale];
+
 [mfm2 setInputFormat:fm2PixelFormatYUV420V Width:videoWidth Height:videoHeight Angle:videoAngle Name:@"fm2"];
+
 [mfm2 setOutputFormat:fm2PixelFormatYUV420V Name:@"fm2"];`
 
 ## 传入相机数据流
