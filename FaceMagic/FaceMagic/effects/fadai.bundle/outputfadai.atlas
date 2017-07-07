@@ -1,0 +1,27 @@
+
+outputfadai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fadai
+  rotate: false
+  xy: 0, 0
+  size: 428, 210
+  orig: 428, 210
+  offset: 0, 0
+  index: -1
+images/youer
+  rotate: false
+  xy: 430, 3
+  size: 157, 207
+  orig: 157, 207
+  offset: 0, 0
+  index: -1
+images/zuoer
+  rotate: false
+  xy: 589, 74
+  size: 227, 136
+  orig: 227, 136
+  offset: 0, 0
+  index: -1

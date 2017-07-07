@@ -1,0 +1,13 @@
+
+jj.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx
+  rotate: false
+  xy: 0, 0
+  size: 152, 169
+  orig: 152, 169
+  offset: 0, 0
+  index: -1

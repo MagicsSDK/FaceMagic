@@ -1,0 +1,100 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/yqqkh",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "heart_1": "1",
+                    "heart_2": "2",
+                    "heart_3": "3",
+                    "heart_4": "4",
+                    "heart_5": "5",
+                    "sun_1": "1",
+                    "sun_2": "2",
+                    "sun_3": "3",
+                    "sun_4": "4",
+                    "sun_5": "5"
+                },
+                "spine_name": "pwqkh"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim",
+            "texMask":"texMask"
+        },
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/yqqkh",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "heart_1": "1",
+                    "heart_2": "2",
+                    "heart_3": "3",
+                    "heart_4": "4",
+                    "heart_5": "5",
+                    "sun_1": "1",
+                    "sun_2": "2",
+                    "sun_3": "3",
+                    "sun_4": "4",
+                    "sun_5": "5"
+                },
+                "spine_name": "pwqkh"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w2",
+            "loop": "1",
+            "name": "w2",
+            "resourcePath": "/Users/wangyukun/Desktop/yqqkh",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "heart_1": "1",
+                    "heart_2": "2",
+                    "heart_3": "3",
+                    "heart_4": "4",
+                    "heart_5": "5",
+                    "sun_1": "1",
+                    "sun_2": "2",
+                    "sun_3": "3",
+                    "sun_4": "4",
+                    "sun_5": "5"
+                },
+                "spine_name": "pwqkh"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "version": "v3",
+    "haveoccasion": "1"
+}

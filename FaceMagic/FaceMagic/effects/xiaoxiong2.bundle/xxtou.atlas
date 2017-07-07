@@ -1,0 +1,55 @@
+
+xxtou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/maozi
+  rotate: false
+  xy: 0, 361
+  size: 246, 112
+  orig: 246, 112
+  offset: 0, 0
+  index: -1
+images/youer1
+  rotate: true
+  xy: 161, 159
+  size: 158, 165
+  orig: 158, 165
+  offset: 0, 0
+  index: -1
+images/youer2
+  rotate: true
+  xy: 157, 0
+  size: 157, 165
+  orig: 157, 165
+  offset: 0, 0
+  index: -1
+images/youer3
+  rotate: false
+  xy: 328, 163
+  size: 152, 154
+  orig: 152, 154
+  offset: 0, 0
+  index: -1
+images/zuoer1
+  rotate: false
+  xy: 0, 17
+  size: 155, 171
+  orig: 155, 171
+  offset: 0, 0
+  index: -1
+images/zuoer2
+  rotate: false
+  xy: 0, 190
+  size: 159, 169
+  orig: 159, 169
+  offset: 0, 0
+  index: -1
+images/zuoer3
+  rotate: true
+  xy: 248, 319
+  size: 154, 167
+  orig: 154, 167
+  offset: 0, 0
+  index: -1

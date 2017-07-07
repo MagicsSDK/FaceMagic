@@ -1,0 +1,154 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1493895334771",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.14",
+      "adjust2": "0.14",
+      "adjust3": "0.1",
+      "adjust4": "0.1"
+    },
+    {
+      "id": "w1493895383629",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.18",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1493895459029",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.18",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1493896124875",
+      "name": "mask.png",
+      "index": "390",
+      "h": [
+        "0.03",
+        "-0.08"
+      ],
+      "s": [
+        "2.99",
+        "2.99"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "images": [
+        "mask.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim"
+    },
+    {
+      "id": "w1493954726758",
+      "name": "erduo_00000.png",
+      "index": "390",
+      "h": [
+        "0.02",
+        "1.37"
+      ],
+      "s": [
+        "3.23",
+        "3.23"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "plist":["erduo"],
+      "images": [
+        "erduo_00000.png",
+        "erduo_00001.png",
+        "erduo_00002.png",
+        "erduo_00003.png",
+        "erduo_00004.png",
+        "erduo_00005.png",
+        "erduo_00006.png",
+        "erduo_00007.png",
+        "erduo_00008.png",
+        "erduo_00009.png",
+        "erduo_00010.png",
+        "erduo_00011.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim"
+    },
+    {
+      "id": "w1493956627331",
+      "fps": "25",
+      "loop": "1",
+      "name": "pingmu2_00000.png",
+      "mode": "fullscreen",
+      "plist":["pingmu"],
+      "images": [
+        "pingmu2_00000.png",
+        "pingmu2_00001.png",
+        "pingmu2_00002.png",
+        "pingmu2_00003.png",
+        "pingmu2_00004.png",
+        "pingmu2_00005.png",
+        "pingmu2_00006.png",
+        "pingmu2_00007.png",
+        "pingmu2_00008.png",
+        "pingmu2_00009.png",
+        "pingmu2_00010.png",
+        "pingmu2_00011.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

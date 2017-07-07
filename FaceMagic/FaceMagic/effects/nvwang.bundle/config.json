@@ -1,0 +1,124 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "130",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": -1,
+            "y": "0.01",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "320",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 1,
+            "y": "0.05",
+            "yType": 1
+        },
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "id": "w5",
+            "loop": "1",
+            "name": "w5",
+            "personid": "0",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170306/nwhuangguan",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_390": "390"
+                },
+                "spine_name": "nwhuangguan"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w6",
+            "loop": "1",
+            "name": "w6",
+            "personid": "0",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170306/nwxianglian",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone_0": "0"
+                },
+                "spine_name": "nwxianglian"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w7",
+            "loop": "1",
+            "name": "w7",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170306/nwquanp",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "outputnvwang"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

@@ -1,0 +1,118 @@
+
+f_shousi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 575, 53
+  size: 129, 70
+  orig: 129, 70
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 706, 58
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 625, 26
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 921, 143
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 575, 21
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 792, 137
+  size: 127, 114
+  orig: 127, 114
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 587, 189
+  size: 203, 62
+  orig: 203, 62
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 587, 125
+  size: 203, 62
+  orig: 203, 62
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 921, 190
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 959, 201
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 444, 7
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 0, 0
+  size: 220, 251
+  orig: 220, 251
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 222, 0
+  size: 220, 251
+  orig: 220, 251
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 706, 74
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 755, 88
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 444, 125
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1

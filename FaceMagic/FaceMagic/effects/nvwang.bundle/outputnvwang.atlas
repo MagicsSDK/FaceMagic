@@ -1,0 +1,90 @@
+
+outputnvwang.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g1
+  rotate: false
+  xy: 920, 188
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+images/g2
+  rotate: false
+  xy: 830, 160
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+images/g3
+  rotate: false
+  xy: 1000, 188
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+images/g4
+  rotate: false
+  xy: 626, 132
+  size: 202, 140
+  orig: 202, 140
+  offset: 0, 0
+  index: -1
+images/g5
+  rotate: false
+  xy: 316, 41
+  size: 237, 152
+  orig: 237, 152
+  offset: 0, 0
+  index: -1
+images/s1
+  rotate: true
+  xy: 626, 274
+  size: 193, 361
+  orig: 193, 361
+  offset: 0, 0
+  index: -1
+images/s2
+  rotate: true
+  xy: 1352, 267
+  size: 200, 342
+  orig: 200, 342
+  offset: 0, 0
+  index: -1
+images/s3
+  rotate: true
+  xy: 989, 274
+  size: 193, 361
+  orig: 193, 361
+  offset: 0, 0
+  index: -1
+images/s4
+  rotate: false
+  xy: 0, 0
+  size: 314, 467
+  orig: 314, 467
+  offset: 0, 0
+  index: -1
+images/s5
+  rotate: false
+  xy: 316, 195
+  size: 308, 272
+  orig: 308, 272
+  offset: 0, 0
+  index: -1
+images/s6
+  rotate: true
+  xy: 1696, 267
+  size: 200, 342
+  orig: 200, 342
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 555, 151
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+ren.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2glow1
+  rotate: false
+  xy: 1204, 442
+  size: 497, 227
+  orig: 497, 227
+  offset: 0, 0
+  index: -1
+2glow2
+  rotate: false
+  xy: 0, 98
+  size: 556, 221
+  orig: 556, 221
+  offset: 0, 0
+  index: -1
+2wing1
+  rotate: false
+  xy: 2880, 623
+  size: 244, 175
+  orig: 244, 175
+  offset: 0, 0
+  index: -1
+2wing2
+  rotate: false
+  xy: 3359, 572
+  size: 244, 175
+  orig: 244, 175
+  offset: 0, 0
+  index: -1
+31shang
+  rotate: true
+  xy: 2017, 574
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+3fly1y
+  rotate: false
+  xy: 3945, 869
+  size: 118, 121
+  orig: 118, 121
+  offset: 0, 0
+  index: -1
+3fly1z
+  rotate: false
+  xy: 3945, 746
+  size: 118, 121
+  orig: 118, 121
+  offset: 0, 0
+  index: -1
+3fly2y
+  rotate: false
+  xy: 3126, 618
+  size: 231, 180
+  orig: 231, 180
+  offset: 0, 0
+  index: -1
+3fly2z
+  rotate: false
+  xy: 3605, 567
+  size: 231, 180
+  orig: 231, 180
+  offset: 0, 0
+  index: -1
+3fly3y
+  rotate: false
+  xy: 3369, 749
+  size: 286, 241
+  orig: 286, 241
+  offset: 0, 0
+  index: -1
+3fly3z
+  rotate: false
+  xy: 3657, 749
+  size: 286, 241
+  orig: 286, 241
+  offset: 0, 0
+  index: -1
+3fly4y
+  rotate: false
+  xy: 2104, 678
+  size: 386, 312
+  orig: 386, 312
+  offset: 0, 0
+  index: -1
+3fly4z
+  rotate: false
+  xy: 2492, 678
+  size: 386, 312
+  orig: 386, 312
+  offset: 0, 0
+  index: -1
+3fly5y
+  rotate: false
+  xy: 1655, 671
+  size: 447, 319
+  orig: 447, 319
+  offset: 0, 0
+  index: -1
+3fly5z
+  rotate: false
+  xy: 1204, 671
+  size: 449, 319
+  orig: 449, 319
+  offset: 0, 0
+  index: -1
+3hair1
+  rotate: false
+  xy: 558, 211
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+3hair2
+  rotate: true
+  xy: 0, 0
+  size: 33, 129
+  orig: 33, 129
+  offset: 0, 0
+  index: -1
+3hair3
+  rotate: false
+  xy: 334, 35
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+3hua
+  rotate: false
+  xy: 0, 321
+  size: 661, 669
+  orig: 661, 669
+  offset: 0, 0
+  index: -1
+3legyou
+  rotate: true
+  xy: 0, 35
+  size: 61, 332
+  orig: 61, 332
+  offset: 0, 0
+  index: -1
+3legzuo
+  rotate: true
+  xy: 663, 379
+  size: 58, 302
+  orig: 58, 302
+  offset: 0, 0
+  index: -1
+3qunhe
+  rotate: false
+  xy: 2880, 800
+  size: 487, 190
+  orig: 487, 190
+  offset: 0, 0
+  index: -1
+3qunhou
+  rotate: false
+  xy: 663, 439
+  size: 539, 551
+  orig: 539, 551
+  offset: 0, 0
+  index: -1
+3shangshen
+  rotate: false
+  xy: 1703, 421
+  size: 312, 248
+  orig: 312, 248
+  offset: 0, 0
+  index: -1
+Queen
+  rotate: false
+  xy: 663, 341
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "7EMao0uECdWHSalSrEGh2yinilA", "spine": "3.5.37", "width": 525.24, "height": 525.24, "images": "./新建文件夹 (2)/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "huojian", "parent": "root", "length": 108.26, "rotation": 91.05, "x": 0.43, "y": 79.01 },
+	{ "name": "boneA", "parent": "huojian", "x": 183.07, "y": -3.6 },
+	{ "name": "boneB", "parent": "huojian", "x": 309.96, "y": -5.1 }
+],
+"slots": [
+	{ "name": "huojian", "bone": "huojian", "attachment": "huojian" },
+	{ "name": "hj", "bone": "root", "attachment": "hj" }
+],
+"path": [
+	{
+		"name": "hj",
+		"order": 0,
+		"bones": [ "huojian" ],
+		"target": "hj"
+	}
+],
+"skins": {
+	"default": {
+		"hj": {
+			"hj": {
+				"type": "path",
+				"lengths": [ 697.29, 1427.18, 2983.19 ],
+				"vertexCount": 9,
+				"vertices": [ 1.18, -253.57, 1.59, -124.55, -0.39, 115.41, -8.95, 442.02, -7.69, 572.67, -7.69, 745.98, -0.29, 905.3, 6.57, 1302.42, 9.45, 1436.32 ]
+			}
+		},
+		"huojian": {
+			"huojian": { "x": 174.17, "y": -3.63, "rotation": -91.05, "width": 520, "height": 520 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"paths": {
+			"hj": {
+				"position": [
+					{ "time": 0 },
+					{ "time": 1.6667, "position": 1 }
+				],
+				"spacing": [
+					{ "time": 1.6667 }
+				],
+				"mix": [
+					{ "time": 0 }
+				]
+			}
+            
+		}
+	}
+}
+}

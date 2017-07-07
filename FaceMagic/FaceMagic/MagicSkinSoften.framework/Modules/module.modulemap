@@ -1,0 +1,6 @@
+framework module MagicSkinSoften {
+  umbrella header "MagicSkinSoften.h"
+
+  export *
+  module * { export * }
+}

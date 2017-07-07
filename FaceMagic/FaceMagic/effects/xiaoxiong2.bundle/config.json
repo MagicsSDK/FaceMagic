@@ -1,0 +1,119 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": -1,
+            "y": "0.01",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 1,
+            "y": "0.05",
+            "yType": 1
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone_0": "0"
+                },
+                "spine_name": "xxlingzi"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w5",
+            "loop": "1",
+            "name": "w5",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone_390": "390"
+                },
+                "spine_name": "xxtou"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "saihong7.png"
+            ],
+            "mappings": {
+                "saihong7.png": "/Users/a111/Desktop/动画特效/20170217/saihong7.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "adjust": "0.18",
+            "adjust2": "0.14",
+            "adjust3": "0.14",
+            "adjust4": "0.2",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/xiaoxiong",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

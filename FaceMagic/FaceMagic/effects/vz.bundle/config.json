@@ -1,0 +1,25 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        
+       
+       
+        
+        {
+            "id": "mask01",
+            "images": [
+                "vz.png"
+            ],
+            "mappings": {
+                "saihong4.png": "/Users/a111/Desktop/动画特效/20170322/saihong4.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170322",
+            "subType": "static",
+            "type": "mask"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

@@ -1,0 +1,314 @@
+
+g_shengdanjie.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+christmas_dd_0000_line
+  rotate: false
+  xy: 0, 247
+  size: 461, 142
+  orig: 461, 142
+  offset: 0, 0
+  index: -1
+christmas_dd_0000_purple_point
+  rotate: false
+  xy: 801, 1786
+  size: 893, 255
+  orig: 893, 255
+  offset: 0, 0
+  index: -1
+christmas_dd_0000s_0000_M
+  rotate: true
+  xy: 0, 0
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+christmas_dd_0000s_0001_E
+  rotate: false
+  xy: 274, 151
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+christmas_dd_0000s_0002_R
+  rotate: false
+  xy: 859, 1157
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+christmas_dd_0000s_0003_R
+  rotate: true
+  xy: 1393, 1743
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+christmas_dd_0000s_0004_Y
+  rotate: true
+  xy: 173, 83
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+christmas_dd_0001_a_w01_little
+  rotate: true
+  xy: 769, 346
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0000_C
+  rotate: true
+  xy: 663, 256
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0001_H
+  rotate: false
+  xy: 801, 1129
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0002_R
+  rotate: false
+  xy: 380, 185
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0003_I
+  rotate: false
+  xy: 1038, 1419
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0004_S
+  rotate: true
+  xy: 1455, 1746
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0005_T
+  rotate: true
+  xy: 1115, 1510
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0006_M
+  rotate: false
+  xy: 944, 1343
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0007_A
+  rotate: false
+  xy: 329, 184
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+christmas_dd_0001s_0008_S
+  rotate: false
+  xy: 801, 946
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+christmas_dd_0002_a_w01_big
+  rotate: false
+  xy: 1252, 1710
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+christmas_dd_0003_a_w02_little
+  rotate: true
+  xy: 801, 1009
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+christmas_dd_0004_a_w02_big
+  rotate: false
+  xy: 944, 1410
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+christmas_dd_0005_a_body
+  rotate: false
+  xy: 801, 1309
+  size: 141, 198
+  orig: 141, 198
+  offset: 0, 0
+  index: -1
+christmas_dd_0006_a_n01_big
+  rotate: false
+  xy: 580, 203
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+christmas_dd_0007_a_n01_little
+  rotate: false
+  xy: 92, 10
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+christmas_dd_0008_a_n02_little
+  rotate: true
+  xy: 1193, 1511
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+christmas_dd_0009_a_n02_bing
+  rotate: false
+  xy: 801, 1219
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+christmas_dd_0010_b_w01_little
+  rotate: true
+  xy: 2014, 1997
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+christmas_dd_0011_b_w01_big
+  rotate: false
+  xy: 801, 1067
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+christmas_dd_0012_b_w02_little
+  rotate: true
+  xy: 1265, 1591
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+christmas_dd_0013_b_w02_big
+  rotate: false
+  xy: 1115, 1550
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+christmas_dd_0014_b_body
+  rotate: true
+  xy: 463, 247
+  size: 142, 198
+  orig: 142, 198
+  offset: 0, 0
+  index: -1
+christmas_dd_0015_b_n01_little
+  rotate: false
+  xy: 529, 202
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+christmas_dd_0016_b_n01_big
+  rotate: true
+  xy: 1252, 1649
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+christmas_dd_0017_b_n02_little
+  rotate: true
+  xy: 1209, 1550
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+christmas_dd_0018_b_n02_big
+  rotate: false
+  xy: 663, 301
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+christmas_dd_0019_MAN
+  rotate: false
+  xy: 801, 1509
+  size: 312, 275
+  orig: 312, 275
+  offset: 0, 0
+  index: -1
+christmas_dd_0020_a_snow
+  rotate: false
+  xy: 0, 74
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+christmas_dd_0021_b_snow
+  rotate: false
+  xy: 173, 146
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+christmas_dd_0022_c_snow
+  rotate: false
+  xy: 1115, 1649
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+christmas_dd_0023_bell
+  rotate: false
+  xy: 1696, 1793
+  size: 316, 248
+  orig: 316, 248
+  offset: 0, 0
+  index: -1
+christmas_dd_0031_b_yellow
+  rotate: false
+  xy: 423, 196
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+christmas_dd_0032_a_yellow
+  rotate: false
+  xy: 1209, 1590
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+christmas_dd_0033_b_red
+  rotate: false
+  xy: 476, 196
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+christmas_dd_0034_a_red
+  rotate: false
+  xy: 1337, 1727
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+suger
+  rotate: false
+  xy: 0, 391
+  size: 799, 1650
+  orig: 799, 1650
+  offset: 0, 0
+  index: -1

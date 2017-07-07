@@ -1,0 +1,316 @@
+{"frames": [
+
+{
+	"filename": "yanjing1_00000.png",
+	"frame": {"x":1466,"y":1712,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":211,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00001.png",
+	"frame": {"x":978,"y":1794,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":222,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00002.png",
+	"frame": {"x":1024,"y":220,"w":486,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":239,"w":486,"h":288},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00003.png",
+	"frame": {"x":490,"y":1716,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":247,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00004.png",
+	"frame": {"x":2,"y":2,"w":530,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":239,"w":530,"h":294},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00005.png",
+	"frame": {"x":978,"y":1580,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":251,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00006.png",
+	"frame": {"x":1466,"y":1498,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":249,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00007.png",
+	"frame": {"x":2,"y":1804,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":246,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00008.png",
+	"frame": {"x":2,"y":1590,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00009.png",
+	"frame": {"x":490,"y":1502,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":238,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00010.png",
+	"frame": {"x":978,"y":1366,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":236,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00011.png",
+	"frame": {"x":1466,"y":1284,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":235,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00012.png",
+	"frame": {"x":2,"y":1376,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":236,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00013.png",
+	"frame": {"x":490,"y":1288,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":238,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00014.png",
+	"frame": {"x":978,"y":1152,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00015.png",
+	"frame": {"x":1466,"y":1070,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":243,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00016.png",
+	"frame": {"x":1514,"y":2,"w":488,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":245,"w":488,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00017.png",
+	"frame": {"x":2,"y":298,"w":486,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":242,"w":486,"h":220},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00018.png",
+	"frame": {"x":1024,"y":2,"w":488,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":244,"w":488,"h":216},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00019.png",
+	"frame": {"x":534,"y":220,"w":488,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":243,"w":488,"h":210},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00020.png",
+	"frame": {"x":534,"y":2,"w":488,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":237,"w":488,"h":216},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00021.png",
+	"frame": {"x":1514,"y":216,"w":488,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":239,"w":488,"h":210},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00022.png",
+	"frame": {"x":2,"y":1162,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":239,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00023.png",
+	"frame": {"x":490,"y":1074,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":239,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00024.png",
+	"frame": {"x":978,"y":938,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":239,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00025.png",
+	"frame": {"x":1466,"y":856,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":240,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00026.png",
+	"frame": {"x":2,"y":948,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00027.png",
+	"frame": {"x":490,"y":860,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00028.png",
+	"frame": {"x":978,"y":724,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00029.png",
+	"frame": {"x":1466,"y":642,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00030.png",
+	"frame": {"x":2,"y":734,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00031.png",
+	"frame": {"x":490,"y":646,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":242,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00032.png",
+	"frame": {"x":978,"y":510,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00033.png",
+	"frame": {"x":1512,"y":428,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00034.png",
+	"frame": {"x":2,"y":520,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":240,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00035.png",
+	"frame": {"x":490,"y":432,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":240,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00036.png",
+	"frame": {"x":1466,"y":1712,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yanjing1_00037.png",
+	"frame": {"x":1466,"y":1712,"w":486,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":241,"w":486,"h":212},
+	"sourceSize": {"w":750,"h":1334}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "cat_yanjing.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:adfe40b1b6e169f3cd5c87b0ff3d7114:1/1$"
+}
+}

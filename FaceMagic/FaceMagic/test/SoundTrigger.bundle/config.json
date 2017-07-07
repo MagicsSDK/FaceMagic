@@ -1,0 +1,113 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "a1493192076919",
+      "file": "bgm.mp3",
+      "loop": "1",
+      "type": "audio"
+    },
+    {
+      "id": "w1493191496042",
+      "name": "dangao0001.png",
+      "index": "390",
+      "h": [
+        "-0.02",
+        "-1.90"
+      ],
+      "s": [
+        "1.57",
+        "1.57"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "images": [
+        "dangao0001.png",
+        "dangao0002.png",
+        "dangao0003.png",
+        "dangao0004.png",
+        "dangao0005.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim",
+      "terminatedBy": [
+        {
+          "category": "mouthclose"
+        }
+      ],
+      "audio": {
+        "file": "laugh.mp3",
+        "keeprolling": "0"
+      }
+    },
+    {
+      "id": "w1493191584047",
+      "name": "jixue2",
+      "index": "390",
+      "h": [
+        "0.04",
+        "0.37"
+      ],
+      "s": [
+        "2.75",
+        "2.75"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "plist": [
+        "jixue2"
+      ],
+      "images": [
+        "jixue_00024.png",
+        "jixue_00025.png",
+        "jixue_00026.png",
+        "jixue_00027.png",
+        "jixue_00028.png",
+        "jixue_00029.png",
+        "jixue_00030.png",
+        "jixue_00031.png",
+        "jixue_00032.png",
+        "jixue_00033.png",
+        "jixue_00034.png",
+        "jixue_00035.png",
+        "jixue_00036.png",
+        "jixue_00037.png",
+        "jixue_00038.png",
+        "jixue_00039.png",
+        "jixue_00040.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim",
+      "terminatedBy": [
+        {
+          "category": "mouthclose"
+        }
+      ],
+      "audio": {
+        "file": "dog.mp3",
+        "keeprolling": "1"
+      }
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

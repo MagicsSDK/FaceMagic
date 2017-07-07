@@ -1,0 +1,34 @@
+
+xxlingzi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hudiejie
+  rotate: false
+  xy: 582, 27
+  size: 155, 88
+  orig: 155, 88
+  offset: 0, 0
+  index: -1
+images/jie
+  rotate: false
+  xy: 426, 2
+  size: 154, 113
+  orig: 154, 113
+  offset: 0, 0
+  index: -1
+images/youling
+  rotate: false
+  xy: 216, 0
+  size: 208, 115
+  orig: 208, 115
+  offset: 0, 0
+  index: -1
+images/zuoling
+  rotate: false
+  xy: 0, 0
+  size: 214, 115
+  orig: 214, 115
+  offset: 0, 0
+  index: -1

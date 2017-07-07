@@ -1,0 +1,284 @@
+{"frames": [
+
+{
+	"filename": "qipao10_00000.png",
+	"frame": {"x":2,"y":2888,"w":538,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":538,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00001.png",
+	"frame": {"x":2,"y":1926,"w":538,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":538,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00002.png",
+	"frame": {"x":1062,"y":964,"w":474,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":474,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00003.png",
+	"frame": {"x":1074,"y":2,"w":472,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":472,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00004.png",
+	"frame": {"x":1538,"y":964,"w":456,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":456,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00005.png",
+	"frame": {"x":1548,"y":2,"w":452,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":452,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00006.png",
+	"frame": {"x":1536,"y":2888,"w":444,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":0,"w":444,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00007.png",
+	"frame": {"x":1540,"y":1926,"w":434,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":0,"w":434,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00008.png",
+	"frame": {"x":1976,"y":1926,"w":416,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":416,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00009.png",
+	"frame": {"x":1996,"y":964,"w":382,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":0,"w":382,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00010.png",
+	"frame": {"x":3680,"y":2480,"w":366,"h":804},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":0,"w":366,"h":804},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00011.png",
+	"frame": {"x":3284,"y":3286,"w":362,"h":804},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":362,"h":804},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00012.png",
+	"frame": {"x":3680,"y":1672,"w":368,"h":806},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":0,"w":368,"h":806},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00013.png",
+	"frame": {"x":3304,"y":1672,"w":374,"h":812},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":0,"w":374,"h":812},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00014.png",
+	"frame": {"x":2924,"y":1800,"w":378,"h":820},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":0,"w":378,"h":820},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00015.png",
+	"frame": {"x":2900,"y":2848,"w":382,"h":826},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":0,"w":382,"h":826},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00016.png",
+	"frame": {"x":2512,"y":2848,"w":386,"h":830},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":386,"h":830},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00017.png",
+	"frame": {"x":3412,"y":840,"w":392,"h":830},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":0,"w":392,"h":830},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00018.png",
+	"frame": {"x":3412,"y":2,"w":400,"h":836},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":400,"h":836},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00019.png",
+	"frame": {"x":3004,"y":2,"w":406,"h":842},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":406,"h":842},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00020.png",
+	"frame": {"x":2818,"y":948,"w":406,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":0,"w":406,"h":850},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00021.png",
+	"frame": {"x":2394,"y":1916,"w":528,"h":930},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":528,"h":930},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00022.png",
+	"frame": {"x":1982,"y":2888,"w":528,"h":936},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":528,"h":936},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00023.png",
+	"frame": {"x":2480,"y":2,"w":522,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":522,"h":944},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00024.png",
+	"frame": {"x":2380,"y":962,"w":436,"h":952},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":436,"h":952},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00025.png",
+	"frame": {"x":2002,"y":2,"w":476,"h":958},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":476,"h":958},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00026.png",
+	"frame": {"x":1054,"y":1926,"w":484,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":484,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00027.png",
+	"frame": {"x":1044,"y":2888,"w":490,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":490,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00028.png",
+	"frame": {"x":542,"y":2888,"w":500,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":500,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00029.png",
+	"frame": {"x":542,"y":1926,"w":510,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":510,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00030.png",
+	"frame": {"x":542,"y":964,"w":518,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":518,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00031.png",
+	"frame": {"x":542,"y":2,"w":530,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":530,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00032.png",
+	"frame": {"x":2,"y":964,"w":538,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":538,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+{
+	"filename": "qipao10_00033.png",
+	"frame": {"x":2,"y":2,"w":538,"h":960},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":538,"h":960},
+	"sourceSize": {"w":540,"h":960}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "qipao1.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c9221f9ee236cec9284bab137a1b5d47:1/1$"
+}
+}

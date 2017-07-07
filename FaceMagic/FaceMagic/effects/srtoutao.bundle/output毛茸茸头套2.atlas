@@ -1,0 +1,139 @@
+
+output毛茸茸头套2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bizi
+  rotate: false
+  xy: 659, 108
+  size: 182, 162
+  orig: 182, 162
+  offset: 0, 0
+  index: -1
+images/huzi
+  rotate: false
+  xy: 659, 804
+  size: 644, 203
+  orig: 644, 203
+  offset: 0, 0
+  index: -1
+images/qiu1
+  rotate: false
+  xy: 300, 0
+  size: 162, 143
+  orig: 162, 143
+  offset: 0, 0
+  index: -1
+images/qiu2
+  rotate: false
+  xy: 300, 0
+  size: 162, 143
+  orig: 162, 143
+  offset: 0, 0
+  index: -1
+images/sya
+  rotate: true
+  xy: 1149, 517
+  size: 285, 38
+  orig: 285, 38
+  offset: 0, 0
+  index: -1
+images/toufa
+  rotate: false
+  xy: 1305, 778
+  size: 239, 229
+  orig: 239, 229
+  offset: 0, 0
+  index: -1
+images/touwei
+  rotate: false
+  xy: 0, 145
+  size: 657, 862
+  orig: 657, 862
+  offset: 0, 0
+  index: -1
+images/xya
+  rotate: false
+  xy: 0, 34
+  size: 225, 23
+  orig: 225, 23
+  offset: 0, 0
+  index: -1
+images/yer
+  rotate: false
+  xy: 659, 538
+  size: 238, 264
+  orig: 238, 264
+  offset: 0, 0
+  index: -1
+images/ygaoguang
+  rotate: false
+  xy: 464, 71
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+images/yhuxu
+  rotate: false
+  xy: 1546, 786
+  size: 194, 221
+  orig: 194, 221
+  offset: 0, 0
+  index: -1
+images/yyanj
+  rotate: false
+  xy: 899, 548
+  size: 248, 254
+  orig: 248, 254
+  offset: 0, 0
+  index: -1
+images/yyanzhu
+  rotate: false
+  xy: 1938, 915
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+images/zer
+  rotate: false
+  xy: 659, 272
+  size: 238, 264
+  orig: 238, 264
+  offset: 0, 0
+  index: -1
+images/zgaog
+  rotate: false
+  xy: 1938, 841
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+images/zhuxu
+  rotate: false
+  xy: 1742, 786
+  size: 194, 221
+  orig: 194, 221
+  offset: 0, 0
+  index: -1
+images/zui
+  rotate: false
+  xy: 0, 59
+  size: 298, 84
+  orig: 298, 84
+  offset: 0, 0
+  index: -1
+images/zyanj
+  rotate: false
+  xy: 899, 292
+  size: 248, 254
+  orig: 248, 254
+  offset: 0, 0
+  index: -1
+images/zyanzhu
+  rotate: false
+  xy: 1189, 710
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

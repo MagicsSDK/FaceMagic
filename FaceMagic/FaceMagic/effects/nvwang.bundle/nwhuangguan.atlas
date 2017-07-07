@@ -1,0 +1,41 @@
+
+nwhuangguan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hg
+  rotate: false
+  xy: 490, 0
+  size: 371, 250
+  orig: 371, 250
+  offset: 0, 0
+  index: -1
+images/hgg
+  rotate: false
+  xy: 0, 20
+  size: 422, 189
+  orig: 422, 189
+  offset: 0, 0
+  index: -1
+images/hgg2
+  rotate: false
+  xy: 490, 252
+  size: 472, 236
+  orig: 472, 236
+  offset: 0, 0
+  index: -1
+images/hgg3
+  rotate: false
+  xy: 0, 211
+  size: 488, 277
+  orig: 488, 277
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 964, 446
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

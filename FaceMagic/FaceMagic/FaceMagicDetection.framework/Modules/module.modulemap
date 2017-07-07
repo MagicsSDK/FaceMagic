@@ -1,0 +1,6 @@
+framework module FaceMagicDetection {
+  umbrella header "FaceMagicDetection.h"
+
+  export *
+  module * { export * }
+}

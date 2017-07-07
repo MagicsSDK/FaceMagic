@@ -1,0 +1,116 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "130",
+            "intensity": "0.18",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "resourcePath": "/Users/yuanjiachen/MagicAssistantOutput/animations/qipao",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.04",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.18",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "resourcePath": "/Users/yuanjiachen/MagicAssistantOutput/animations/qipao",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.14",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim",
+            "personid": "0",
+            "resourcePath": "/Users/yuanjiachen/MagicAssistantOutput/animations/qipao",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "fps": "18",
+            "id": "screen0",
+            "plist":["qipao1","qipao2"],
+            "images": [
+                "qipao10_00000.png",
+                "qipao10_00001.png",
+                "qipao10_00002.png",
+                "qipao10_00003.png",
+                "qipao10_00004.png",
+                "qipao10_00005.png",
+                "qipao10_00006.png",
+                "qipao10_00007.png",
+                "qipao10_00008.png",
+                "qipao10_00009.png",
+                "qipao10_00010.png",
+                "qipao10_00011.png",
+                "qipao10_00012.png",
+                "qipao10_00013.png",
+                "qipao10_00014.png",
+                "qipao10_00015.png",
+                "qipao10_00016.png",
+                "qipao10_00017.png",
+                "qipao10_00018.png",
+                "qipao10_00019.png",
+                "qipao10_00020.png",
+                "qipao10_00021.png",
+                "qipao10_00022.png",
+                "qipao10_00023.png",
+                "qipao10_00024.png",
+                "qipao10_00025.png",
+                "qipao10_00026.png",
+                "qipao10_00027.png",
+                "qipao10_00028.png",
+                "qipao10_00029.png",
+                "qipao10_00030.png",
+                "qipao10_00031.png",
+                "qipao10_00032.png",
+                "qipao10_00033.png",
+                "qipao10_00034.png",
+                "qipao10_00035.png",
+                "qipao10_00036.png",
+                "qipao10_00037.png",
+                "qipao10_00038.png",
+                "qipao10_00039.png",
+                "qipao10_00040.png",
+                "qipao10_00041.png"
+            ],
+            "loop": "1",
+            "mode": "fullscreen",
+            "name": "screen0",
+            "path_sequence_img": "/Users/yuanjiachen/Downloads/第二期/2017/气泡/序列/qipao10/qipao10_00000.png",
+            "resourcePath": "/Users/yuanjiachen/Downloads/第二期/2017/气泡/序列/qipao10",
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

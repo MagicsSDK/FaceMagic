@@ -1,0 +1,55 @@
+
+f_shengdanjie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+christmas_dd_0024_nose
+  rotate: true
+  xy: 372, 0
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+christmas_dd_0025_ling
+  rotate: true
+  xy: 475, 5
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+christmas_dd_0026_scarf
+  rotate: false
+  xy: 0, 4
+  size: 370, 99
+  orig: 370, 99
+  offset: 0, 0
+  index: -1
+christmas_dd_0027_jiao_0000_图层-1
+  rotate: false
+  xy: 0, 105
+  size: 332, 403
+  orig: 332, 403
+  offset: 0, 0
+  index: -1
+christmas_dd_0027_jiao_0001_图层-0
+  rotate: false
+  xy: 334, 106
+  size: 332, 402
+  orig: 332, 402
+  offset: 0, 0
+  index: -1
+christmas_dd_0028_r_ear
+  rotate: false
+  xy: 668, 330
+  size: 256, 178
+  orig: 256, 178
+  offset: 0, 0
+  index: -1
+christmas_dd_0029_l_ear
+  rotate: true
+  xy: 668, 73
+  size: 255, 178
+  orig: 255, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "huabanyu_00000.png",
+	"frame": {"x":2,"y":1284,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00001.png",
+	"frame": {"x":2168,"y":2,"w":720,"h":1222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1222},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00002.png",
+	"frame": {"x":1446,"y":2,"w":720,"h":1250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1250},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00003.png",
+	"frame": {"x":724,"y":1282,"w":710,"h":1278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":1278},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00004.png",
+	"frame": {"x":724,"y":2562,"w":718,"h":1262},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":718,"h":1262},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00005.png",
+	"frame": {"x":2,"y":2,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00006.png",
+	"frame": {"x":2158,"y":1254,"w":720,"h":1242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1242},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00007.png",
+	"frame": {"x":724,"y":2,"w":720,"h":1278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1278},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00008.png",
+	"frame": {"x":2880,"y":1226,"w":720,"h":1160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":35,"w":720,"h":1160},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00009.png",
+	"frame": {"x":2166,"y":2498,"w":720,"h":1160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":720,"h":1160},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00010.png",
+	"frame": {"x":1436,"y":1282,"w":720,"h":1250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1250},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00011.png",
+	"frame": {"x":2,"y":2566,"w":720,"h":1278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1278},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "huabanyu_00012.png",
+	"frame": {"x":1444,"y":2534,"w":720,"h":1242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1242},
+	"sourceSize": {"w":720,"h":1280}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "pinmu.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ff29e320366bfc8df517b646902b46f:1/1$"
+}
+}

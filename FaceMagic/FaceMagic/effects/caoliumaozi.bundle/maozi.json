@@ -1,0 +1,260 @@
+{"frames": [
+
+{
+	"filename": "maozi_00.png",
+	"frame": {"x":2,"y":370,"w":556,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":165,"w":556,"h":310},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_01.png",
+	"frame": {"x":560,"y":332,"w":556,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":165,"w":556,"h":310},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_02.png",
+	"frame": {"x":1118,"y":322,"w":556,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":165,"w":556,"h":310},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_03.png",
+	"frame": {"x":1118,"y":2,"w":556,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":157,"w":556,"h":318},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_04.png",
+	"frame": {"x":2,"y":2,"w":556,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":109,"w":556,"h":366},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_05.png",
+	"frame": {"x":560,"y":2,"w":556,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":147,"w":556,"h":328},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_06.png",
+	"frame": {"x":1118,"y":634,"w":484,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":190,"w":484,"h":282},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_07.png",
+	"frame": {"x":1604,"y":634,"w":432,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":188,"y":207,"w":432,"h":268},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_08.png",
+	"frame": {"x":1604,"y":904,"w":422,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":202,"w":422,"h":276},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_09.png",
+	"frame": {"x":1396,"y":1182,"w":416,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":203,"w":416,"h":276},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_10.png",
+	"frame": {"x":2,"y":974,"w":416,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":200,"w":416,"h":280},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_11.png",
+	"frame": {"x":420,"y":938,"w":416,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":199,"w":416,"h":284},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_12.png",
+	"frame": {"x":978,"y":918,"w":416,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":197,"w":416,"h":286},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_13.png",
+	"frame": {"x":2,"y":682,"w":416,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":195,"w":416,"h":290},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_14.png",
+	"frame": {"x":560,"y":644,"w":416,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":194,"w":416,"h":292},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_15.png",
+	"frame": {"x":420,"y":1468,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_16.png",
+	"frame": {"x":838,"y":1206,"w":416,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":224,"w":416,"h":248},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_17.png",
+	"frame": {"x":838,"y":1456,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_18.png",
+	"frame": {"x":420,"y":1224,"w":416,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":230,"w":416,"h":242},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_19.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_20.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_21.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_22.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_23.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_24.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_25.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_26.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_27.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_28.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_29.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "maozi_30.png",
+	"frame": {"x":2,"y":1256,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":232,"w":416,"h":240},
+	"sourceSize": {"w":750,"h":750}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "maozi.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fac4e08cac10db19c0f50643037f36f5:1/1$"
+}
+}

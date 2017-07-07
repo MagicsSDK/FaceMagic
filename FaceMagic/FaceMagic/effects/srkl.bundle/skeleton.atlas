@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaochoulian_0000_youxingxing
+  rotate: false
+  xy: 178, 147
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+xiaochoulian_0001_youxx2
+  rotate: true
+  xy: 2, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+xiaochoulian_0002_zuoxx
+  rotate: false
+  xy: 178, 200
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+xiaochoulian_0003_zuoxx2
+  rotate: false
+  xy: 111, 39
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+xiaochoulian_0004_zuox3
+  rotate: false
+  xy: 225, 238
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+xiaochoulian_0005_zuox4
+  rotate: false
+  xy: 67, 38
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+xiaochoulian_0006_youx3
+  rotate: false
+  xy: 143, 45
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+xiaochoulian_0007_youx4
+  rotate: false
+  xy: 2, 28
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+xiaochoulian_0008_bizi
+  rotate: false
+  xy: 2, 78
+  size: 174, 176
+  orig: 174, 176
+  offset: 0, 0
+  index: -1

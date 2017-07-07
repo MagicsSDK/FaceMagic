@@ -1,0 +1,187 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "morph0",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.14",
+      "adjust4": "0.2"
+    },
+    {
+      "id": "w5",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.03",
+      "y": "0.01",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w6",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.03",
+      "y": "0.05",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1",
+      "name": "w1",
+      "index": "390",
+      "h": [
+        "0.04",
+        "2.29"
+      ],
+      "s": [
+        "1.05",
+        "1.05"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "images": [
+        "jin_00007.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim",
+      "terminatedBy": [
+        {
+          "category": "nod"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "name": "w7",
+      "index": "390",
+      "h": [
+        "0.04",
+        "2.27"
+      ],
+      "s": [
+        "1.05",
+        "1.05"
+      ],
+      "r": "1",
+      "loop": "0",
+      "fps": "30",
+      "personid": "0",
+      "images": [
+        "jinbi_00007.png",
+        "jinbi_00008.png",
+        "jinbi_00009.png",
+        "jinbi_00010.png",
+        "jinbi_00011.png",
+        "jinbi_00012.png",
+        "jinbi_00013.png",
+        "jinbi_00014.png",
+        "jinbi_00015.png",
+        "jinbi_00016.png",
+        "jinbi_00017.png",
+        "jinbi_00018.png",
+        "jinbi_00019.png",
+        "jinbi_00020.png",
+        "jinbi_00021.png",
+        "jinbi_00022.png",
+        "jinbi_00023.png",
+        "jinbi_00024.png",
+        "jinbi_00025.png",
+        "jinbi_00026.png",
+        "jinbi_00027.png",
+        "jinbi_00028.png",
+        "jinbi_00029.png",
+        "jinbi_00030.png",
+        "jinbi_00031.png",
+        "jinbi_00032.png",
+        "jinbi_00033.png",
+        "jinbi_00034.png",
+        "jinbi_00035.png",
+        "jinbi_00036.png",
+        "jinbi_00037.png",
+        "jinbi_00038.png",
+        "jinbi_00039.png",
+        "jinbi_00040.png",
+        "jinbi_00041.png",
+        "jinbi_00042.png",
+        "jinbi_00043.png",
+        "jinbi_00044.png",
+        "jinbi_00045.png",
+        "jinbi_00046.png",
+        "jinbi_00047.png",
+        "jinbi_00048.png",
+        "jinbi_00049.png",
+        "jinbi_00050.png",
+        "jinbi_00051.png",
+        "jinbi_00052.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "nod"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim"
+    },
+    {
+      "id": "w2",
+      "name": "w2",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_190": "190"
+        },
+        "spine_name": "jj"
+      },
+      "triggeredBy": [
+        {
+          "category": "dependency",
+          "dependsOn": "w7",
+          "event": "aniPlay"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

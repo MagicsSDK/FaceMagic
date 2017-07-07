@@ -1,0 +1,272 @@
+
+F_maomao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a_erdui01
+  rotate: false
+  xy: 349, 95
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+images/a_erduo02
+  rotate: true
+  xy: 419, 97
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+images/a_houzhua01
+  rotate: true
+  xy: 66, 48
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+images/a_houzua02
+  rotate: false
+  xy: 67, 16
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+images/a_huzi01
+  rotate: false
+  xy: 416, 77
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/a_huzi02
+  rotate: false
+  xy: 158, 56
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+images/a_lianhong01
+  rotate: false
+  xy: 335, 77
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+images/a_lianhong02
+  rotate: false
+  xy: 46, 0
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+images/a_miyan01
+  rotate: true
+  xy: 146, 56
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+images/a_miyan02
+  rotate: false
+  xy: 17, 0
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+images/a_naodai01
+  rotate: false
+  xy: 158, 71
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+images/a_qianzhua01
+  rotate: false
+  xy: 453, 97
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+images/a_qianzhua02
+  rotate: true
+  xy: 487, 93
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+images/a_shenti
+  rotate: false
+  xy: 66, 74
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+images/a_weiba
+  rotate: true
+  xy: 0, 11
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+images/a_zhangyan02
+  rotate: true
+  xy: 416, 67
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/a_zhangzui
+  rotate: false
+  xy: 177, 58
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+images/a_zhengyan01
+  rotate: false
+  xy: 214, 60
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/a_zuiba
+  rotate: false
+  xy: 0, 0
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+images/b_erduo01
+  rotate: true
+  xy: 383, 97
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+images/b_erduo02
+  rotate: false
+  xy: 383, 67
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+images/b_fenhong01
+  rotate: false
+  xy: 33, 0
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+images/b_fenhong02
+  rotate: false
+  xy: 321, 74
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+images/b_houzhau01
+  rotate: false
+  xy: 321, 86
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+images/b_houzhua02
+  rotate: true
+  xy: 106, 51
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+images/b_huzi01
+  rotate: false
+  xy: 459, 79
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+images/b_huzi02
+  rotate: true
+  xy: 437, 78
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+images/b_miyan01
+  rotate: true
+  xy: 67, 0
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+images/b_miyan02
+  rotate: true
+  xy: 84, 0
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+images/b_naodai
+  rotate: true
+  xy: 226, 66
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+images/b_qianzhua01
+  rotate: false
+  xy: 48, 10
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+images/b_qianzhua02
+  rotate: true
+  xy: 349, 73
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+images/b_shenzi
+  rotate: false
+  xy: 0, 47
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+images/b_weiba
+  rotate: false
+  xy: 291, 74
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+images/b_zhangzui
+  rotate: false
+  xy: 190, 59
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+images/b_zhengyan01
+  rotate: false
+  xy: 427, 66
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+images/b_zhengyan02
+  rotate: false
+  xy: 203, 60
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+images/b_zuiba
+  rotate: true
+  xy: 97, 0
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1

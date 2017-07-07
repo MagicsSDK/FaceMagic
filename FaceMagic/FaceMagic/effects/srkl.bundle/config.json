@@ -1,0 +1,73 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "mask01",
+            "images": [
+                "zhuang.png"
+            ],
+            "mappings": {
+                "zhuang.png": "/Users/wangyukun/Desktop/spine/xiaochoulian/zhuang.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/srkl",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/srkl",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_330": "330",
+                    "bone3_120": "120",
+                    "bone_290": "290"
+                },
+                "spine_name": "skeleton"
+            },
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w2",
+            "loop": "1",
+            "name": "w2",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/srkl",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "root_0": "0"
+                },
+                "spine_name": "g_xiaochou"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "file": "shengrikuaile.mp3",
+            "id": "audio01",
+            "loop": "1",
+            "resourcePath": "/Users/wangyukun/Desktop/spine/sr",
+            "type": "audio"
+        }
+    ],
+    "version": "v3",
+    "timeout": "0.0"
+}

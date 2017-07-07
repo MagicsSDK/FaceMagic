@@ -1,0 +1,75 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1493189838930",
+      "name": "jixue2",
+      "index": "390",
+      "h": [
+        "0.02",
+        "0.36"
+      ],
+      "s": [
+        "2.75",
+        "2.75"
+      ],
+      "r": "1",
+      "loop": "1",
+      "fps": "25",
+      "personid": "0",
+      "plist": [
+        "jixue2"
+      ],
+      "images": [
+        "jixue_00024.png",
+        "jixue_00025.png",
+        "jixue_00026.png",
+        "jixue_00027.png",
+        "jixue_00028.png",
+        "jixue_00029.png",
+        "jixue_00030.png",
+        "jixue_00031.png",
+        "jixue_00032.png",
+        "jixue_00033.png",
+        "jixue_00034.png",
+        "jixue_00035.png",
+        "jixue_00036.png",
+        "jixue_00037.png",
+        "jixue_00038.png",
+        "jixue_00039.png",
+        "jixue_00040.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ],
+      "haveoccasion": "1",
+      "beforeFilter": "false",
+      "subType": "face",
+      "type": "anim",
+      "terminatedBy": [
+        {
+          "category": "mouthclose"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1",
+  "prompt": [
+    {
+      "image": "",
+      "audio": "",
+      "message": "张嘴出鹿角",
+      "action": "any"
+    },
+    {
+      "image": "",
+      "audio": "",
+      "message": "闭嘴鹿角消失",
+      "action": "mouthopen"
+    }
+  ]
+}

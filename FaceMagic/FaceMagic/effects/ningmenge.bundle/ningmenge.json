@@ -1,0 +1,518 @@
+{
+"skeleton": {
+	"hash": "M4w5Av6dGUCLmO3XKDWhbjosY8s",
+	"spine": "3.5.51",
+	"width": 724.44,
+	"height": 1284,
+	"images": "/Users/meelive/Desktop/spine_file/daningmen/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 25.31, "y": 1396.97, "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "daningmen00", "bone": "bone", "attachment": "daningmen00" },
+	{ "name": "daningmen01", "bone": "bone", "attachment": "daningmen01" },
+	{ "name": "daningmen02", "bone": "bone", "attachment": "daningmen02" },
+	{ "name": "daningmen03", "bone": "bone", "attachment": "daningmen03" },
+	{ "name": "daningmen04", "bone": "bone", "attachment": "daningmen04" },
+	{ "name": "daningmen05", "bone": "bone", "attachment": "daningmen05" },
+	{ "name": "daningmen06", "bone": "bone", "attachment": "daningmen06" },
+	{ "name": "daningmen07", "bone": "bone", "attachment": "daningmen07" },
+	{ "name": "daningmen08", "bone": "bone", "attachment": "daningmen08" },
+	{ "name": "daningmen09", "bone": "bone", "attachment": "daningmen09" },
+	{ "name": "daningmen10", "bone": "bone", "attachment": "daningmen10" },
+	{ "name": "daningmen11", "bone": "bone", "attachment": "daningmen11" },
+	{ "name": "daningmen12", "bone": "bone", "attachment": "daningmen12" },
+	{ "name": "daningmen13", "bone": "bone", "attachment": "daningmen13" },
+	{ "name": "daningmen14", "bone": "bone", "attachment": "daningmen14" },
+	{ "name": "daningmen15", "bone": "bone", "attachment": "daningmen15" },
+	{ "name": "daningmen16", "bone": "bone", "attachment": "daningmen16" },
+	{ "name": "daningmen17", "bone": "bone", "attachment": "daningmen17" },
+	{ "name": "daningmen18", "bone": "bone", "attachment": "daningmen18" },
+	{ "name": "daningmen19", "bone": "bone", "attachment": "daningmen19" },
+	{ "name": "daningmen20", "bone": "bone", "attachment": "daningmen20" },
+	{ "name": "daningmen21", "bone": "bone", "attachment": "daningmen21" },
+	{ "name": "daningmen22", "bone": "bone", "attachment": "daningmen22" },
+	{ "name": "daningmen23", "bone": "bone", "attachment": "daningmen23" },
+	{ "name": "daningmen24", "bone": "bone", "attachment": "daningmen24" },
+	{ "name": "daningmen25", "bone": "bone", "attachment": "daningmen25" },
+	{ "name": "daningmen26", "bone": "bone", "attachment": "daningmen26" },
+	{ "name": "daningmen27", "bone": "bone", "attachment": "daningmen27" },
+	{ "name": "daningmen28", "bone": "bone", "attachment": "daningmen28" },
+	{ "name": "daningmen29", "bone": "bone", "attachment": "daningmen29" },
+	{ "name": "daningmen30", "bone": "bone", "attachment": "daningmen30" },
+	{ "name": "daningmen31", "bone": "bone", "attachment": "daningmen31" },
+	{ "name": "daningmen32", "bone": "bone", "attachment": "daningmen32" },
+	{ "name": "daningmen33", "bone": "bone", "attachment": "daningmen33" },
+	{ "name": "daningmen34", "bone": "bone", "attachment": "daningmen34" },
+	{ "name": "daningmen35", "bone": "bone", "attachment": "daningmen35" },
+	{ "name": "daningmen36", "bone": "bone", "attachment": "daningmen36" },
+	{ "name": "daningmen37", "bone": "bone", "attachment": "daningmen37" },
+	{ "name": "daningmen38", "bone": "bone", "attachment": "daningmen38" },
+	{ "name": "daningmen39", "bone": "bone", "attachment": "daningmen39" },
+	{ "name": "daningmen40", "bone": "bone", "attachment": "daningmen40" },
+	{ "name": "daningmen41", "bone": "bone", "attachment": "daningmen41" },
+	{ "name": "daningmen42", "bone": "bone", "attachment": "daningmen42" },
+	{ "name": "daningmen43", "bone": "bone", "attachment": "daningmen43" },
+	{ "name": "daningmen44", "bone": "bone", "attachment": "daningmen44" }
+],
+"skins": {
+	"default": {
+		"daningmen00": {
+			"daningmen00": { "x": -19.04, "y": -390.84, "width": 362, "height": 594 }
+		},
+		"daningmen01": {
+			"daningmen01": { "x": -19.04, "y": -385.84, "width": 362, "height": 602 }
+		},
+		"daningmen02": {
+			"daningmen02": { "x": -15.54, "y": -385.84, "width": 355, "height": 600 }
+		},
+		"daningmen03": {
+			"daningmen03": { "x": -16.04, "y": -385.34, "width": 356, "height": 599 }
+		},
+		"daningmen04": {
+			"daningmen04": { "x": -16.04, "y": -382.84, "width": 356, "height": 604 }
+		},
+		"daningmen05": {
+			"daningmen05": { "x": -15.54, "y": -379.34, "width": 355, "height": 607 }
+		},
+		"daningmen06": {
+			"daningmen06": { "x": -15.54, "y": -375.84, "width": 355, "height": 612 }
+		},
+		"daningmen07": {
+			"daningmen07": { "x": -15.04, "y": -372.84, "width": 354, "height": 616 }
+		},
+		"daningmen08": {
+			"daningmen08": { "x": -14.54, "y": -369.84, "width": 353, "height": 620 }
+		},
+		"daningmen09": {
+			"daningmen09": { "x": -14.04, "y": -368.34, "width": 352, "height": 621 }
+		},
+		"daningmen10": {
+			"daningmen10": { "x": -14.54, "y": -367.84, "width": 353, "height": 620 }
+		},
+		"daningmen11": {
+			"daningmen11": { "x": -15.04, "y": -367.34, "width": 354, "height": 619 }
+		},
+		"daningmen12": {
+			"daningmen12": { "x": -15.54, "y": -366.34, "width": 355, "height": 617 }
+		},
+		"daningmen13": {
+			"daningmen13": { "x": -15.04, "y": -365.84, "width": 354, "height": 616 }
+		},
+		"daningmen14": {
+			"daningmen14": { "x": -14.54, "y": -365.34, "width": 353, "height": 615 }
+		},
+		"daningmen15": {
+			"daningmen15": { "x": -14.54, "y": -364.84, "width": 353, "height": 614 }
+		},
+		"daningmen16": {
+			"daningmen16": { "x": -14.54, "y": -364.34, "width": 353, "height": 613 }
+		},
+		"daningmen17": {
+			"daningmen17": { "x": -15.04, "y": -363.84, "width": 354, "height": 612 }
+		},
+		"daningmen18": {
+			"daningmen18": { "x": -15.54, "y": -363.34, "width": 355, "height": 611 }
+		},
+		"daningmen19": {
+			"daningmen19": { "x": -15.54, "y": -362.84, "width": 355, "height": 610 }
+		},
+		"daningmen20": {
+			"daningmen20": { "x": -14.54, "y": -378.84, "width": 353, "height": 642 }
+		},
+		"daningmen21": {
+			"daningmen21": { "x": -12.54, "y": -387.34, "width": 349, "height": 625 }
+		},
+		"daningmen22": {
+			"daningmen22": { "x": -12.54, "y": -385.84, "width": 349, "height": 624 }
+		},
+		"daningmen23": {
+			"daningmen23": { "x": -12.54, "y": -382.84, "width": 349, "height": 620 }
+		},
+		"daningmen24": {
+			"daningmen24": { "x": -12.54, "y": -380.34, "width": 349, "height": 617 }
+		},
+		"daningmen25": {
+			"daningmen25": { "x": -12.04, "y": -378.34, "width": 348, "height": 615 }
+		},
+		"daningmen26": {
+			"daningmen26": { "x": -12.04, "y": -376.84, "width": 348, "height": 614 }
+		},
+		"daningmen27": {
+			"daningmen27": { "x": -12.04, "y": -376.34, "width": 348, "height": 615 }
+		},
+		"daningmen28": {
+			"daningmen28": { "x": -12.04, "y": -383.84, "width": 348, "height": 632 }
+		},
+		"daningmen29": {
+			"daningmen29": { "x": -13.04, "y": -383.34, "width": 350, "height": 633 }
+		},
+		"daningmen30": {
+			"daningmen30": { "x": -13.04, "y": -382.84, "width": 350, "height": 634 }
+		},
+		"daningmen31": {
+			"daningmen31": { "x": -13.04, "y": -383.84, "width": 350, "height": 632 }
+		},
+		"daningmen32": {
+			"daningmen32": { "x": -13.54, "y": -384.84, "width": 351, "height": 630 }
+		},
+		"daningmen33": {
+			"daningmen33": { "x": -12.54, "y": -385.84, "width": 349, "height": 628 }
+		},
+		"daningmen34": {
+			"daningmen34": { "x": -12.54, "y": -386.84, "width": 349, "height": 626 }
+		},
+		"daningmen35": {
+			"daningmen35": { "x": -13.04, "y": -387.84, "width": 350, "height": 624 }
+		},
+		"daningmen36": {
+			"daningmen36": { "x": -14.04, "y": -388.84, "width": 352, "height": 622 }
+		},
+		"daningmen37": {
+			"daningmen37": { "x": -15.54, "y": -389.84, "width": 355, "height": 620 }
+		},
+		"daningmen38": {
+			"daningmen38": { "x": -17.54, "y": -389.34, "width": 359, "height": 615 }
+		},
+		"daningmen39": {
+			"daningmen39": { "x": -19.04, "y": -388.34, "width": 362, "height": 611 }
+		},
+		"daningmen40": {
+			"daningmen40": { "x": -19.04, "y": -387.84, "width": 362, "height": 606 }
+		},
+		"daningmen41": {
+			"daningmen41": { "x": -19.04, "y": -387.84, "width": 362, "height": 602 }
+		},
+		"daningmen42": {
+			"daningmen42": { "x": -19.04, "y": -388.34, "width": 362, "height": 599 }
+		},
+		"daningmen43": {
+			"daningmen43": { "x": -19.04, "y": -387.84, "width": 362, "height": 596 }
+		},
+		"daningmen44": {
+			"daningmen44": { "x": -19.04, "y": -389.34, "width": 362, "height": 595 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"daningmen00": {
+				"attachment": [
+					{ "time": 0, "name": "daningmen00" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"daningmen01": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0667, "name": "daningmen01" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"daningmen02": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "daningmen02" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"daningmen03": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "daningmen03" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"daningmen04": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2667, "name": "daningmen04" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"daningmen05": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "daningmen05" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"daningmen06": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "daningmen06" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"daningmen07": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4667, "name": "daningmen07" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"daningmen08": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5333, "name": "daningmen08" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"daningmen09": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "daningmen09" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"daningmen10": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "daningmen10" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"daningmen11": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7333, "name": "daningmen11" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"daningmen12": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8, "name": "daningmen12" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"daningmen13": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8667, "name": "daningmen13" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"daningmen14": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9333, "name": "daningmen14" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"daningmen15": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "daningmen15" },
+					{ "time": 1.0667, "name": null }
+				]
+			},
+			"daningmen16": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.0667, "name": "daningmen16" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"daningmen17": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1333, "name": "daningmen17" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"daningmen18": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2, "name": "daningmen18" },
+					{ "time": 1.2667, "name": null }
+				]
+			},
+			"daningmen19": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2667, "name": "daningmen19" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"daningmen20": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.3333, "name": "daningmen20" },
+					{ "time": 1.4, "name": null }
+				]
+			},
+			"daningmen21": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.4, "name": "daningmen21" },
+					{ "time": 1.4667, "name": null }
+				]
+			},
+			"daningmen22": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.4667, "name": "daningmen22" },
+					{ "time": 1.5333, "name": null }
+				]
+			},
+			"daningmen23": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.5333, "name": "daningmen23" },
+					{ "time": 1.6, "name": null }
+				]
+			},
+			"daningmen24": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6, "name": "daningmen24" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"daningmen25": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6667, "name": "daningmen25" },
+					{ "time": 1.7333, "name": null }
+				]
+			},
+			"daningmen26": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.7333, "name": "daningmen26" },
+					{ "time": 1.8, "name": null }
+				]
+			},
+			"daningmen27": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8, "name": "daningmen27" },
+					{ "time": 1.8667, "name": null }
+				]
+			},
+			"daningmen28": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8667, "name": "daningmen28" },
+					{ "time": 1.9333, "name": null }
+				]
+			},
+			"daningmen29": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.9333, "name": "daningmen29" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"daningmen30": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2, "name": "daningmen30" },
+					{ "time": 2.0667, "name": null }
+				]
+			},
+			"daningmen31": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.0667, "name": "daningmen31" },
+					{ "time": 2.1333, "name": null }
+				]
+			},
+			"daningmen32": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.1333, "name": "daningmen32" },
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"daningmen33": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.2, "name": "daningmen33" },
+					{ "time": 2.2667, "name": null }
+				]
+			},
+			"daningmen34": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.2667, "name": "daningmen34" },
+					{ "time": 2.3333, "name": null }
+				]
+			},
+			"daningmen35": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.3333, "name": "daningmen35" },
+					{ "time": 2.4, "name": null }
+				]
+			},
+			"daningmen36": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.4, "name": "daningmen36" },
+					{ "time": 2.4667, "name": null }
+				]
+			},
+			"daningmen37": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.4667, "name": "daningmen37" },
+					{ "time": 2.5333, "name": null }
+				]
+			},
+			"daningmen38": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.5333, "name": "daningmen38" },
+					{ "time": 2.6, "name": null }
+				]
+			},
+			"daningmen39": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6, "name": "daningmen39" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"daningmen40": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": "daningmen40" },
+					{ "time": 2.7333, "name": null }
+				]
+			},
+			"daningmen41": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.7333, "name": "daningmen41" },
+					{ "time": 2.8, "name": null }
+				]
+			},
+			"daningmen42": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.8, "name": "daningmen42" },
+					{ "time": 2.8667, "name": null }
+				]
+			},
+			"daningmen43": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.8667, "name": "daningmen43" },
+					{ "time": 2.9333, "name": null }
+				]
+			},
+			"daningmen44": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.9333, "name": "daningmen44" }
+				]
+			}
+		}
+	}
+}
+}

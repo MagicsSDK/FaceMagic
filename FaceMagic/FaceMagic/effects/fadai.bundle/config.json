@@ -1,0 +1,119 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.14",
+            "adjust2": "0.14",
+            "adjust3": "0.1",
+            "adjust4": "0.14",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/fadai",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "130",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/fadai",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": -1,
+            "y": "0.01",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/fadai",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 1,
+            "y": "0.05",
+            "yType": 1
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/fadai",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone_390": "390"
+                },
+                "spine_name": "outputfadai"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w5",
+            "loop": "1",
+            "name": "w5",
+            "personid": "0",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170322/aixin",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone_330": "330"
+                },
+                "spine_name": "AIXIN"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "eyeblink"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "saihong4.png"
+            ],
+            "mappings": {
+                "saihong4.png": "/Users/a111/Desktop/动画特效/20170322/saihong4.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/a111/Desktop/动画特效/20170322",
+            "subType": "static",
+            "type": "mask"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

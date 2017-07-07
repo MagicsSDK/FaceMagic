@@ -1,0 +1,125 @@
+
+outputdayan2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b1
+  rotate: true
+  xy: 646, 370
+  size: 73, 170
+  orig: 73, 170
+  offset: 0, 0
+  index: -1
+images/b2
+  rotate: true
+  xy: 412, 217
+  size: 72, 165
+  orig: 72, 165
+  offset: 0, 0
+  index: -1
+images/h
+  rotate: false
+  xy: 575, 20
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+images/inke
+  rotate: false
+  xy: 0, 35
+  size: 266, 183
+  orig: 266, 183
+  offset: 0, 0
+  index: -1
+images/mmy
+  rotate: false
+  xy: 412, 291
+  size: 195, 65
+  orig: 195, 65
+  offset: 0, 0
+  index: -1
+images/mmz
+  rotate: false
+  xy: 646, 445
+  size: 195, 65
+  orig: 195, 65
+  offset: 0, 0
+  index: -1
+images/wo
+  rotate: true
+  xy: 268, 66
+  size: 152, 123
+  orig: 152, 123
+  offset: 0, 0
+  index: -1
+images/wow
+  rotate: false
+  xy: 0, 220
+  size: 410, 290
+  orig: 410, 290
+  offset: 0, 0
+  index: -1
+images/xx1
+  rotate: false
+  xy: 609, 303
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+images/xx2
+  rotate: false
+  xy: 930, 433
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+images/xx3
+  rotate: false
+  xy: 660, 322
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+images/yj
+  rotate: false
+  xy: 412, 358
+  size: 232, 152
+  orig: 232, 152
+  offset: 0, 0
+  index: -1
+images/yz
+  rotate: false
+  xy: 393, 107
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+images/zs1
+  rotate: false
+  xy: 503, 107
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+images/zs2
+  rotate: false
+  xy: 393, 0
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+images/zs3
+  rotate: true
+  xy: 843, 428
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+images/zs4
+  rotate: false
+  xy: 496, 8
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1

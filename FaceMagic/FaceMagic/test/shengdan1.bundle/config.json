@@ -1,0 +1,112 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "timeout":"5",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "g_shengdanjie"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone3_190": "190",
+                    "bone3_210": "210",
+                    "bone4_380": "380",
+                    "christmas_dd_0024_nose_290": "290"
+                },
+                "spine_name": "f_shengdanjie"
+            },
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "shengdanjkuaile.png"
+            ],
+            "mappings": {
+                "shengdanjkuaile.png": "/Users/wangyukun/MagicAssistantOutput/animations/sendan/shengdanjkuaile.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.30",
+            "radius_y": "0.30",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.09",
+            "xType": -1,
+            "y": "-0.00",
+            "yType": 1
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.3",
+            "radius_y": "0.3",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0",
+            "xType": 1,
+            "y": "0",
+            "yType": 1
+        },
+        {
+            "adjust": "0.23",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/OK/shengdan",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "version": "v3"
+}

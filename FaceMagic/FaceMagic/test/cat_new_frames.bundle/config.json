@@ -1,0 +1,376 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "fps": "18",
+            "h": [
+                0.06,
+                -0.11
+            ],
+            "haveoccasion": "1",
+            "id": "w0",
+            "plist":["cat_erduo0_14",
+                     "cat_erduo15_30"],
+            "images": [
+                "erduo1_00000.png",
+                "erduo1_00001.png",
+                "erduo1_00002.png",
+                "erduo1_00003.png",
+                "erduo1_00004.png",
+                "erduo1_00005.png",
+                "erduo1_00006.png",
+                "erduo1_00007.png",
+                "erduo1_00008.png",
+                "erduo1_00009.png",
+                "erduo1_00010.png",
+                "erduo1_00011.png",
+                "erduo1_00012.png",
+                "erduo1_00013.png",
+                "erduo1_00014.png",
+                "erduo1_00015.png",
+                "erduo1_00016.png",
+                "erduo1_00017.png",
+                "erduo1_00018.png",
+                "erduo1_00019.png",
+                "erduo1_00020.png",
+                "erduo1_00021.png",
+                "erduo1_00022.png",
+                "erduo1_00023.png",
+                "erduo1_00024.png",
+                "erduo1_00025.png",
+                "erduo1_00026.png",
+                "erduo1_00027.png",
+                "erduo1_00028.png",
+                "erduo1_00029.png",
+                "erduo1_00030.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w0",
+            "r": "1",
+            "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+            "s": [
+                2.83,
+                2.83
+            ],
+            "selected_image": "erduo1_00001.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "18",
+            "h": [
+                0.05,
+                -0.14
+            ],
+            "haveoccasion": "1",
+            "id": "w1",
+            "plist":["cat_yanjing"],
+            "images": [
+                "yanjing1_00000.png",
+                "yanjing1_00001.png",
+                "yanjing1_00002.png",
+                "yanjing1_00003.png",
+                "yanjing1_00004.png",
+                "yanjing1_00005.png",
+                "yanjing1_00006.png",
+                "yanjing1_00007.png",
+                "yanjing1_00008.png",
+                "yanjing1_00009.png",
+                "yanjing1_00010.png",
+                "yanjing1_00011.png",
+                "yanjing1_00012.png",
+                "yanjing1_00013.png",
+                "yanjing1_00014.png",
+                "yanjing1_00015.png",
+                "yanjing1_00016.png",
+                "yanjing1_00017.png",
+                "yanjing1_00018.png",
+                "yanjing1_00019.png",
+                "yanjing1_00020.png",
+                "yanjing1_00021.png",
+                "yanjing1_00022.png",
+                "yanjing1_00023.png",
+                "yanjing1_00024.png",
+                "yanjing1_00025.png",
+                "yanjing1_00026.png",
+                "yanjing1_00027.png",
+                "yanjing1_00028.png",
+                "yanjing1_00029.png",
+                "yanjing1_00030.png",
+                "yanjing1_00031.png",
+                "yanjing1_00032.png",
+                "yanjing1_00033.png",
+                "yanjing1_00034.png",
+                "yanjing1_00035.png",
+                "yanjing1_00036.png",
+                "yanjing1_00037.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w1",
+            "r": "1",
+            "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+            "s": [
+                2.99,
+                3
+            ],
+            "selected_image": "yanjing1_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "18",
+            "h": [
+                0.03,
+                0.09
+            ],
+            "haveoccasion": "1",
+            "id": "w2",
+            "plist":["cat_bizi"],
+            "images": [
+                "bizi1_00000.png",
+                "bizi1_00001.png",
+                "bizi1_00002.png",
+                "bizi1_00003.png",
+                "bizi1_00004.png",
+                "bizi1_00005.png",
+                "bizi1_00006.png",
+                "bizi1_00007.png",
+                "bizi1_00008.png",
+                "bizi1_00009.png"
+            ],
+            "index": "290",
+            "loop": "1",
+            "name": "w2",
+            "r": "1",
+            "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+            "s": [
+                3.92,
+                3.93
+            ],
+            "selected_image": "bizi1_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "18",
+            "h": [
+                0.06,
+                0.07
+            ],
+            "haveoccasion": "1",
+            "id": "w3",
+            "plist":["cat_huxu"],
+            "images": [
+                "huxu1_00000.png",
+                "huxu1_00001.png",
+                "huxu1_00002.png",
+                "huxu1_00003.png",
+                "huxu1_00004.png",
+                "huxu1_00005.png",
+                "huxu1_00006.png",
+                "huxu1_00007.png",
+                "huxu1_00008.png",
+                "huxu1_00009.png",
+                "huxu1_00010.png",
+                "huxu1_00011.png",
+                "huxu1_00012.png",
+                "huxu1_00013.png",
+                "huxu1_00014.png",
+                "huxu1_00015.png",
+                "huxu1_00016.png",
+                "huxu1_00017.png",
+                "huxu1_00018.png",
+                "huxu1_00019.png",
+                "huxu1_00020.png",
+                "huxu1_00021.png",
+                "huxu1_00022.png"
+            ],
+            "index": "290",
+            "loop": "1",
+            "name": "w3",
+            "r": "1",
+            "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+            "s": [
+                2.97,
+                2.98
+            ],
+            "selected_image": "huxu1_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "shaihong.png"
+            ],
+            "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+            "type": "mask"
+        },
+        
+        {
+              "id": "w5",
+              "index": "130",
+              "intensity": "0.3",
+              "radius_x": "0.34",
+              "radius_y": "0.34",
+              "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+              "type": "distortion",
+              "x": "0.06",
+              "y": "-0.01"
+        },
+        {
+              "id": "w6",
+              "index": "320",
+              "intensity": "0.3",
+              "radius_x": "0.31",
+              "radius_y": "0.32",
+              "root_path": "/Users/meelive/MagicAssistantOutput/bundles/cat_new",
+              "type": "distortion",
+              "x": "0.03",
+              "y": "0.01"
+        },
+       {
+            "fps": "18",
+            "h": [
+                0.09,
+                -0.32
+            ],
+            "haveoccasion": "1",
+            "id": "w7",
+            "plist":["cat_zhuazi"],
+            "images": [
+                "zhuazi 1_00000.png",
+                "zhuazi 1_00001.png",
+                "zhuazi 1_00002.png",
+                "zhuazi 1_00003.png",
+                "zhuazi 1_00004.png",
+                "zhuazi 1_00005.png",
+                "zhuazi 1_00006.png",
+                "zhuazi 1_00007.png",
+                "zhuazi 1_00008.png",
+                "zhuazi 1_00009.png",
+                "zhuazi 1_00010.png",
+                "zhuazi 1_00011.png",
+                "zhuazi 1_00012.png",
+                "zhuazi 1_00013.png",
+                "zhuazi 1_00014.png",
+                "zhuazi 1_00015.png",
+                "zhuazi 1_00016.png",
+                "zhuazi 1_00017.png",
+                "zhuazi 1_00018.png",
+                "zhuazi 1_00019.png",
+                "zhuazi 1_00020.png",
+                "zhuazi 1_00021.png",
+                "zhuazi 1_00022.png",
+                "zhuazi 1_00023.png",
+                "zhuazi 1_00024.png",
+                "zhuazi 1_00025.png",
+                "zhuazi 1_00026.png",
+                "zhuazi 1_00027.png",
+                "zhuazi 1_00028.png",
+                "zhuazi 1_00029.png",
+                "zhuazi 1_00030.png",
+                "zhuazi 1_00031.png",
+                "zhuazi 1_00032.png",
+                "zhuazi 1_00033.png",
+                "zhuazi 1_00034.png",
+                "zhuazi 1_00035.png"
+            ],
+            "index": "0",
+            "loop": "1",
+            "name": "w7",
+            "r": "1",
+            "root_path": "/Users/meelive/Desktop/cat360/zhuazi360",
+            "s": [
+                3.03,
+                3.03
+            ],
+            "selected_image": "zhuazi%201_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "18",
+            "id": "screen0",
+            "plist":["cat_yugan"],
+            "images": [
+                "yugan 1_00000.png",
+                "yugan 1_00001.png",
+                "yugan 1_00002.png",
+                "yugan 1_00003.png",
+                "yugan 1_00004.png",
+                "yugan 1_00005.png",
+                "yugan 1_00006.png",
+                "yugan 1_00007.png",
+                "yugan 1_00008.png",
+                "yugan 1_00009.png",
+                "yugan 1_00010.png",
+                "yugan 1_00011.png",
+                "yugan 1_00012.png",
+                "yugan 1_00013.png",
+                "yugan 1_00014.png",
+                "yugan 1_00015.png",
+                "yugan 1_00016.png",
+                "yugan 1_00017.png",
+                "yugan 1_00018.png",
+                "yugan 1_00019.png",
+                "yugan 1_00020.png",
+                "yugan 1_00021.png",
+                "yugan 1_00022.png",
+                "yugan 1_00023.png",
+                "yugan 1_00024.png",
+                "yugan 1_00025.png",
+                "yugan 1_00026.png",
+                "yugan 1_00027.png",
+                "yugan 1_00028.png",
+                "yugan 1_00029.png",
+                "yugan 1_00030.png",
+                "yugan 1_00031.png",
+                "yugan 1_00032.png",
+                "yugan 1_00033.png",
+                "yugan 1_00034.png",
+                "yugan 1_00035.png"
+            ],
+            "loop": "1",
+            "mode": "fullscreen",
+            "path_sequence_img": "/Users/meelive/Desktop/cat360/yugan360/yugan%201_00000.png",
+            "root_path": "/Users/meelive/Desktop/cat360/yugan360",
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "version": "v2"
+}

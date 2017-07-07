@@ -1,0 +1,40 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1491038290963",
+      "name": "f_shousi",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation":"animation",
+        "boneMap": {
+          "bone_190": "190",
+          "bone2_380": "380",
+          "bone6_40": "40"
+        },
+        "spine_name": "f_shousi"
+      },
+      "triggeredBy": [
+        {
+          "category": "any",
+          
+        }
+      ],
+      "reactEvents":[
+        {
+           "event":"touchBegin",
+           "loop":"0",
+           "animation":"suibian"
+        }
+       ],
+      "reactState":"2",
+      "subType": "face",
+      "type": "anim"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

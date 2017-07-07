@@ -1,0 +1,218 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "beforeFilter": "false",
+            "fps": "25",
+            "h": [
+                0.01,
+                0.44
+            ],
+            "haveoccasion": "1",
+            "id": "w0",
+            "plist": ["touhuan"],
+            "images": [
+                "huahuan_00000.png",
+                "huahuan_00001.png",
+                "huahuan_00002.png",
+                "huahuan_00003.png",
+                "huahuan_00004.png",
+                "huahuan_00005.png",
+                "huahuan_00006.png",
+                "huahuan_00007.png",
+                "huahuan_00008.png",
+                "huahuan_00009.png",
+                "huahuan_00010.png",
+                "huahuan_00011.png",
+                "huahuan_00012.png",
+                "huahuan_00013.png",
+                "huahuan_00014.png",
+                "huahuan_00015.png",
+                "huahuan_00016.png",
+                "huahuan_00017.png",
+                "huahuan_00018.png",
+                "huahuan_00019.png",
+                "huahuan_00020.png",
+                "huahuan_00021.png",
+                "huahuan_00022.png",
+                "huahuan_00023.png",
+                "huahuan_00024.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "r": "1",
+            "resourcePath": "/Users/meelive/Desktop/chuntianmiansh/huahuan",
+            "resourceType": "sequence",
+            "s": [
+                5.65,
+                5.67
+            ],
+            "selected_image": "huahuan_00001.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "beforeFilter": "false",
+            "fps": "25",
+            "h": [
+                0.12,
+                -0.1
+            ],
+            "haveoccasion": "1",
+            "id": "w1",
+            "plist": ["miansha"],
+            "images": [
+                "miansha_00000.png",
+                "miansha_00001.png",
+                "miansha_00002.png",
+                "miansha_00003.png",
+                "miansha_00004.png",
+                "miansha_00005.png",
+                "miansha_00006.png",
+                "miansha_00007.png",
+                "miansha_00008.png",
+                "miansha_00009.png",
+                "miansha_00010.png",
+                "miansha_00011.png",
+                "miansha_00012.png",
+                "miansha_00013.png",
+                "miansha_00014.png",
+                "miansha_00015.png",
+                "miansha_00016.png",
+                "miansha_00017.png",
+                "miansha_00018.png",
+                "miansha_00019.png",
+                "miansha_00020.png",
+                "miansha_00021.png",
+                "miansha_00022.png",
+                "miansha_00023.png",
+                "miansha_00024.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "r": "1",
+            "resourcePath": "/Users/meelive/Desktop/chuntianmiansh/miansha",
+            "resourceType": "sequence",
+            "s": [
+                3.32,
+                3.34
+            ],
+            "selected_image": "miansha_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "25",
+            "id": "mask0",
+            "images": [
+                "saihong4.png"
+            ],
+            "loop": "1",
+            "name": "mask0",
+            "resourcePath": "/Users/meelive/Desktop/chuntianmiansh/mask",
+            "subType": "static",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "mask"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.15",
+            "adjust2": "0.34",
+            "adjust3": "0.1",
+            "adjust4": "0.2",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "fps": "25",
+            "id": "screen0",
+            "plist": ["pinmu"],
+            "images": [
+                "huabanyu_00000.png",
+                "huabanyu_00001.png",
+                "huabanyu_00002.png",
+                "huabanyu_00003.png",
+                "huabanyu_00004.png",
+                "huabanyu_00005.png",
+                "huabanyu_00006.png",
+                "huabanyu_00007.png",
+                "huabanyu_00008.png",
+                "huabanyu_00009.png",
+                "huabanyu_00010.png",
+                "huabanyu_00011.png",
+                "huabanyu_00012.png"
+            ],
+            "loop": "1",
+            "mode": "fullscreen",
+            "name": "screen0",
+            "path_sequence_img": "/Users/meelive/Desktop/chuntianmiansh/huabanyu02/huabanyu_00000.png",
+            "resourcePath": "/Users/meelive/Desktop/chuntianmiansh/huabanyu02",
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

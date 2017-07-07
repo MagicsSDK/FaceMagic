@@ -1,0 +1,53 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "0",
+            "name": "w0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "hjian"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim",
+             "texHead":[
+                        {
+                            "id": "test1",
+                            "frame":{
+                                "w":"150",
+                                "h":"150"
+                            },
+                            "spineName": "hjian",
+                            "boneName": "boneA",
+                            "frameName": "frame",
+                            "mask": "mask"
+                        },
+                        {
+                            "id": "test2",
+                            "frame":{
+                                "w":"150",
+                                "h":"150"
+                            },
+                            "spineName": "hjian",
+                            "boneName": "boneB",
+                            "frameName": "frame",
+                            "mask": "mask"
+                        }
+            ]
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

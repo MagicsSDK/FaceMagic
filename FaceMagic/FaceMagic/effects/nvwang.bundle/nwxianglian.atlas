@@ -1,0 +1,41 @@
+
+nwxianglian.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xl
+  rotate: false
+  xy: 855, 90
+  size: 357, 332
+  orig: 357, 332
+  offset: 0, 0
+  index: -1
+images/xlg
+  rotate: false
+  xy: 1214, 141
+  size: 314, 281
+  orig: 314, 281
+  offset: 0, 0
+  index: -1
+images/xlg2
+  rotate: false
+  xy: 451, 51
+  size: 402, 371
+  orig: 402, 371
+  offset: 0, 0
+  index: -1
+images/xlg3
+  rotate: false
+  xy: 0, 44
+  size: 449, 378
+  orig: 449, 378
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 0, 0
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

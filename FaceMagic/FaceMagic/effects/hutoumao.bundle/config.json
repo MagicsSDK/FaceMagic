@@ -1,0 +1,96 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/hutoumao",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w0",
+            "index": "130",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/hutoumao",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.25",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/hutoumao",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "saihong5.png"
+            ],
+            "loop": "1",
+            "mappings": {
+                "saihong5.png": "/Users/a111/Desktop/动画特效/20170110/saihong5.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/hutoumao",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "id": "w2",
+            "loop": "1",
+            "name": "w2",
+            "personid": "0",
+            "resourcePath": "/Users/a111/MagicAssistantOutput/animations/hutoumao",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone5_180": "180"
+                },
+                "spine_name": "output毛茸茸头套2"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

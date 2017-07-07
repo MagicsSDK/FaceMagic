@@ -1,0 +1,104 @@
+
+xiaoemo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chazi
+  rotate: false
+  xy: 1456, 936
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+emocibang
+  rotate: false
+  xy: 168, 110
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+emojiao
+  rotate: false
+  xy: 0, 164
+  size: 606, 131
+  orig: 606, 131
+  offset: 0, 0
+  index: -1
+emoyanjing
+  rotate: false
+  xy: 771, 250
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 0, 0
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 1282, 857
+  size: 172, 160
+  orig: 172, 160
+  offset: 0, 0
+  index: -1
+neiku
+  rotate: false
+  xy: 1282, 670
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+sandian
+  rotate: false
+  xy: 1282, 725
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+sandiantou
+  rotate: true
+  xy: 0, 297
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 608, 192
+  size: 161, 103
+  orig: 161, 103
+  offset: 0, 0
+  index: -1
+yaci
+  rotate: false
+  xy: 1541, 1008
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1405, 794
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 608, 175
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 1456, 897
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "miansha_00000.png",
+	"frame": {"x":1218,"y":1528,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00001.png",
+	"frame": {"x":1626,"y":1526,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00002.png",
+	"frame": {"x":1222,"y":1148,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00003.png",
+	"frame": {"x":1626,"y":1146,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00004.png",
+	"frame": {"x":1222,"y":386,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00005.png",
+	"frame": {"x":818,"y":768,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00006.png",
+	"frame": {"x":818,"y":386,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00007.png",
+	"frame": {"x":814,"y":1532,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00008.png",
+	"frame": {"x":814,"y":1150,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":382,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00009.png",
+	"frame": {"x":2,"y":1154,"w":406,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":381,"w":406,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00010.png",
+	"frame": {"x":2,"y":770,"w":410,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":410,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00011.png",
+	"frame": {"x":1254,"y":2,"w":414,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":414,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00012.png",
+	"frame": {"x":2,"y":2,"w":418,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":418,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00013.png",
+	"frame": {"x":838,"y":2,"w":414,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":382,"w":414,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00014.png",
+	"frame": {"x":422,"y":2,"w":414,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":414,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00015.png",
+	"frame": {"x":2,"y":386,"w":410,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":410,"h":382},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00016.png",
+	"frame": {"x":2,"y":1538,"w":406,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":406,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00017.png",
+	"frame": {"x":414,"y":768,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00018.png",
+	"frame": {"x":414,"y":386,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00019.png",
+	"frame": {"x":410,"y":1536,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00020.png",
+	"frame": {"x":410,"y":1154,"w":402,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":380},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00021.png",
+	"frame": {"x":1222,"y":768,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00022.png",
+	"frame": {"x":1626,"y":766,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00023.png",
+	"frame": {"x":1626,"y":386,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":382,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+},
+{
+	"filename": "miansha_00024.png",
+	"frame": {"x":1218,"y":1528,"w":402,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":381,"w":402,"h":378},
+	"sourceSize": {"w":600,"h":800}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "miansha.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d6c02c21ef5f8aada6f56d4deea7389a:1/1$"
+}
+}
