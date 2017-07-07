@@ -24,7 +24,7 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ## FaceMagic SDK 快速入门
 
 ### `第一步` 将下载的SDK解压后导入到您的工程中，见下图
- ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.jpg)
+ ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.png)
 
 ### `第二步` 配置工程属性
 
@@ -32,8 +32,81 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕2.png)
 
 `2.2` 导入资源文件 track_data.data/res.bundle 
+
 ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕3.png)
 ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕4.png)
 
 `2.3` SDK不支持bitcode
+
 向Build Settings → Linking → Enable Bitcode中设置NO。
+
+##
+
+`#import<MKEngine/FaceManager.h>
+#import<FaceMagicDetection/MagicDetection.h>
+@property(nonatomic, assign) MagicDetection *detection;`
+
+## 初始化人脸识别引擎 FaceMagicDetection
+
+`_detection=[[Detectionalloc]initWithDetectionType:MagicDetectionType];(识别库类型设置)`
+
+## 初始化渲染引擎 FaceManager
+
+`float scale = [UIScreen mainScreen].scale;
+mfm2 = [FM2 new];
+[mfm2 fm2Init:NULL Version:2];
+[mfm2 startEngine:fm2DETECTTYPE];(识别库类型设置)
+[mfm2 createScene:@"fm2" Width:[UIScreen mainScreen].bounds.size.width*scale Height:[UIScreen mainScreen].bounds.size.height*scale];
+[mfm2 setInputFormat:fm2PixelFormatYUV420V Width:videoWidth Height:videoHeight Angle:videoAngle Name:@"fm2"];
+[mfm2 setOutputFormat:fm2PixelFormatYUV420V Name:@"fm2"];`
+
+## 传入相机数据流
+
+`CVImageBufferRef imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer);
+ GASYUVFrame yuvFrame;
+ if(CVPixelBufferLockBaseAddress(imageBuffer, 0) == kCVReturnSuccess)
+ {
+     GASYUVFrame yuvFrame;
+     size_t width = CVPixelBufferGetWidth(imageBuffer);
+     size_t height = CVPixelBufferGetHeight(imageBuffer);
+     if (!isYUVFormat) {
+         UInt8 *bufferPtr = (UInt8*)CVPixelBufferGetBaseAddress(imageBuffer);
+         yuvFrame.plane[0] = bufferPtr;
+         yuvFrame.width = (int32_t)width;
+         yuvFrame.height = (int32_t)height;
+         yuvFrame.format = FMPixelFormatBGRA;
+     }else {
+         UInt8 *bufferPtr = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,0);
+         UInt8 *bufferPtr1 = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,1);
+         yuvFrame.plane[0] = bufferPtr;
+         yuvFrame.plane[1] = bufferPtr1;
+         yuvFrame.width = (int32_t)width;
+         yuvFrame.height = (int32_t)height;
+         yuvFrame.format = FMPixelFormatYUV420V;
+     }
+     FMDRESULT detectResult = [mDetection processImageFrame:&yuvFrame];
+     //推送识别结果
+     [mfm2 pushDetectDataAS:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
+     //推送相机图片
+     [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
+     //
+     [self.cameraVideoView display];
+     CVPixelBufferUnlockBaseAddress(imageBuffer, 0);
+  }`
+  
+  ## 设置特效
+  
+  path 的值是特效的本地地址
+  
+  `[[FaceManager sharedInstance] setEffect:path error:nil];`
+  
+  ## 停止/销毁识别库和引擎
+  
+  `
+ ## 停止/销毁识别库和引擎mDetection.canDetect=false;
+[mDetection destory];
+if(mfm2){
+[mfm2 fm2Destroy];
+}`
+  ## 停止/销毁识别库和引擎
+  
