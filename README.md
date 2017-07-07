@@ -63,35 +63,63 @@ mfm2 = [FM2 new];
 ## 传入相机数据流
 
 `CVImageBufferRef imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer);
+
  GASYUVFrame yuvFrame;
+ 
  if(CVPixelBufferLockBaseAddress(imageBuffer, 0) == kCVReturnSuccess)
+ 
  {
+ 
      GASYUVFrame yuvFrame;
+     
      size_t width = CVPixelBufferGetWidth(imageBuffer);
+     
      size_t height = CVPixelBufferGetHeight(imageBuffer);
+     
      if (!isYUVFormat) {
+     
          UInt8 *bufferPtr = (UInt8*)CVPixelBufferGetBaseAddress(imageBuffer);
+         
          yuvFrame.plane[0] = bufferPtr;
+         
          yuvFrame.width = (int32_t)width;
+         
          yuvFrame.height = (int32_t)height;
+         
          yuvFrame.format = FMPixelFormatBGRA;
+         
      }else {
+     
          UInt8 *bufferPtr = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,0);
+         
          UInt8 *bufferPtr1 = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,1);
+         
          yuvFrame.plane[0] = bufferPtr;
+         
          yuvFrame.plane[1] = bufferPtr1;
+         
          yuvFrame.width = (int32_t)width;
+         
          yuvFrame.height = (int32_t)height;
+         
          yuvFrame.format = FMPixelFormatYUV420V;
+         
      }
+     
      FMDRESULT detectResult = [mDetection processImageFrame:&yuvFrame];
+     
      //推送识别结果
+     
      [mfm2 pushDetectDataAS:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
+     
      //推送相机图片
+     
      [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
-     //
+     
      [self.cameraVideoView display];
+     
      CVPixelBufferUnlockBaseAddress(imageBuffer, 0);
+     
   }`
   
   ## 设置特效
@@ -103,10 +131,15 @@ mfm2 = [FM2 new];
   ## 停止/销毁识别库和引擎
   
   `
- ## 停止/销毁识别库和引擎mDetection.canDetect=false;
+ ## 停止/销毁识别库和引擎
+ 
+ mDetection.canDetect=false;
+ 
 [mDetection destory];
+
 if(mfm2){
+
 [mfm2 fm2Destroy];
+
 }`
-  ## 停止/销毁识别库和引擎
   
