@@ -24,3 +24,16 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ## FaceMagic SDK 快速入门
 
 ### `第一步` 将下载的SDK解压后导入到您的工程中，见下图
+ ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.png)
+
+### `第二步` 配置工程属性
+
+#### `2.1` 向Build Phases → Link Binary With Libraries 中添加依赖库，见下图(注意FaceMagicDetection.framework需放在最后)
+![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕2.png)
+
+`2.2` 导入资源文件 track_data.data/res.bundle 
+![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕3.png)
+![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/屏幕4.png)
+
+`2.3` SDK不支持bitcode
+向Build Settings → Linking → Enable Bitcode中设置NO。
