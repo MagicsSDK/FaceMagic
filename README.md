@@ -24,4 +24,5 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 ## FaceMagic SDK 快速入门
 
 ### `第一步` 将下载的SDK解压后导入到您的工程中，见下图
- ![image](https://github.com/FaceMagic/dotvim/raw/master/img_folder/图片1.png)
+ ![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.png)
+
