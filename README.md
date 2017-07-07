@@ -23,7 +23,7 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的脸部识�
 
 # 详情文档 请参阅 下方链接
 
-    [文档地址](https://www.gitbook.com/book/appmagics/facemagic-sdk/details) 
+   [文档地址](https://www.gitbook.com/book/appmagics/facemagic-sdk/details) 
 
 ## FaceMagic SDK 快速入门
 
