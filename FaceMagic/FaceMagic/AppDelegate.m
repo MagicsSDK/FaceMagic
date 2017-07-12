@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-
 @interface AppDelegate ()
 
 @end
@@ -46,6 +45,13 @@
 - (void)applicationWillTerminate:(UIApplication *)application {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
-
+- (BOOL)application:(UIApplication *)application openURL:(NSURL *)url options:(nonnull NSDictionary<NSString *,id> *)options
+{
+//    NSString* path = [url absoluteString];
+//    NSString * path1 = [FileUtil2 getFullFilePathInDocuments:@"/effectFolder" fileName:@""];
+//    [FileUtil2 removeFile:path1];
+//    [[NSNotificationCenter defaultCenter]postNotificationName:@"effectPath" object:path];
+    return YES;
+}
 
 @end

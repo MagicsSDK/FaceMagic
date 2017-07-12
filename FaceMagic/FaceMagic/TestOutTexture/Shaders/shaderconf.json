@@ -1,0 +1,28 @@
+{
+
+    "shader":[
+    
+              {
+              "vs" : "screen",
+              "fs" : "screen",
+              "programme" : "screen"
+              },
+              {
+              "vs" : "faceMask",
+              "fs" : "faceMask",
+              "programme" : "faceMask"
+              },
+              {
+              "vs" : "animateFrame",
+              "fs" : "animateFrame",
+              "programme" : "animateFrame"
+              },
+              {
+              "vs" : "drawSquare",
+              "fs" : "drawSquare",
+              "programme" : "drawSquare"
+              }
+    
+    ]
+
+}

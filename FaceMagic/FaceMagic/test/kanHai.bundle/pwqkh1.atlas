@@ -1,0 +1,195 @@
+
+pwqkh1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beach
+  rotate: true
+  xy: 424, 338
+  size: 447, 130
+  orig: 447, 130
+  offset: 0, 0
+  index: -1
+bird_body
+  rotate: false
+  xy: 0, 0
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+bird_left
+  rotate: true
+  xy: 1961, 1908
+  size: 127, 47
+  orig: 127, 47
+  offset: 0, 0
+  index: -1
+bird_right
+  rotate: true
+  xy: 340, 234
+  size: 127, 47
+  orig: 127, 47
+  offset: 0, 0
+  index: -1
+blue_light
+  rotate: false
+  xy: 781, 1776
+  size: 788, 259
+  orig: 788, 259
+  offset: 0, 0
+  index: -1
+blue_light_start
+  rotate: false
+  xy: 781, 1550
+  size: 627, 102
+  orig: 627, 102
+  offset: 0, 0
+  index: -1
+heart_1
+  rotate: false
+  xy: 1258, 1209
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+heart_2
+  rotate: false
+  xy: 802, 826
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+heart_3
+  rotate: false
+  xy: 1258, 1111
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+heart_4
+  rotate: true
+  xy: 941, 952
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+heart_5
+  rotate: false
+  xy: 556, 710
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+island
+  rotate: false
+  xy: 0, 1095
+  size: 627, 458
+  orig: 627, 458
+  offset: 0, 0
+  index: -1
+light_flash
+  rotate: false
+  xy: 0, 1555
+  size: 779, 480
+  orig: 779, 480
+  offset: 0, 0
+  index: -1
+lover
+  rotate: true
+  xy: 1410, 1555
+  size: 219, 144
+  orig: 219, 144
+  offset: 0, 0
+  index: -1
+metetor
+  rotate: true
+  xy: 1258, 1307
+  size: 241, 115
+  orig: 241, 115
+  offset: 0, 0
+  index: -1
+sun_1
+  rotate: false
+  xy: 802, 924
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+sun_2
+  rotate: false
+  xy: 1067, 1115
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+sun_3
+  rotate: false
+  xy: 547, 808
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+sun_4
+  rotate: false
+  xy: 0, 23
+  size: 338, 338
+  orig: 338, 338
+  offset: 0, 0
+  index: -1
+sun_5
+  rotate: false
+  xy: 0, 363
+  size: 422, 422
+  orig: 422, 422
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 1571, 1779
+  size: 256, 388
+  orig: 256, 388
+  offset: 0, 0
+  index: -1
+water_bottom
+  rotate: false
+  xy: 781, 1654
+  size: 627, 120
+  orig: 627, 120
+  offset: 0, 0
+  index: -1
+water_bottom01
+  rotate: false
+  xy: 629, 1428
+  size: 627, 120
+  orig: 627, 120
+  offset: 0, 0
+  index: -1
+water_bottom02
+  rotate: false
+  xy: 629, 1306
+  size: 627, 120
+  orig: 627, 120
+  offset: 0, 0
+  index: -1
+word
+  rotate: false
+  xy: 629, 1112
+  size: 436, 192
+  orig: 436, 192
+  offset: 0, 0
+  index: -1
+word_front
+  rotate: false
+  xy: 0, 787
+  size: 545, 306
+  orig: 545, 306
+  offset: 0, 0
+  index: -1
+word_line
+  rotate: false
+  xy: 629, 1063
+  size: 397, 47
+  orig: 397, 47
+  offset: 0, 0
+  index: -1

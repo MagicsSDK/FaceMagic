@@ -147,23 +147,28 @@
     },
     {
       "vs": "rgb2yuv",
-      "fs": "rgb2yuvnv12rotation270",
-      "programme": "rgb2yuvnv12_270"
+      "fs": "rgb2yuvY",
+      "programme": "rgb2yuvY"
     },
     {
       "vs": "rgb2yuv",
-      "fs": "rgb2yuvnv21rotation270",
-      "programme": "rgb2yuvnv21_270"
+      "fs": "rgb2yuvU",
+      "programme": "rgb2yuvU"
     },
     {
       "vs": "rgb2yuv",
-      "fs": "rgb2yuvyv12rotation270",
-      "programme": "rgb2yuvyv12_270"
+      "fs": "rgb2yuvV",
+      "programme": "rgb2yuvV"
     },
     {
       "vs": "rgb2yuv",
-      "fs": "rgb2yuvi420rotation270",
-      "programme": "rgb2yuvi420_270"
+      "fs": "rgb2yuvUV",
+      "programme": "rgb2yuvUV"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvVU",
+      "programme": "rgb2yuvVU"
     },
     {
       "vs": "screennor",
@@ -349,6 +354,76 @@
       "vs": "screennor",
       "fs": "defaultBlack",
       "programme": "defaultBlack"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallFace",
+      "programme": "smallFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "shortFace",
+      "programme": "shortFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "pigFace",
+      "programme": "pigFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallShrinkFace",
+      "programme": "smallShrinkFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallShortShrink",
+      "programme": "smallShortShrink"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "kejiSmallShortFace",
+      "programme": "kejiSmallShortFace"
+    },
+    {
+      "vs": "SkyDome",
+      "fs": "SkyDome",
+      "programme": "SkyDome"
+    },
+    {
+      "vs": "screennor",
+      "fs": "alphaMatting",
+      "programme": "alphaMatting"
+    },
+    {
+      "vs": "screennor",
+      "fs": "faceBeautify",
+      "programme": "faceBeautify"
+    },
+    {
+      "vs": "normal2d",
+      "fs": "mvnocolor",
+      "programme": "mvnocolor"
+    },
+    {
+      "vs": "mvswing",
+      "fs": "mvswing",
+      "programme": "mvswing"
+    },
+    {
+      "vs": "normal2d",
+      "fs": "mvoverlaycolor",
+      "programme": "mvoverlaycolor"
+    },
+    {
+      "vs": "normal2d",
+      "fs": "mvmirror",
+      "programme": "mvmirror"
+    },
+    {
+      "vs": "normal2d",
+      "fs": "mvrepeat",
+      "programme": "mvrepeat"
     }
   ]
 }

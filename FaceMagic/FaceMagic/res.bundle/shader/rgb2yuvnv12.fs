@@ -10,11 +10,6 @@
                 vec3 vcoeff = vec3(0.439271, -0.367833, -0.071438);
                 vec2 nowTxtPos = v_texcoord0;
                 vec2 size = vec2(width, height);
-                float uvlines = 0.0625 * height;
-                float uvlinesI = float(int(uvlines));
-                vec2 uvPosOffset = vec2(uvlines - uvlinesI, uvlinesI / height);
-                vec2 uMaxPos = uvPosOffset + vec2(0, 0.25);
-                vec2 vMaxPos = uvPosOffset + uMaxPos;
                 vec2 yScale = vec2(4, 4);
                 vec2 uvScale = vec2(4, 4);
                 if (nowTxtPos.y < 0.25) {
@@ -44,8 +39,7 @@
                     y4 += offset.x;
                     gl_FragColor = vec4(y1, y2, y3, y4);
                 }
-                else if (nowTxtPos.y < vMaxPos.y ||
-                         (nowTxtPos.y == vMaxPos.y && nowTxtPos.x < vMaxPos.x)) {
+                else if (nowTxtPos.y <= 0.375) {
                     nowTxtPos.y -= 0.25;
                     vec2 basePos = nowTxtPos * uvScale * size;
                     float addY = float(int(basePos.x / width));

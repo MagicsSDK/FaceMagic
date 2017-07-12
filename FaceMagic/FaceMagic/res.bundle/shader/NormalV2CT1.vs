@@ -16,5 +16,4 @@ void main()
     v_texcoord0 = (aTexcoord0 - 0.5)*texcoordClip + 0.5;
     v_color = aColor/255.0;
     gl_Position = aMatrixVP*aMatrixM*vec4(aPosition.xy,0.0,1.0);
-    gl_PointSize = 10.0;
 }

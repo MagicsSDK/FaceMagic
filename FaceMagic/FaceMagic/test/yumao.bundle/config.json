@@ -1,0 +1,116 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1491968498737",
+      "loop": "1",
+      "mode": "slim",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.14"
+    },
+    {
+      "id": "w1491968379111",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.18",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1491968427758",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.29",
+      "radius_y": "0.29",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1491984975611",
+      "fps": "25",
+      "loop": "1",
+      "name": "yumaomao_00000.png",
+      "mode": "fullscreen",
+      "plist":["yumao1","yumao2","yumao3"],
+      "images": [
+        "yumaomao_00000.png",
+        "yumaomao_00001.png",
+        "yumaomao_00002.png",
+        "yumaomao_00003.png",
+        "yumaomao_00004.png",
+        "yumaomao_00005.png",
+        "yumaomao_00006.png",
+        "yumaomao_00007.png",
+        "yumaomao_00008.png",
+        "yumaomao_00009.png",
+        "yumaomao_00010.png",
+        "yumaomao_00011.png",
+        "yumaomao_00012.png",
+        "yumaomao_00013.png",
+        "yumaomao_00014.png",
+        "yumaomao_00015.png",
+        "yumaomao_00016.png",
+        "yumaomao_00017.png",
+        "yumaomao_00018.png",
+        "yumaomao_00019.png",
+        "yumaomao_00020.png",
+        "yumaomao_00021.png",
+        "yumaomao_00022.png",
+        "yumaomao_00023.png",
+        "yumaomao_00024.png",
+        "yumaomao_00025.png",
+        "yumaomao_00026.png",
+        "yumaomao_00027.png",
+        "yumaomao_00028.png",
+        "yumaomao_00029.png",
+        "yumaomao_00030.png",
+        "yumaomao_00031.png",
+        "yumaomao_00032.png",
+        "yumaomao_00033.png",
+        "yumaomao_00034.png",
+        "yumaomao_00035.png",
+        "yumaomao_00036.png",
+        "yumaomao_00037.png",
+        "yumaomao_00038.png",
+        "yumaomao_00039.png",
+        "yumaomao_00040.png",
+        "yumaomao_00041.png",
+        "yumaomao_00042.png",
+        "yumaomao_00043.png",
+        "yumaomao_00044.png",
+        "yumaomao_00045.png",
+        "yumaomao_00046.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

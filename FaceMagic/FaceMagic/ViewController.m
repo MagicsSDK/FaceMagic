@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "CameraViewController.h"
 #import "fm2ViewCtrl.h"
 
 @interface ViewController ()
@@ -27,7 +28,10 @@
 }
 
 - (void)startCamera:(UIButton *)btn {
-    fm2ViewCtrl *camerCV = [[fm2ViewCtrl alloc]init];
+   fm2ViewCtrl *camerCV = [[fm2ViewCtrl alloc]init];
+//    CameraViewController *camerCV = [[CameraViewController alloc]init];
+//    CameraViewController2 *camerCV = [[CameraViewController2 alloc]init];
+//    [self presentViewController:[[mixVideoViewCtrl alloc] init] animated:YES completion:nil];
     [self presentViewController:camerCV animated:YES completion:nil];
 }
 

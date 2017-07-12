@@ -1,0 +1,113 @@
+{
+  "version": "v2",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask01",
+      "images": [
+        "mask1.png"
+      ],
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "m1493796857355",
+      "loop": "1",
+      "mode": "slim_snake_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.14",
+      "adjust2": "0.12",
+      "adjust3": "0.1"
+    },
+    {
+      "id": "w4",
+      "index": "130",
+      "intensity": "0.18",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "type": "distortion"
+    },
+    {
+      "id": "w5",
+      "index": "320",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.29",
+      "radius_y": "0.29",
+      "xType": "0",
+      "yType": "1",
+      "type": "distortion"
+    },
+    {
+      "id": "w1493797063549",
+      "fps": "25",
+      "loop": "1",
+      "name": "xinxin35.png",
+      "mode": "fullscreen",
+      "images": [
+        "xinxin35.png",
+        "xinxin34.png",
+        "xinxin33.png",
+        "xinxin32.png",
+        "xinxin31.png",
+        "xinxin30.png",
+        "xinxin29.png",
+        "xinxin28.png",
+        "xinxin27.png",
+        "xinxin26.png",
+        "xinxin25.png",
+        "xinxin24.png",
+        "xinxin23.png",
+        "xinxin22.png",
+        "xinxin21.png",
+        "xinxin20.png",
+        "xinxin19.png",
+        "xinxin18.png",
+        "xinxin17.png",
+        "xinxin16.png",
+        "xinxin15.png",
+        "xinxin14.png",
+        "xinxin13.png",
+        "xinxin12.png",
+        "xinxin11.png",
+        "xinxin10.png",
+        "xinxin9.png",
+        "xinxin8.png",
+        "xinxin7.png",
+        "xinxin6.png",
+        "xinxin5.png",
+        "xinxin4.png",
+        "xinxin3.png",
+        "xinxin2.png",
+        "xinxin1.png",
+        "xinxin0.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

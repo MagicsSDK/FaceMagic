@@ -22,6 +22,6 @@ void main()
         offset = offset * offset * (3.0 - 2.0 * offset); //smoothstep:
         vec2 delta = centralPos - realPosition;
         vec2 step = intensity * delta * samplerSteps * offset;
-        gl_FragColor = texture2D(aTexture0, v_texcoord0 + step);//*0.5 + vec4(0.0,1.0,0.0,1.0)*0.5;vec4(1.0,0.0,0.0,1.0);//
+        gl_FragColor = texture2D(aTexture0, v_texcoord0 + step);//*0.5 + vec4(0.0,1.0,0.0,1.0)*0.5;
     }
 }

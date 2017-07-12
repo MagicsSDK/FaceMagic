@@ -15,6 +15,7 @@
 #import <MKEngine/FM2.h>
 #import <FaceMagicDetection/FaceMagicDetection.h>
 
+#import <CoreMotion/CoreMotion.h>
 @interface fm2ViewCtrl () <AVCaptureVideoDataOutputSampleBufferDelegate, AVCaptureAudioDataOutputSampleBufferDelegate,AVAudioPlayerDelegate,GLKViewDelegate>{
     FM2*        mfm2;
     float       mVideoAngle;
@@ -36,6 +37,11 @@
 @property(nonatomic, strong) AVCaptureDeviceInput *currentCameraInput;
 @property (nonatomic,assign)int isMirrored;
 
+// 陀螺仪
+@property(nonatomic,strong)CMMotionManager *cmmotionManager;
+@property(nonatomic,strong)CMAttitude      *deviceCMAttitude;
+@property(nonatomic,assign)bool             sensorActive;
+
 //@property (nonatomic, strong) MagicBarVC* barVC;
 
 @property (nonatomic, strong) dispatch_semaphore_t frameRenderingSemaphore;
@@ -45,19 +51,47 @@
 
 @implementation fm2ViewCtrl
 
+- (unsigned char *)pixelBRGABytesFromImageRef:(CGImageRef)imageRef {
+    
+    NSUInteger iWidth = CGImageGetWidth(imageRef);
+    NSUInteger iHeight = CGImageGetHeight(imageRef);
+    NSUInteger iBytesPerPixel = 4;
+    NSUInteger iBytesPerRow = iBytesPerPixel * iWidth;
+    NSUInteger iBitsPerComponent = 8;
+    unsigned char *imageBytes = (unsigned char*)malloc(iWidth * iHeight * iBytesPerPixel);
+    //
+    CGColorSpaceRef colorspace = CGColorSpaceCreateDeviceRGB();
+    
+    CGContextRef context = CGBitmapContextCreate(imageBytes,
+                                                 iWidth,
+                                                 iHeight,
+                                                 iBitsPerComponent,
+                                                 iBytesPerRow,
+                                                 colorspace,
+                                                 kCGBitmapByteOrder32Little | kCGImageAlphaPremultipliedFirst);
+    //
+    CGRect rect = CGRectMake(0 , 0 , iWidth , iHeight);
+    CGContextDrawImage(context , rect ,imageRef);
+    CGColorSpaceRelease(colorspace);
+    CGContextRelease(context);
+    
+    return imageBytes;
+}
+
 - (void)dealloc{
 }
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     mCamlock = [NSLock new];
     //初始化识别模块
-    mDetection = [[Detection alloc]initWithDetectionType:DetectionType2];
+    mDetection = [[Detection alloc]initWithDetectionType:DetectionType1];
     //
     mVideoWidth = 720;
     mVideoHeight = 1280;
     mVideoAngle = 0.0f;
-    mIsYUVFormat = YES;
+    mIsYUVFormat = 0;
     mCount = 0;
     self.view.frame = [UIScreen mainScreen].bounds;
     self.view.backgroundColor = [UIColor clearColor];
@@ -67,9 +101,30 @@
     [self createGLKView];
     //初始化UI
     [self initUI];
-    
+    [self initMotionManager];
 }
 
+- (void)initMotionManager {
+    if (!self.cmmotionManager) {
+        self.cmmotionManager = [[CMMotionManager alloc] init];
+        CMDeviceMotion *deviceMotion = self.cmmotionManager.deviceMotion;
+        self.deviceCMAttitude = deviceMotion.attitude;
+        [self.cmmotionManager startDeviceMotionUpdates];
+    }
+    _sensorActive = true;
+}
+
+
+- (CMRotationMatrix)getRotationMatrix{
+    CMRotationMatrix rotation;
+    CMDeviceMotion *deviceMotion = self.cmmotionManager.deviceMotion;
+    CMAttitude *attitude = deviceMotion.attitude;
+    if (self.deviceCMAttitude != nil) {
+        [attitude multiplyByInverseOfAttitude:self.deviceCMAttitude];
+    }
+    rotation = attitude.rotationMatrix;
+    return rotation;
+}
 
 - (void)initUI {
     //
@@ -109,15 +164,15 @@
     bundlePath = [NSString stringWithFormat:@"%@/",bundlePath];
     [mfm2 addSearchPath:bundlePath];
     //开启引擎
-    [mfm2 startEngine:FMDetectTypeFP];
+    [mfm2 startEngine:FMDetectTypeAS];
     //开启直接绘制模式 主要用于测试 便于观察
     [mfm2 enableDDrawMode:true];
     //创建一个场景
     [mfm2 createScene:@"fm2" Width:[UIScreen mainScreen].bounds.size.width*scale Height:[UIScreen mainScreen].bounds.size.height*scale];
     //设置输出流格式
-    [mfm2 setInputFormat:FMPixelFormatYUV420V Width:mVideoWidth Height:mVideoHeight Angle:mVideoAngle Name:@"fm2"];
+    [mfm2 setInputFormat:FMPixelFormatBGRA Width:mVideoWidth Height:mVideoHeight Angle:mVideoAngle Name:@"fm2"];
     //设置输出流格式
-    [mfm2 setOutputFormat:FMPixelFormatYUV420V Name:@"fm2"];
+    [mfm2 setOutputFormat:FMPixelFormatBGRA Name:@"fm2"];
 }
 
 - (void)createGLKView {
@@ -144,13 +199,12 @@
 - (void)addVideoEffect:(UIButton *)btn {
     
     NSArray * array = @[
-                        @"kanhai",
-                        @"ningmenge",
-                        @"vz",
-                        @"srtoutao",
-                        @"xiaoxiong2",
-                        @"fadai",
-                        @"jixiangruyi",
+                        @"dahuangfeng",
+                        @"sheng",
+                        @"dan",
+                        @"jing",
+                        @"mo",
+                        @"chou",
                         @"nvwang"
                         ];
     NSString *name = array[mCount%array.count];
@@ -174,14 +228,46 @@
     }
 }
 
+- (CVPixelBufferRef)CVPixelBufferRefFromUiImage:(UIImage *)img {
+    
+    CGSize size = img.size;
+    CGImageRef image = [img CGImage];
+    
+    NSDictionary *options = [NSDictionary dictionaryWithObjectsAndKeys:
+                             [NSNumber numberWithBool:YES], kCVPixelBufferCGImageCompatibilityKey,
+                             [NSNumber numberWithBool:YES], kCVPixelBufferCGBitmapContextCompatibilityKey, nil];
+    CVPixelBufferRef pxbuffer = NULL;
+    CVReturn status = CVPixelBufferCreate(kCFAllocatorDefault, size.width, size.height, kCVPixelFormatType_32BGRA, (__bridge CFDictionaryRef) options, &pxbuffer);
+    
+    NSParameterAssert(status == kCVReturnSuccess && pxbuffer != NULL);
+    
+    CVPixelBufferLockBaseAddress(pxbuffer, 0);
+    void *pxdata = CVPixelBufferGetBaseAddress(pxbuffer);
+    NSParameterAssert(pxdata != NULL);
+    
+    CGColorSpaceRef rgbColorSpace = CGColorSpaceCreateDeviceRGB();
+    CGContextRef context = CGBitmapContextCreate(pxdata, size.width, size.height, 8, 4*size.width, rgbColorSpace, kCGImageAlphaPremultipliedFirst);
+    NSParameterAssert(context);
+    
+    CGContextDrawImage(context, CGRectMake(0, 0, CGImageGetWidth(image), CGImageGetHeight(image)), image);
+    
+    CGColorSpaceRelease(rgbColorSpace);
+    CGContextRelease(context);
+    
+    CVPixelBufferUnlockBaseAddress(pxbuffer, 0);
+    
+    return pxbuffer;
+}
+
 - (void)captureOutput:(AVCaptureOutput *)captureOutput didOutputSampleBuffer:(CMSampleBufferRef)sampleBuffer fromConnection:(AVCaptureConnection *)connection
 {
     [mCamlock lock];
+    UIImage *image = [UIImage imageNamed:@"标准头.jpg"];
+  
     CVImageBufferRef imageBuffer = NULL;
     if (captureOutput == self.videoOutput) {
         imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer);
-        
-        
+//        imageBuffer = [self CVPixelBufferRefFromUiImage:image];
         if(imageBuffer && CVPixelBufferLockBaseAddress(imageBuffer, 0) == kCVReturnSuccess)
         {
             GASYUVFrame yuvFrame;
@@ -192,6 +278,7 @@
                 yuvFrame.plane[0] = bufferPtr;
                 yuvFrame.width = (int32_t)width;
                 yuvFrame.height = (int32_t)height;
+                yuvFrame.bytesPerRow = CVPixelBufferGetBytesPerRow(imageBuffer);
                 yuvFrame.format = FMPixelFormatBGRA;
             }else {
                 
@@ -201,47 +288,7 @@
                 yuvFrame.plane[1] = bufferPtr1;
                 yuvFrame.width = (int32_t)width;
                 yuvFrame.height = (int32_t)height;
-                yuvFrame.format = FMPixelFormatYUV420V;
-            }
-            //进行图片识别
-            FMDRESULT detectResult = [mDetection processImageFrame:&yuvFrame];
-            //推送识别结果
-//            [mfm2 pushDetectDataAS:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
-            [mfm2 pushDetectDataFP:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints_fp faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
-            //推送相机图片
-            [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
-            //
-            [self.cameraVideoView display];
-            CVPixelBufferUnlockBaseAddress(imageBuffer, 0);
-        }
-    }
-    [mCamlock unlock];
-}
-
-- (CMSampleBufferRef)changeVideoType:(CMSampleBufferRef)ref{
-    CVImageBufferRef imageBuffer = NULL;
-        imageBuffer = CMSampleBufferGetImageBuffer(ref);
-        
-        
-        if(imageBuffer && CVPixelBufferLockBaseAddress(imageBuffer, 0) == kCVReturnSuccess)
-        {
-            GASYUVFrame yuvFrame;
-            size_t width = CVPixelBufferGetWidth(imageBuffer);
-            size_t height = CVPixelBufferGetHeight(imageBuffer);
-            if (!mIsYUVFormat) {
-                UInt8 *bufferPtr = (UInt8*)CVPixelBufferGetBaseAddress(imageBuffer);
-                yuvFrame.plane[0] = bufferPtr;
-                yuvFrame.width = (int32_t)width;
-                yuvFrame.height = (int32_t)height;
-                yuvFrame.format = FMPixelFormatBGRA;
-            }else {
-                
-                UInt8 *bufferPtr = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,0);
-                UInt8 *bufferPtr1 = (UInt8 *)CVPixelBufferGetBaseAddressOfPlane(imageBuffer,1);
-                yuvFrame.plane[0] = bufferPtr;
-                yuvFrame.plane[1] = bufferPtr1;
-                yuvFrame.width = (int32_t)width;
-                yuvFrame.height = (int32_t)height;
+                yuvFrame.bytesPerRow = CVPixelBufferGetBytesPerRowOfPlane(imageBuffer, 0);
                 yuvFrame.format = FMPixelFormatYUV420V;
             }
             //进行图片识别
@@ -249,15 +296,65 @@
             //推送识别结果
             [mfm2 pushDetectDataAS:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
 //            [mfm2 pushDetectDataFP:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints_fp faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
+            
+//            [mfm2 pushDetectDataMA:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints_fp faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
+            
+            if (_sensorActive) {
+                CMRotationMatrix deviceRotation = [self getRotationMatrix];
+                [mfm2 updateGyroDataX:deviceRotation.m31 Y:deviceRotation.m32 Z:-deviceRotation.m33];
+            }
             //推送相机图片
-            [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
-            //
+//            [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
+            [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2" WithHandle:nil];
+            
             [self.cameraVideoView display];
+            [mfm2 getRenderBufferWithName:@"fm2" andBuffer:sampleBuffer];
+            [self imageFromSampleBuffer:sampleBuffer];
             CVPixelBufferUnlockBaseAddress(imageBuffer, 0);
         }
+    }
     [mCamlock unlock];
-    return (CMSampleBufferRef)imageBuffer;
 }
+
+- (UIImage *) imageFromSampleBuffer:(CMSampleBufferRef) sampleBuffer {
+    // 为媒体数据设置一个CMSampleBuffer的Core Video图像缓存对象
+    CVImageBufferRef imageBuffer = CMSampleBufferGetImageBuffer(sampleBuffer);
+    // 锁定pixel buffer的基地址
+    CVPixelBufferLockBaseAddress(imageBuffer, 0);
+    
+    // 得到pixel buffer的基地址
+    void *baseAddress = CVPixelBufferGetBaseAddress(imageBuffer);
+    
+    // 得到pixel buffer的行字节数
+    size_t bytesPerRow = CVPixelBufferGetBytesPerRow(imageBuffer);
+    // 得到pixel buffer的宽和高
+    size_t width = CVPixelBufferGetWidth(imageBuffer);
+    size_t height = CVPixelBufferGetHeight(imageBuffer);
+    
+    // 创建一个依赖于设备的RGB颜色空间
+    CGColorSpaceRef colorSpace = CGColorSpaceCreateDeviceRGB();
+    
+    // 用抽样缓存的数据创建一个位图格式的图形上下文（graphics context）对象
+    CGContextRef context = CGBitmapContextCreate(baseAddress, width, height, 8,
+                                                 bytesPerRow, colorSpace, kCGBitmapByteOrder32Little | kCGImageAlphaPremultipliedFirst);
+    // 根据这个位图context中的像素数据创建一个Quartz image对象
+    CGImageRef quartzImage = CGBitmapContextCreateImage(context);
+    // 解锁pixel buffer
+    CVPixelBufferUnlockBaseAddress(imageBuffer,0);
+    
+    // 释放context和颜色空间
+    CGContextRelease(context);
+    CGColorSpaceRelease(colorSpace);
+    
+    // 用Quartz image创建一个UIImage对象image
+    UIImage *image = [UIImage imageWithCGImage:quartzImage];
+    
+    // 释放Quartz image对象
+    CGImageRelease(quartzImage);
+    
+    return (image);
+}
+
 
 #pragma mark - camera control
 - (void)changeCamera:(UIButton *)button
@@ -351,7 +448,7 @@
     self.videoOutput = [[AVCaptureVideoDataOutput alloc] init];
 
     //  kCVPixelFormatType_32BGRA mIsYUVFormat = NO; kCVPixelFormatType_420YpCbCr8BiPlanarFullRange mIsYUVFormat=YES
-    self.videoOutput.videoSettings =[NSDictionary dictionaryWithObject:@(kCVPixelFormatType_420YpCbCr8BiPlanarFullRange)
+    self.videoOutput.videoSettings =[NSDictionary dictionaryWithObject:@(kCVPixelFormatType_32BGRA)
                                                                     forKey:(id)kCVPixelBufferPixelFormatTypeKey];
     
     [self.videoOutput setSampleBufferDelegate:self queue:self.sessionQuene];

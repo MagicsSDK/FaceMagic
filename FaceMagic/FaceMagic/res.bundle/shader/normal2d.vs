@@ -11,6 +11,5 @@ varying vec2 v_texcoord0;
 void main()
 {
     v_texcoord0 = aTexcoord0;
-    vec4 t_pos = aMatrixVP*aMatrixM*vec4(aPosition.xy,0.0,1.0);
-    gl_Position = t_pos;
+    gl_Position = aMatrixVP*aMatrixM*vec4(aPosition.xy,0.0,1.0);
 }

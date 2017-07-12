@@ -1,0 +1,148 @@
+{"frames": [
+
+{
+	"filename": "yumaomao_00017.png",
+	"frame": {"x":3266,"y":1000,"w":750,"h":996},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":221,"w":750,"h":996},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00018.png",
+	"frame": {"x":3266,"y":2,"w":750,"h":996},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":229,"w":750,"h":996},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00019.png",
+	"frame": {"x":3266,"y":1998,"w":674,"h":996},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":237,"w":674,"h":996},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00020.png",
+	"frame": {"x":2,"y":2512,"w":658,"h":1242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":0,"w":658,"h":1242},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00021.png",
+	"frame": {"x":2,"y":1260,"w":712,"h":1250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":1250},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00022.png",
+	"frame": {"x":2,"y":2,"w":720,"h":1256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":720,"h":1256},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00023.png",
+	"frame": {"x":1304,"y":2470,"w":622,"h":1196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":0,"w":622,"h":1196},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00024.png",
+	"frame": {"x":716,"y":1260,"w":628,"h":1208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":0,"w":628,"h":1208},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00025.png",
+	"frame": {"x":662,"y":2512,"w":640,"h":1208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":12,"w":640,"h":1208},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00026.png",
+	"frame": {"x":724,"y":2,"w":640,"h":1196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":37,"w":640,"h":1196},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00027.png",
+	"frame": {"x":1346,"y":1200,"w":638,"h":1184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":61,"w":638,"h":1184},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00028.png",
+	"frame": {"x":1366,"y":2,"w":638,"h":1168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":88,"w":638,"h":1168},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00029.png",
+	"frame": {"x":1928,"y":2386,"w":638,"h":1154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":115,"w":638,"h":1154},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00030.png",
+	"frame": {"x":1986,"y":1172,"w":638,"h":1142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":139,"w":638,"h":1142},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00031.png",
+	"frame": {"x":2006,"y":2,"w":636,"h":1130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":163,"w":636,"h":1130},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00032.png",
+	"frame": {"x":2568,"y":2316,"w":638,"h":1114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":190,"w":638,"h":1114},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00033.png",
+	"frame": {"x":2626,"y":1134,"w":638,"h":1100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":216,"w":638,"h":1100},
+	"sourceSize": {"w":750,"h":1334}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "yumao2.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:550660a1f361cd925b8c96d0f7d31a5f:1/1$"
+}
+}

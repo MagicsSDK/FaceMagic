@@ -1,0 +1,34 @@
+
+zhengchang.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yj1
+  rotate: false
+  xy: 0, 0
+  size: 464, 301
+  orig: 464, 301
+  offset: 0, 0
+  index: -1
+images/yj2
+  rotate: false
+  xy: 466, 22
+  size: 464, 279
+  orig: 464, 279
+  offset: 0, 0
+  index: -1
+images/yj3
+  rotate: false
+  xy: 932, 24
+  size: 464, 277
+  orig: 464, 277
+  offset: 0, 0
+  index: -1
+images/yj4
+  rotate: false
+  xy: 1398, 42
+  size: 464, 259
+  orig: 464, 259
+  offset: 0, 0
+  index: -1

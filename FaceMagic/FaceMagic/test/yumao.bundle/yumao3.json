@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "yumaomao_00034.png",
+	"frame": {"x":1834,"y":1286,"w":640,"h":1086},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":242,"w":640,"h":1086},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00035.png",
+	"frame": {"x":2384,"y":2,"w":638,"h":1068},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":266,"w":638,"h":1068},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00036.png",
+	"frame": {"x":2,"y":2,"w":638,"h":1330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":4,"w":638,"h":1330},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00037.png",
+	"frame": {"x":1636,"y":2604,"w":636,"h":1274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":636,"h":1274},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00038.png",
+	"frame": {"x":1748,"y":2,"w":634,"h":1282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":0,"w":634,"h":1282},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00039.png",
+	"frame": {"x":1200,"y":1314,"w":632,"h":1288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":0,"w":632,"h":1288},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00040.png",
+	"frame": {"x":1100,"y":2658,"w":534,"h":1298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":0,"w":534,"h":1298},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00041.png",
+	"frame": {"x":642,"y":2,"w":538,"h":1312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":0,"w":538,"h":1312},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00042.png",
+	"frame": {"x":554,"y":2664,"w":544,"h":1324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":0,"w":544,"h":1324},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00043.png",
+	"frame": {"x":2,"y":2664,"w":550,"h":1328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":0,"w":550,"h":1328},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00044.png",
+	"frame": {"x":2,"y":1334,"w":634,"h":1328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":6,"w":634,"h":1328},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00045.png",
+	"frame": {"x":638,"y":1334,"w":560,"h":1322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":12,"w":560,"h":1322},
+	"sourceSize": {"w":750,"h":1334}
+},
+{
+	"filename": "yumaomao_00046.png",
+	"frame": {"x":1182,"y":2,"w":564,"h":1310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":20,"w":564,"h":1310},
+	"sourceSize": {"w":750,"h":1334}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "yumao3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df6fe6271672f92d7bd138eba43c1995:1/1$"
+}
+}

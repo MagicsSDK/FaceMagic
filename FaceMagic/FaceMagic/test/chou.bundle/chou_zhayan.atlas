@@ -1,0 +1,55 @@
+
+chou_zhayan.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m
+  rotate: false
+  xy: 2086, 37
+  size: 208, 166
+  orig: 208, 166
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 1850, 46
+  size: 234, 157
+  orig: 234, 157
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 0, 0
+  size: 368, 203
+  orig: 368, 203
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 370, 32
+  size: 368, 171
+  orig: 368, 171
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 740, 32
+  size: 368, 171
+  orig: 368, 171
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 1110, 32
+  size: 368, 171
+  orig: 368, 171
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 1480, 32
+  size: 368, 171
+  orig: 368, 171
+  offset: 0, 0
+  index: -1

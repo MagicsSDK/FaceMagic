@@ -1,0 +1,115 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask1498035233684",
+      "fps": "25",
+      "loop": "1",
+      "images": [
+        "c1.png"
+      ],
+      "typemesh": "default",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "m1498039398641",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0",
+      "adjust2": "0.8",
+      "adjust3": "0.2",
+      "adjust4": "0.25"
+    },
+    {
+      "id": "w1498038533376",
+      "name": "chou_zhengchang",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_130": "130",
+          "bone_190": "190",
+          "bone_380": "380"
+        },
+        "spine_name": "chou_zhengchang"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        },
+        {
+          "category": "dependency",
+          "dependsOn": "w1498038520277",
+          "event": "aniComplete"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0",
+      "terminatedBy": [
+        {
+          "category": "eyeblink"
+        }
+      ]
+    },
+    {
+      "id": "w1498038520277",
+      "name": "chou_zhayan",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_130": "130",
+          "bone_190": "190",
+          "bone_380": "380"
+        },
+        "spine_name": "chou_zhayan"
+      },
+      "triggeredBy": [
+        {
+          "category": "eyeblink"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "CengMao_01",
+      "loop": "1",
+      "name": "CengMao_01",
+      "personid": "0",
+      "skinmodel": {
+          "animationPath":"CengMao_01.FBX",
+          "usetype": 2
+      },
+      "triggeredBy": [
+          {
+              "category": "any"
+          }
+      ],
+      "type": "skinmodel"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}
