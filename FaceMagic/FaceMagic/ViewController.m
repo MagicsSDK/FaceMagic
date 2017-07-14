@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "CameraViewController.h"
 #import "fm2ViewCtrl.h"
 
 @interface ViewController ()
