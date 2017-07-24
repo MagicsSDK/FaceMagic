@@ -1,0 +1,111 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "390",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.99",
+            "radius_y": "0.77",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 0,
+            "y": "0.01",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "240",
+            "intensity": "0.8",
+            "personid": "0",
+            "radius_x": "1.02",
+            "radius_y": "0.81",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 0,
+            "y": "0.16",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "30",
+            "intensity": "0.5",
+            "personid": "0",
+            "radius_x": "0.50",
+            "radius_y": "0.50",
+            "subType": "2",
+            "type": "distortion",
+            "x": "-0.41",
+            "xType": -1,
+            "y": "0.02",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "130",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.3",
+            "radius_y": "0.3",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0",
+            "xType": -1,
+            "y": "0",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w5",
+            "index": "80",
+            "intensity": "0.5",
+            "personid": "0",
+            "radius_x": "0.50",
+            "radius_y": "0.50",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.37",
+            "xType": 1,
+            "y": "-0.05",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w6",
+            "index": "320",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.3",
+            "radius_y": "0.3",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0",
+            "xType": 1,
+            "y": "0",
+            "yType": 1
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "ruhua.png"
+            ],
+            "mappings": {
+                "ruhua.png": "/Users/wangyukun/Desktop/变形脸型/ruhua/ruhua.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/ruhua",
+            "subType": "static",
+            "type": "mask"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

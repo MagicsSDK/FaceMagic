@@ -1,0 +1,82 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.22",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/yaobai",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.25",
+            "radius_y": "0.25",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.02",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "id": "w3",
+            "loop": "1",
+            "name": "w3",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "II_290": "290",
+                    "bone3_190": "190",
+                    "bone_50": "50"
+                },
+                "spine_name": "yaobai"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

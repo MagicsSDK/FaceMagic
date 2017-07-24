@@ -1,0 +1,154 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads/小美",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "2_290": "290",
+                    "bone3_50": "50",
+                    "bone_190": "190"
+                },
+                "spine_name": "f_xm"
+            },
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w1",
+            "loop": "0",
+            "name": "w1",
+            "resourcePath": "/Users/wangyukun/Downloads/小美",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "g_xm_cf"
+            },
+            "subType": "screen",
+            "terminatedBy": [],
+            "triggeredBy": [
+                {
+                    "category": "dependency",
+                    "dependsOn": "w2",
+                    "event": "aniStop"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w2",
+            "loop": "1",
+            "name": "w2",
+            "resourcePath": "/Users/wangyukun/Downloads/小美",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "g_xm"
+            },
+            "subType": "screen",
+            "terminatedBy": [
+                {
+                    "category": "mouthopen"
+                }
+            ],
+            "triggeredBy": [
+                {
+                    "category": "any"
+                },
+                {
+                    "category": "dependency",
+                    "dependsOn": "w1",
+                    "event": "aniComplete"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "25",
+            "id": "screen3",
+            "images": [
+                "Openyourmouth.png"
+            ],
+            "loop": "1",
+            "mode": "fullscreen",
+            "name": "screen3",
+            "path_sequence_img": "/Users/wangyukun/Desktop/提示语/mouth/Openyourmouth.png",
+            "resourcePath": "/Users/wangyukun/Desktop/提示语/mouth",
+            "subType": "screen",
+            "terminatedBy": [
+                {
+                    "category": "mouthopen"
+                }
+            ],
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.25",
+            "radius_y": "0.25",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.2",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

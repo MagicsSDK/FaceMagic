@@ -1,0 +1,83 @@
+
+MaRen.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maren/BA
+  rotate: false
+  xy: 0, 0
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+maren/K-3
+  rotate: false
+  xy: 0, 54
+  size: 197, 93
+  orig: 197, 93
+  offset: 0, 0
+  index: -1
+maren/K1
+  rotate: false
+  xy: 199, 74
+  size: 207, 73
+  orig: 207, 73
+  offset: 0, 0
+  index: -1
+maren/K4
+  rotate: true
+  xy: 1258, 33
+  size: 205, 251
+  orig: 205, 251
+  offset: 0, 0
+  index: -1
+maren/MR
+  rotate: false
+  xy: 408, 44
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+maren/XianA
+  rotate: false
+  xy: 1258, 240
+  size: 300, 270
+  orig: 300, 270
+  offset: 0, 0
+  index: -1
+maren/XianB
+  rotate: false
+  xy: 1560, 285
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+maren/YR
+  rotate: false
+  xy: 1862, 340
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+maren/ZiA
+  rotate: false
+  xy: 724, 67
+  size: 532, 443
+  orig: 532, 443
+  offset: 0, 0
+  index: -1
+maren/ZiB
+  rotate: false
+  xy: 0, 149
+  size: 722, 361
+  orig: 722, 361
+  offset: 0, 0
+  index: -1
+maren/k2
+  rotate: false
+  xy: 1560, 240
+  size: 178, 43
+  orig: 178, 43
+  offset: 0, 0
+  index: -1

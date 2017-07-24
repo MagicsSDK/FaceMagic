@@ -1,0 +1,125 @@
+
+f_faguan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan
+  rotate: false
+  xy: 0, 164
+  size: 632, 334
+  orig: 632, 334
+  offset: 0, 0
+  index: -1
+x10
+  rotate: false
+  xy: 800, 79
+  size: 29, 419
+  orig: 29, 419
+  offset: 0, 0
+  index: -1
+x11
+  rotate: false
+  xy: 722, 51
+  size: 38, 447
+  orig: 38, 447
+  offset: 0, 0
+  index: -1
+x12
+  rotate: true
+  xy: 0, 51
+  size: 53, 464
+  orig: 53, 464
+  offset: 0, 0
+  index: -1
+x13
+  rotate: false
+  xy: 634, 4
+  size: 39, 494
+  orig: 39, 494
+  offset: 0, 0
+  index: -1
+x23
+  rotate: false
+  xy: 675, 6
+  size: 45, 492
+  orig: 45, 492
+  offset: 0, 0
+  index: -1
+x33
+  rotate: true
+  xy: 0, 0
+  size: 49, 490
+  orig: 49, 490
+  offset: 0, 0
+  index: -1
+x43
+  rotate: true
+  xy: 0, 106
+  size: 56, 485
+  orig: 56, 485
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 907, 113
+  size: 41, 385
+  orig: 41, 385
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 762, 68
+  size: 36, 430
+  orig: 36, 430
+  offset: 0, 0
+  index: -1
+x7
+  rotate: false
+  xy: 863, 93
+  size: 42, 405
+  orig: 42, 405
+  offset: 0, 0
+  index: -1
+x8
+  rotate: false
+  xy: 950, 121
+  size: 32, 377
+  orig: 32, 377
+  offset: 0, 0
+  index: -1
+x9
+  rotate: false
+  xy: 831, 89
+  size: 30, 409
+  orig: 30, 409
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 492, 20
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 487, 120
+  size: 42, 96
+  orig: 42, 96
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 583, 23
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 487, 68
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1

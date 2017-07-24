@@ -1,0 +1,34 @@
+
+f_xm.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 117
+  size: 665, 663
+  orig: 665, 663
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 0
+  size: 378, 115
+  orig: 378, 115
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 667, 221
+  size: 353, 123
+  orig: 353, 123
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 667, 346
+  size: 705, 434
+  orig: 705, 434
+  offset: 0, 0
+  index: -1

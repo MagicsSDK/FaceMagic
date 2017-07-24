@@ -1,0 +1,131 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "fps": "25",
+            "id": "screen0",
+            "images": [
+                "taohua_00.png",
+                "taohua_01.png",
+                "taohua_02.png",
+                "taohua_03.png",
+                "taohua_04.png",
+                "taohua_05.png",
+                "taohua_06.png",
+                "taohua_07.png",
+                "taohua_08.png",
+                "taohua_09.png",
+                "taohua_10.png",
+                "taohua_11.png",
+                "taohua_12.png",
+                "taohua_13.png",
+                "taohua_14.png",
+                "taohua_15.png",
+                "taohua_16.png",
+                "taohua_17.png",
+                "taohua_18.png",
+                "taohua_19.png",
+                "taohua_20.png",
+                "taohua_21.png",
+                "taohua_22.png",
+                "taohua_23.png",
+                "taohua_24.png",
+                "taohua_25.png",
+                "taohua_26.png",
+                "taohua_27.png",
+                "taohua_28.png",
+                "taohua_29.png",
+                "taohua_30.png",
+                "taohua_31.png",
+                "taohua_32.png",
+                "taohua_33.png",
+                "taohua_34.png",
+                "taohua_35.png"
+            ],
+            "loop": "1",
+            "mode": "fullscreen",
+            "name": "screen0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/tousha",
+            "resourceType": "sequence",
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/tousha",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone6_190": "190"
+                },
+                "spine_name": "f_tousha"
+            },
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "adjust": "0.21",
+            "adjust2": "0.18",
+            "adjust3": "0.2",
+            "adjust4": "0.23",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.25",
+            "radius_y": "0.25",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

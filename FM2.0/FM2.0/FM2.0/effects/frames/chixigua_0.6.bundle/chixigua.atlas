@@ -1,0 +1,125 @@
+
+chixigua.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di2
+  rotate: true
+  xy: 1077, 176
+  size: 333, 190
+  orig: 333, 190
+  offset: 0, 0
+  index: -1
+di3
+  rotate: true
+  xy: 848, 174
+  size: 335, 227
+  orig: 335, 227
+  offset: 0, 0
+  index: -1
+di4
+  rotate: true
+  xy: 376, 135
+  size: 374, 235
+  orig: 374, 235
+  offset: 0, 0
+  index: -1
+di5
+  rotate: true
+  xy: 613, 140
+  size: 369, 233
+  orig: 369, 233
+  offset: 0, 0
+  index: -1
+gua1
+  rotate: true
+  xy: 1645, 29
+  size: 242, 186
+  orig: 242, 186
+  offset: 0, 0
+  index: -1
+gua2
+  rotate: true
+  xy: 1823, 273
+  size: 236, 200
+  orig: 236, 200
+  offset: 0, 0
+  index: -1
+gua3
+  rotate: true
+  xy: 1833, 32
+  size: 239, 193
+  orig: 239, 193
+  offset: 0, 0
+  index: -1
+gua4
+  rotate: true
+  xy: 1269, 24
+  size: 247, 181
+  orig: 247, 181
+  offset: 0, 0
+  index: -1
+gua5
+  rotate: true
+  xy: 1452, 29
+  size: 242, 191
+  orig: 242, 191
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 0, 107
+  size: 402, 91
+  orig: 402, 91
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 0, 0
+  size: 389, 105
+  orig: 389, 105
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 189, 112
+  size: 397, 90
+  orig: 397, 90
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 93, 112
+  size: 397, 94
+  orig: 397, 94
+  offset: 0, 0
+  index: -1
+s5
+  rotate: true
+  xy: 281, 133
+  size: 376, 93
+  orig: 376, 93
+  offset: 0, 0
+  index: -1
+tousheng
+  rotate: false
+  xy: 1269, 311
+  size: 552, 198
+  orig: 552, 198
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 531, 8
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 391, 1
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1

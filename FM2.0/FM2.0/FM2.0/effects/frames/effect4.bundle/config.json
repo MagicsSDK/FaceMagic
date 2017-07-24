@@ -1,0 +1,114 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask01",
+      "images": [
+        "jingling2.png"
+      ],
+      "typemesh": "default",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "morph0",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.25",
+      "adjust2": "0.4",
+      "adjust3": "0.2",
+      "adjust4": "0.3"
+    },
+    {
+      "id": "w2",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": 91,
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w3",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": 91,
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w4",
+      "name": "w4",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "Touhua3_70": "70",
+          "Touhua_20": "20",
+          "bone19_290": "290"
+        },
+        "spine_name": "f_jinglin"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w5",
+      "name": "w5",
+      "fps": "60",
+      "loop": "1",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "root_0": "0"
+        },
+        "spine_name": "g_jinglin"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

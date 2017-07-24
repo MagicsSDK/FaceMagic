@@ -1,0 +1,97 @@
+
+dese.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 3
+  rotate: false
+  xy: 174, 117
+  size: 171, 135
+  orig: 171, 135
+  offset: 0, 0
+  index: -1
+图层 3 拷贝
+  rotate: false
+  xy: 0, 117
+  size: 172, 135
+  orig: 172, 135
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 347, 209
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝
+  rotate: true
+  xy: 0, 0
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝 2
+  rotate: false
+  xy: 49, 72
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝 3
+  rotate: false
+  xy: 347, 164
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝 4
+  rotate: false
+  xy: 397, 209
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝 5
+  rotate: false
+  xy: 99, 72
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 4 拷贝 6
+  rotate: false
+  xy: 347, 119
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 0, 50
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+图层 5 拷贝
+  rotate: false
+  xy: 0, 50
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+图层 5 拷贝 2
+  rotate: false
+  xy: 447, 217
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+图层 5 拷贝 3
+  rotate: false
+  xy: 397, 167
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1

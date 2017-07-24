@@ -1,0 +1,56 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.22",
+            "adjust2": "0.23",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/yunxiong",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/yunxiong",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bizi_290": "290",
+                    "bone2_240": "240",
+                    "bone4_190": "190",
+                    "bone5_380": "380",
+                    "bone_50": "50",
+                    "youyanhai2_320": "320",
+                    "youyanhai_130": "130"
+                },
+                "spine_name": "yun"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

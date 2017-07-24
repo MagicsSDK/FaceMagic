@@ -1,0 +1,27 @@
+
+chengshishenshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huzi
+  rotate: false
+  xy: 516, 288
+  size: 190, 72
+  orig: 190, 72
+  offset: 0, 0
+  index: -1
+lingjie
+  rotate: false
+  xy: 516, 362
+  size: 193, 78
+  orig: 193, 78
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 0
+  size: 514, 440
+  orig: 514, 440
+  offset: 0, 0
+  index: -1

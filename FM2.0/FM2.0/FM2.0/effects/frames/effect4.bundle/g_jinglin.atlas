@@ -1,0 +1,125 @@
+
+g_jinglin.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 1282, 446
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 1376, 544
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 1282, 532
+  size: 92, 479
+  orig: 92, 479
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 582, 157
+  size: 132, 354
+  orig: 132, 354
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 0, 44
+  size: 98, 399
+  orig: 98, 399
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 0, 144
+  size: 145, 580
+  orig: 145, 580
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 1376, 630
+  size: 101, 381
+  orig: 101, 381
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: true
+  xy: 938, 171
+  size: 118, 148
+  orig: 118, 148
+  offset: 0, 0
+  index: -1
+hua7
+  rotate: false
+  xy: 1479, 796
+  size: 187, 215
+  orig: 187, 215
+  offset: 0, 0
+  index: -1
+hudie
+  rotate: true
+  xy: 0, 0
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+hudie2
+  rotate: false
+  xy: 1668, 960
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+hudie3
+  rotate: false
+  xy: 1479, 730
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingling
+  rotate: true
+  xy: 401, 45
+  size: 97, 173
+  orig: 97, 173
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 0, 291
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 1282, 409
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 1344, 502
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 1088, 256
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

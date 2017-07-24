@@ -1,0 +1,32 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1498212424860",
+      "name": "shenshi",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_190": "190",
+          "bone_260": "260",
+          "bone_50": "50"
+        },
+        "spine_name": "shenshi"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

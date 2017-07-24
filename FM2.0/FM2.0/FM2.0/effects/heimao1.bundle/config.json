@@ -1,0 +1,143 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask1498030961272",
+      "fps": "25",
+      "loop": "1",
+      "images": [
+        "mask.png"
+      ],
+      "typemesh": "default",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "m1498031058972",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.14",
+      "adjust2": "0.12",
+      "adjust3": "0.1",
+      "adjust4": "0.1"
+    },
+    {
+      "id": "w1498030997523",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.18",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1498031003508",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.18",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1498031297417",
+      "name": "jingdai",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "r": "1",
+      "personid": "0",
+      "beforeFilter": "false",
+      "images": [
+        "jingdai.png"
+      ],
+      "index": "0",
+      "h": [
+        "0.00",
+        "0.70"
+      ],
+      "s": [
+        "3.46",
+        "3.46"
+      ],
+      "haveoccasion": "1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1498031923953",
+      "name": "erduo2_00000",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "r": "1",
+      "personid": "0",
+      "beforeFilter": "false",
+      "plist":["erduo"],
+      "images": [
+        "erduo2_00000.png",
+        "erduo2_00001.png",
+        "erduo2_00002.png",
+        "erduo2_00003.png",
+        "erduo2_00004.png",
+        "erduo2_00005.png",
+        "erduo2_00006.png",
+        "erduo2_00007.png",
+        "erduo2_00008.png",
+        "erduo2_00009.png",
+        "erduo2_00010.png",
+        "erduo2_00011.png",
+        "erduo2_00012.png",
+        "erduo2_00013.png"
+      ],
+      "index": "190",
+      "h": [
+        "-0.19",
+        "0.65"
+      ],
+      "s": [
+        "3.87",
+        "3.87"
+      ],
+      "haveoccasion": "1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

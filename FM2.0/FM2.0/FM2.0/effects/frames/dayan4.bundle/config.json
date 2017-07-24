@@ -1,0 +1,116 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.06,
+                2.18
+            ],
+            "haveoccasion": "1",
+            "id": "w0",
+            "images": [
+                "toufa.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/shiliujie/fa",
+            "resourceType": "sequence",
+            "s": [
+                1.27,
+                1.27
+            ],
+            "selected_image": "toufa.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "290",
+            "intensity": "0.8",
+            "personid": "0",
+            "radius_x": "1.01",
+            "radius_y": "0.87",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "-0.06",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "320",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.6",
+            "radius_y": "0.6",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 0,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "130",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.6",
+            "radius_y": "0.6",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": 0,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0",
+            "adjust2": "0",
+            "adjust3": "0.8",
+            "adjust4": "0.8",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "shiliujie5.png"
+            ],
+            "mappings": {
+                "shiliujie5.png": "/Users/wangyukun/Desktop/变形脸型/shiliujie/face/shiliujie5.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/shiliujie/face",
+            "subType": "static",
+            "type": "mask"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

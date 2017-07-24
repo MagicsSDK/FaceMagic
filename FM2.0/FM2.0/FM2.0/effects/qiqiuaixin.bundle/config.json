@@ -1,0 +1,134 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.22",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/qiqiuaixin",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.25",
+            "radius_y": "0.25",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/qiqiuaixin",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/qiqiuaixin",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.03,
+                -0.06
+            ],
+            "haveoccasion": "1",
+            "id": "w6",
+            "images": [
+                "saihong1.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w6",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/qiqiuaixin",
+            "s": [
+                4.95,
+                4.95
+            ],
+            "selected_image": "saihong1.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w7",
+            "loop": "1",
+            "name": "w7",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_380": "380",
+                    "bone_190": "190"
+                },
+                "spine_name": "qiqiu_renlian"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w8",
+            "loop": "1",
+            "name": "w8",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "qiqiu_qj"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

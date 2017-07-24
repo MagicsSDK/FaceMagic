@@ -1,0 +1,111 @@
+
+wulianku.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lei l 1
+  rotate: false
+  xy: 582, 816
+  size: 190, 206
+  orig: 190, 206
+  offset: 0, 0
+  index: -1
+lei l 2
+  rotate: false
+  xy: 120, 3
+  size: 123, 207
+  orig: 123, 207
+  offset: 0, 0
+  index: -1
+lei l 3
+  rotate: false
+  xy: 582, 404
+  size: 122, 196
+  orig: 122, 196
+  offset: 0, 0
+  index: -1
+lei l 4
+  rotate: true
+  xy: 774, 780
+  size: 118, 196
+  orig: 118, 196
+  offset: 0, 0
+  index: -1
+lei r 1
+  rotate: true
+  xy: 300, 256
+  size: 128, 209
+  orig: 128, 209
+  offset: 0, 0
+  index: -1
+lei r 2
+  rotate: false
+  xy: 582, 602
+  size: 122, 212
+  orig: 122, 212
+  offset: 0, 0
+  index: -1
+lei r 3
+  rotate: true
+  xy: 774, 900
+  size: 122, 212
+  orig: 122, 212
+  offset: 0, 0
+  index: -1
+lei r 4
+  rotate: false
+  xy: 0, 0
+  size: 118, 210
+  orig: 118, 210
+  offset: 0, 0
+  index: -1
+lianhong
+  rotate: false
+  xy: 0, 212
+  size: 298, 172
+  orig: 298, 172
+  offset: 0, 0
+  index: -1
+meimao l
+  rotate: false
+  xy: 300, 226
+  size: 115, 28
+  orig: 115, 28
+  offset: 0, 0
+  index: -1
+meimao r
+  rotate: true
+  xy: 988, 917
+  size: 105, 31
+  orig: 105, 31
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 0, 386
+  size: 580, 636
+  orig: 580, 636
+  offset: 0, 0
+  index: -1
+xing 1
+  rotate: false
+  xy: 245, 124
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+xing 2
+  rotate: false
+  xy: 706, 749
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+xing 3
+  rotate: false
+  xy: 511, 293
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,177 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "id": "mask01",
+            "images": [
+                "luolidashu.png"
+            ],
+            "mappings": {
+                "luolidashu.png": "/Users/wangyukun/Desktop/变形脸型/luolidashu/face/luolidashu.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/luolidashu/face",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.01,
+                0.53
+            ],
+            "haveoccasion": "1",
+            "id": "w0",
+            "images": [
+                "maozi.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/luolidashu/maozi",
+            "resourceType": "sequence",
+            "s": [
+                3.89,
+                3.9
+            ],
+            "selected_image": "maozi.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "130",
+            "intensity": "-0.8",
+            "personid": "0",
+            "radius_x": "0.35",
+            "radius_y": "0.35",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "320",
+            "intensity": "-0.8",
+            "personid": "0",
+            "radius_x": "0.35",
+            "radius_y": "0.35",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "240",
+            "intensity": "0.9",
+            "personid": "0",
+            "radius_x": "0.96",
+            "radius_y": "0.72",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "0.10",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "290",
+            "intensity": "1",
+            "personid": "0",
+            "radius_x": "0.75",
+            "radius_y": "0.49",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "0.08",
+            "yType": 0
+        },
+        {
+            "bulgeX": [
+                "0",
+                "0",
+                "0",
+                "-14",
+                "-8",
+                "-4",
+                "-1",
+                "-1"
+            ],
+            "bulgeY": [
+                "1",
+                "1",
+                "1",
+                "-3",
+                "-3",
+                "0",
+                "0",
+                "0"
+            ],
+            "id": "morph0",
+            "loop": "1",
+            "mode": "bulge",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w5",
+            "index": "260",
+            "intensity": "-1",
+            "personid": "0",
+            "radius_x": "0.35",
+            "radius_y": "0.29",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.02",
+            "xType": 0,
+            "y": "-0.09",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w6",
+            "index": "390",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "1.13",
+            "radius_y": "1.04",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "0.52",
+            "yType": 1
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

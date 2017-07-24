@@ -1,0 +1,159 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "30",
+            "intensity": "0.5",
+            "personid": "0",
+            "radius_x": "0.58",
+            "radius_y": "0.56",
+            "subType": "1",
+            "type": "distortion",
+            "x": "-0.46",
+            "xType": 0,
+            "y": "0.12",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "80",
+            "intensity": "0.5",
+            "personid": "0",
+            "radius_x": "0.56",
+            "radius_y": "0.55",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.47",
+            "xType": 0,
+            "y": "0.01",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "130",
+            "intensity": "-0.8",
+            "personid": "0",
+            "radius_x": "0.35",
+            "radius_y": "0.35",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "240",
+            "intensity": "0.8",
+            "personid": "0",
+            "radius_x": "0.71",
+            "radius_y": "0.57",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "-0.03",
+            "yType": 0
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w5",
+            "index": "320",
+            "intensity": "-0.8",
+            "personid": "0",
+            "radius_x": "0.35",
+            "radius_y": "0.35",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.02,
+                0.74
+            ],
+            "haveoccasion": "1",
+            "id": "w7",
+            "images": [
+                "toufaquan.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w7",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/errenzhuan/fa",
+            "resourceType": "sequence",
+            "s": [
+                3.59,
+                3.58
+            ],
+            "selected_image": "toufaquan.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w8",
+            "index": "390",
+            "intensity": "-0.5",
+            "personid": "0",
+            "radius_x": "0.84",
+            "radius_y": "0.64",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.03",
+            "xType": 0,
+            "y": "0.07",
+            "yType": 1
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "errenzhuan2.png"
+            ],
+            "mappings": {
+                "errenzhuan2.png": "/Users/wangyukun/Desktop/变形脸型/errenzhuan/face/errenzhuan2.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/变形脸型/errenzhuan/face",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w9",
+            "index": "290",
+            "intensity": "0.5",
+            "personid": "0",
+            "radius_x": "1.15",
+            "radius_y": "0.94",
+            "subType": "1",
+            "type": "distortion",
+            "x": "0.00",
+            "xType": 0,
+            "y": "-0.13",
+            "yType": 0
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

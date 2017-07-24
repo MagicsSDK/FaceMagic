@@ -1,0 +1,62 @@
+
+xiongmao_rl.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZZ1
+  rotate: false
+  xy: 0, 177
+  size: 335, 289
+  orig: 335, 289
+  offset: 0, 0
+  index: -1
+ZZ2
+  rotate: false
+  xy: 337, 177
+  size: 332, 289
+  orig: 332, 289
+  offset: 0, 0
+  index: -1
+ZZ3
+  rotate: false
+  xy: 671, 177
+  size: 332, 289
+  orig: 332, 289
+  offset: 0, 0
+  index: -1
+ZZ4
+  rotate: false
+  xy: 1005, 177
+  size: 332, 289
+  orig: 332, 289
+  offset: 0, 0
+  index: -1
+ZZ5
+  rotate: false
+  xy: 1339, 178
+  size: 321, 288
+  orig: 321, 288
+  offset: 0, 0
+  index: -1
+biz1
+  rotate: false
+  xy: 176, 56
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 1662, 290
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 0, 0
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1

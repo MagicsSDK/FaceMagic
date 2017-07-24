@@ -1,0 +1,69 @@
+
+yidian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 54, 68
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 706, 507
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 902, 618
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 706, 606
+  size: 194, 70
+  orig: 194, 70
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 706, 678
+  size: 285, 333
+  orig: 285, 333
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 140
+  size: 257, 53
+  orig: 257, 53
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 195
+  size: 704, 816
+  orig: 704, 816
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 0, 0
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+right
+  rotate: true
+  xy: 259, 141
+  size: 52, 137
+  orig: 52, 137
+  offset: 0, 0
+  index: -1

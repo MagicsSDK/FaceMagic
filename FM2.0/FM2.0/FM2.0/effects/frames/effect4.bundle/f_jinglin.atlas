@@ -1,0 +1,27 @@
+
+f_jinglin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Touhua
+  rotate: true
+  xy: 0, 0
+  size: 219, 296
+  orig: 219, 296
+  offset: 0, 0
+  index: -1
+Touhua2
+  rotate: false
+  xy: 583, 136
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+Touhua3
+  rotate: true
+  xy: 298, 9
+  size: 210, 283
+  orig: 210, 283
+  offset: 0, 0
+  index: -1

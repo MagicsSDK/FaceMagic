@@ -1,0 +1,86 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "mask01",
+            "images": [
+                "huzi.png"
+            ],
+            "mappings": {
+                "huzi.png": "/Users/wangyukun/Desktop/涂鸦眼镜/huzi/huzi.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/tuyayanjing",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "beforeFilter": "false",
+            "fps": "25",
+            "h": [
+                0.04,
+                -0.1
+            ],
+            "haveoccasion": "1",
+            "id": "w0",
+            "images": [
+                "toufa.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/tuyayanjing",
+            "resourceType": "sequence",
+            "s": [
+                3.79,
+                3.77
+            ],
+            "selected_image": "toufa.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "fps": "25",
+            "h": [
+                0.03,
+                -0.07
+            ],
+            "haveoccasion": "1",
+            "id": "w1",
+            "images": [
+                "yanjing.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/tuyayanjing",
+            "resourceType": "sequence",
+            "s": [
+                3.84,
+                3.84
+            ],
+            "selected_image": "yanjing.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

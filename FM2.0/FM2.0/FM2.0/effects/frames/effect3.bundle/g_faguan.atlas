@@ -1,0 +1,41 @@
+
+g_faguan.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongdian
+  rotate: false
+  xy: 0, 0
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 508, 104
+  size: 503, 265
+  orig: 503, 265
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 0, 72
+  size: 506, 297
+  orig: 506, 297
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 1013, 129
+  size: 483, 240
+  orig: 483, 240
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 1498, 129
+  size: 483, 240
+  orig: 483, 240
+  offset: 0, 0
+  index: -1

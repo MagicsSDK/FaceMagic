@@ -1,0 +1,46 @@
+{
+    "action": "skin_animation",
+    "param": [
+        {
+            "id": "Space",
+            "loop": "1",
+            "name": "Space",
+            "personid": "0",
+            "AR":{
+               "Sensor": 1 ,
+               "CameraControl":1
+            },
+            "skinmodel": {
+                "animationPath":"Space.FBX"
+                },
+
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "skinmodel"
+        },
+        {
+            "id": "skin_dahuangfeng",
+            "loop": "1",
+            "name": "skin_dahuangfeng",
+            "personid": "0",
+            "skinmodel": {
+                "animationPath":"m_dahuangfeng.FBX",
+                "positionZ":1200.0,
+                "rotationX":90.0,
+                "rotationY":90.0,
+                "rotationZ":90.0
+                },
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "skinmodel"
+        }
+    ],
+    "version": "v1",
+    "haveoccasion": "1"
+}

@@ -1,0 +1,163 @@
+{
+"skeleton": { "hash": "/8bXCNwomnATndL8I65/gzrNokI", "spine": "3.6.36", "width": 733.1, "height": 1277.97, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 12.63, "y": 539.04, "scaleX": 1.07, "scaleY": 1.07 },
+	{ "name": "cherry1", "parent": "bone", "x": -203.91, "y": 613.82 },
+	{ "name": "cherry2", "parent": "bone", "x": 243.7, "y": 244.12 },
+	{ "name": "cherry3", "parent": "bone", "x": -284.07, "y": -117.75 },
+	{ "name": "luck", "parent": "bone", "x": -12.92, "y": -383.41 }
+],
+"slots": [
+	{ "name": "biankuang", "bone": "root", "attachment": "biankuang" },
+	{ "name": "cherry3", "bone": "cherry3", "attachment": "cherry3" },
+	{ "name": "cherry2", "bone": "cherry2", "attachment": "cherry2" },
+	{ "name": "cherry1", "bone": "cherry1", "attachment": "cherry1" },
+	{ "name": "luck", "bone": "luck", "attachment": "luck" }
+],
+"skins": {
+	"default": {
+		"biankuang": {
+			"biankuang": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 1, 5, 322.25, -91.3, 1, 1, 5, -343.75, -91.3, 1, 1, 5, -343.75, 1056.7, 1, 1, 5, 322.25, 1056.7, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 666,
+				"height": 1148
+			}
+		},
+		"cherry1": {
+			"cherry1": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 1, 2, 71.23, -83.16, 1, 1, 2, -76.77, -83.16, 1, 1, 2, -76.77, 68.84, 1, 1, 2, 71.23, 68.84, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 148,
+				"height": 152
+			}
+		},
+		"cherry2": {
+			"cherry2": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 1, 3, 72.05, -77.83, 1, 1, 3, -82.95, -77.83, 1, 1, 3, -82.95, 71.17, 1, 1, 3, 72.05, 71.17, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 155,
+				"height": 149
+			}
+		},
+		"cherry3": {
+			"cherry3": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 1, 4, 85.67, -77.96, 1, 1, 4, -85.33, -77.96, 1, 1, 4, -85.33, 96.04, 1, 1, 4, 85.67, 96.04, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 171,
+				"height": 174
+			}
+		},
+		"luck": {
+			"luck": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 1, 5, 282.25, -128.3, 1, 1, 5, -295.75, -128.3, 1, 1, 5, -295.75, 136.7, 1, 1, 5, 282.25, 136.7, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 578,
+				"height": 265
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"cherry1": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"cherry2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"cherry3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": -30,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+
+qiqiu_qj.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiq
+  rotate: true
+  xy: 2821, 0
+  size: 409, 418
+  orig: 409, 418
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 1747, 144
+  size: 558, 265
+  orig: 558, 265
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 2307, 156
+  size: 512, 253
+  orig: 512, 253
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 1194, 110
+  size: 551, 299
+  orig: 551, 299
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 0, 130
+  size: 624, 279
+  orig: 624, 279
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 626, 74
+  size: 566, 335
+  orig: 566, 335
+  offset: 0, 0
+  index: -1

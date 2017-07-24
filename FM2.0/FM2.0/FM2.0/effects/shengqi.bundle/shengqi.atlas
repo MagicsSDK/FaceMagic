@@ -1,0 +1,55 @@
+
+shengqi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi1
+  rotate: false
+  xy: 0, 83
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 152, 106
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+qi3
+  rotate: false
+  xy: 378, 224
+  size: 134, 111
+  orig: 134, 111
+  offset: 0, 0
+  index: -1
+qi4
+  rotate: false
+  xy: 778, 405
+  size: 134, 104
+  orig: 134, 104
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 0, 224
+  size: 376, 285
+  orig: 376, 285
+  offset: 0, 0
+  index: -1
+shengqi1
+  rotate: false
+  xy: 0, 0
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+shengqi2
+  rotate: false
+  xy: 378, 337
+  size: 398, 172
+  orig: 398, 172
+  offset: 0, 0
+  index: -1

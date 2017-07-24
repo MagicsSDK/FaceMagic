@@ -1,0 +1,111 @@
+
+yanjingyanse.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j1
+  rotate: false
+  xy: 385, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 699, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 1013, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 1327, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j5
+  rotate: false
+  xy: 1641, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j6
+  rotate: false
+  xy: 1955, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+j7
+  rotate: false
+  xy: 2269, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 0, 68
+  size: 383, 166
+  orig: 383, 166
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2583, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 2897, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 3211, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 699, 1
+  size: 310, 115
+  orig: 310, 115
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 3525, 118
+  size: 312, 116
+  orig: 312, 116
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 385, 2
+  size: 312, 114
+  orig: 312, 114
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 1011, 0
+  size: 302, 116
+  orig: 302, 116
+  offset: 0, 0
+  index: -1

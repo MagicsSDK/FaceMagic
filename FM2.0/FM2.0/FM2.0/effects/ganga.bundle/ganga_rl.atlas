@@ -1,0 +1,13 @@
+
+ganga_rl.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shutiao
+  rotate: false
+  xy: 0, 0
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1

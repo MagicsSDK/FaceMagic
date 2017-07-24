@@ -1,0 +1,22 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500521241527",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "1",
+      "mode": "slim",
+      "personid": "0",
+      "adjust": "0.1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

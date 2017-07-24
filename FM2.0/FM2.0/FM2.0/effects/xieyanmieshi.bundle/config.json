@@ -1,0 +1,85 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.22",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xieyanmieshi",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xieyanmieshi",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "LG_290": "290",
+                    "ML_190": "190",
+                    "MR_380": "380",
+                    "Yan_130": "130"
+                },
+                "spine_name": "xxg"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.02,
+                -0.3
+            ],
+            "haveoccasion": "1",
+            "id": "w5",
+            "images": [
+                "YA3.png"
+            ],
+            "index": "240",
+            "loop": "1",
+            "name": "w5",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/Desktop/ya",
+            "s": [
+                0.67,
+                0.68
+            ],
+            "selected_image": "YA3.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

@@ -1,0 +1,54 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_190": "190",
+                    "bone2_240": "240",
+                    "bone3_320": "320",
+                    "bone4_380": "380",
+                    "bone_130": "130",
+                    "bone_220": "220"
+                },
+                "spine_name": "MaRen"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "adjust": "0.2.",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.2.",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

@@ -1,0 +1,129 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1498205267039",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.21",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.23"
+    },
+    {
+      "id": "w1498205332533",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.26",
+      "radius_y": "0.26",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1498205340766",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.25",
+      "radius_y": "0.25",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1498211740914",
+      "name": "saihong1",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "r": "1",
+      "personid": "0",
+      "beforeFilter": "false",
+      "images": [
+        "saihong1.png"
+      ],
+      "index": "390",
+      "h": [
+        "0.03",
+        "-0.05"
+      ],
+      "s": [
+        "4.48",
+        "4.48"
+      ],
+      "haveoccasion": "1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1498212317188",
+      "name": "xiongmao_rl",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "biz1_290": "290",
+          "bone2_190": "190",
+          "bone3_380": "380",
+          "bone_240": "240"
+        },
+        "spine_name": "xiongmao_rl"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w1498205166724",
+      "name": "xiongmao_qj",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "xiongmao_qj"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

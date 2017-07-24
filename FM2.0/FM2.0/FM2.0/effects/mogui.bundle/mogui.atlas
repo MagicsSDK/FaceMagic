@@ -1,0 +1,90 @@
+
+mogui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 625, 365
+  size: 614, 100
+  orig: 614, 100
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 0, 1
+  size: 585, 109
+  orig: 585, 109
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 0, 354
+  size: 623, 111
+  orig: 623, 111
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 0, 112
+  size: 587, 122
+  orig: 587, 122
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 0, 236
+  size: 604, 116
+  orig: 604, 116
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 589, 0
+  size: 348, 174
+  orig: 348, 174
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 1603, 272
+  size: 353, 193
+  orig: 353, 193
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 625, 176
+  size: 350, 187
+  orig: 350, 187
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 1241, 299
+  size: 360, 166
+  orig: 360, 166
+  offset: 0, 0
+  index: -1
+j5
+  rotate: true
+  xy: 977, 16
+  size: 347, 166
+  orig: 347, 166
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 1145, 81
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 1145, 190
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1

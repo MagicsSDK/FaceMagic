@@ -1,0 +1,153 @@
+
+mj_rl.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanjing00
+  rotate: false
+  xy: 0, 1687
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 0, 1446
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing04
+  rotate: false
+  xy: 527, 1687
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing06
+  rotate: false
+  xy: 0, 1205
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing08
+  rotate: false
+  xy: 527, 1446
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing10
+  rotate: false
+  xy: 1054, 1687
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing12
+  rotate: false
+  xy: 0, 964
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing14
+  rotate: false
+  xy: 527, 1205
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing16
+  rotate: false
+  xy: 1054, 1446
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing18
+  rotate: false
+  xy: 0, 723
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing20
+  rotate: false
+  xy: 527, 964
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing22
+  rotate: false
+  xy: 1054, 1205
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing24
+  rotate: true
+  xy: 1581, 1401
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing26
+  rotate: false
+  xy: 0, 482
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing28
+  rotate: false
+  xy: 527, 723
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing30
+  rotate: false
+  xy: 1054, 964
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing32
+  rotate: false
+  xy: 0, 241
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing34
+  rotate: false
+  xy: 527, 482
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing36
+  rotate: false
+  xy: 1054, 723
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing38
+  rotate: true
+  xy: 1581, 874
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1
+yanjing40
+  rotate: false
+  xy: 0, 0
+  size: 525, 239
+  orig: 525, 239
+  offset: 0, 0
+  index: -1

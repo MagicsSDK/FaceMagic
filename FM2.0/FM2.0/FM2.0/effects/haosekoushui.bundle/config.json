@@ -1,0 +1,116 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/haosekoushui",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.25",
+            "radius_y": "0.25",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/haosekoushui",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.22",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/haosekoushui",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.06,
+                -0.15
+            ],
+            "haveoccasion": "1",
+            "id": "w3",
+            "images": [
+                "saihou.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w3",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/haosekoushui",
+            "s": [
+                3.76,
+                3.76
+            ],
+            "selected_image": "saihou.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_130": "130",
+                    "bone3_320": "320",
+                    "bone_220": "220"
+                },
+                "spine_name": "haose"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

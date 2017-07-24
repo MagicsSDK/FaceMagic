@@ -1,0 +1,83 @@
+
+xinxin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 112, 24
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 694, 427
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 694, 350
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 193, 53
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 193, 0
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 861, 455
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 787, 441
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 694, 294
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+big
+  rotate: false
+  xy: 0, 19
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 0, 106
+  size: 345, 404
+  orig: 345, 404
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 347, 106
+  size: 345, 404
+  orig: 345, 404
+  offset: 0, 0
+  index: -1

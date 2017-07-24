@@ -1,0 +1,80 @@
+{
+  "loadType":1,
+  "cfg":[
+    {
+      "name":"大眼",
+      "isSlider" : "1",
+      "id":"-1",
+      "value":[
+        "dayan.bundle",
+        "dayan 2.bundle",
+        "dayan 3.bundle",
+        "dayan4.bundle",
+        "dayan5.bundle",
+        "chixigua",
+        "chixigua_0.4.bundle",
+        "chixigua_0.5.bundle",
+        "chixigua_0.6.bundle",
+        "chixigua_0.7.bundle"
+      ]
+    },
+    {
+      "isSlider" : "1",
+      "name":"瘦脸",
+      "id":"-2",
+      "value":[
+        "lianxing.bundle",
+        "lianxing 2.bundle",
+        "lianxing 3.bundle",
+        "lianxing4.bundle",
+        "lianxing5.bundle",
+        "youyong",
+        "youyong_0.2.bundle",
+        "youyong_0.3.bundle",
+        "youyong_0.4.bundle",
+        "youyong_0.5.bundle"
+      ]
+    },
+    {
+      "isSlider" : "0",
+      "name":"特效",
+      "id":"-3",
+      "value":[
+        "effect1.bundle",
+        "effect2.bundle",
+        "effect3.bundle",
+        "effect4.bundle",
+        "effect5.bundle"
+      ]
+    },
+    {
+      "isSlider" : "0",
+      "name":"3D",
+      "id":"-4",
+      "value":[
+        "chou.bundle",
+        "dan.bundle",
+        "mo.bundle",
+        "jing.bundle",
+        "sheng.bundle"
+      ]
+    },
+     {
+     "isSlider" : "0",
+     "name":"AR",
+     "id":"-5",
+     "value":[
+              "Space.bundle",
+              "dahuangfeng.bundle",
+              ]
+     },
+     {
+     "isSlider" : "0",
+     "name":"美颜",
+     "id":"-6",
+     "value":[
+              "faceBeautify.bundle"
+              ]
+     }
+  ]
+}

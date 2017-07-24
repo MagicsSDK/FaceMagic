@@ -1,0 +1,62 @@
+
+qiqiu_renlian.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x1
+  rotate: false
+  xy: 447, 79
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 196, 44
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 101, 44
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 0, 0
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 290, 50
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 380, 69
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+x7
+  rotate: false
+  xy: 0, 40
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+x8
+  rotate: false
+  xy: 380, 26
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1

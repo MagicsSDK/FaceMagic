@@ -1,0 +1,80 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask01",
+      "images": [
+        "saihong 20173.png"
+      ],
+      "typemesh": "default",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w2",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.24",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.29",
+      "radius_y": "0.29",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w3",
+      "name": "w3",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "20_290": "290",
+          "31_280": "280",
+          "33_270": "270",
+          "bone20_100": "100",
+          "bone20_50": "50",
+          "bone5_190": "190",
+          "bone7_380": "380"
+        },
+        "spine_name": "tuzi"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

@@ -1,0 +1,74 @@
+{
+    "action": "skin_animation",
+    "param": [
+        {
+            "id": "skin_dahuangfeng",
+            "loop": "1",
+            "name": "skin_dahuangfeng",
+            "personid": "0",
+            "AR":{
+               "Sensor": 1 ,
+               "CameraControl":1
+            },
+            "SkyDome":{
+               "TexturePath" : "skydome1.png"
+            },
+            "skinmodel": {
+                "animationPath":"m_dahuangfeng.FBX",
+                "animationMap": [
+                                {
+                                    "AnimateName"      :"run",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 0,
+                                    "AnimateEnd"       : 24
+                                },
+                                {
+                                    "AnimateName"      :"idle",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 100,
+                                    "AnimateEnd"       : 160
+                                },
+                                {
+                                    "AnimateName"      :"shoot1",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 180,
+                                    "AnimateEnd"       : 216
+                                },
+                                {
+                                    "AnimateName"      :"shoot2",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 245,
+                                    "AnimateEnd"       : 258
+                                },
+                                {
+                                    "AnimateName"      :"appear",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 279,
+                                    "AnimateEnd"       : 309
+                                },
+                                {
+                                    "AnimateName"      :"defiance",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 329,
+                                    "AnimateEnd"       : 429
+                                },
+                                {
+                                    "AnimateName"      :"transform",
+                                    "AnimateIndex"     : 0,
+                                    "AnimateStart"     : 450,
+                                    "AnimateEnd"       : 476
+                                }
+                            ]
+                },
+
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "skinmodel"
+        }
+    ],
+    "version": "v1",
+    "haveoccasion": "1"
+}

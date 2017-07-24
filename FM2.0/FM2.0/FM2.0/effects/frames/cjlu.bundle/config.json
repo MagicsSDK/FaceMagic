@@ -1,0 +1,105 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/cjlu",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "g_cjlu"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.24",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "subType": "2",
+            "type": "distortion",
+            "x": "-0.00",
+            "xType": 1,
+            "y": "0.04",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w4",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "id": "w5",
+            "loop": "1",
+            "name": "w5",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_380": "380",
+                    "bone3_280": "280",
+                    "bone4_270": "270",
+                    "bone_190": "190",
+                    "g11_290": "290"
+                },
+                "spine_name": "f_cjlu"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

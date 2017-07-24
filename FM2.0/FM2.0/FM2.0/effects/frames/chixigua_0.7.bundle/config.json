@@ -1,0 +1,38 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1498642834517",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.7",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1498642839831",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.7",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

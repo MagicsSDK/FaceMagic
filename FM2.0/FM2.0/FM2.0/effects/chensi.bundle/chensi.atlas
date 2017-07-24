@@ -1,0 +1,55 @@
+
+chensi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1075, 456
+  size: 138, 233
+  orig: 138, 233
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 0, 48
+  size: 147, 247
+  orig: 147, 247
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 249, 127
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1075, 691
+  size: 270, 284
+  orig: 270, 284
+  offset: 0, 0
+  index: -1
+meimao L
+  rotate: false
+  xy: 1347, 923
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+meimao R
+  rotate: false
+  xy: 0, 0
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 0, 197
+  size: 1073, 778
+  orig: 1073, 778
+  offset: 0, 0
+  index: -1

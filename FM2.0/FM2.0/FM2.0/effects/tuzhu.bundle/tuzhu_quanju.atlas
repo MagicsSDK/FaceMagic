@@ -1,0 +1,104 @@
+
+tuzhu_quanju.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo
+  rotate: false
+  xy: 2166, 1283
+  size: 127, 163
+  orig: 127, 163
+  offset: 0, 0
+  index: -1
+guihuo01
+  rotate: false
+  xy: 0, 0
+  size: 129, 164
+  orig: 129, 164
+  offset: 0, 0
+  index: -1
+guihuo016
+  rotate: false
+  xy: 0, 1448
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo017
+  rotate: false
+  xy: 722, 2730
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo018
+  rotate: false
+  xy: 0, 166
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo019
+  rotate: false
+  xy: 722, 1448
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo02
+  rotate: false
+  xy: 2888, 3846
+  size: 129, 164
+  orig: 129, 164
+  offset: 0, 0
+  index: -1
+guihuo020
+  rotate: false
+  xy: 1444, 2730
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo021
+  rotate: false
+  xy: 722, 166
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo022
+  rotate: false
+  xy: 1444, 1448
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo023
+  rotate: false
+  xy: 2166, 2730
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo024
+  rotate: false
+  xy: 1444, 166
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo025
+  rotate: false
+  xy: 2166, 1448
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+guihuo026
+  rotate: false
+  xy: 0, 2730
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+yaobai.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+II
+  rotate: false
+  xy: 3723, 400
+  size: 343, 83
+  orig: 343, 83
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 583, 49
+  size: 355, 100
+  orig: 355, 100
+  offset: 0, 0
+  index: -1
+lll
+  rotate: false
+  xy: 3723, 322
+  size: 342, 76
+  orig: 342, 76
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1928, 91
+  size: 601, 392
+  orig: 601, 392
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 1282, 153
+  size: 644, 330
+  orig: 644, 330
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 583, 151
+  size: 697, 332
+  orig: 697, 332
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 0, 0
+  size: 581, 483
+  orig: 581, 483
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 3124, 177
+  size: 597, 306
+  orig: 597, 306
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 2531, 155
+  size: 591, 328
+  orig: 591, 328
+  offset: 0, 0
+  index: -1

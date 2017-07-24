@@ -1,0 +1,31 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1498213027317",
+      "name": "juanhuzi",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_190": "190",
+          "bone_260": "260"
+        },
+        "spine_name": "juanhuzi"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

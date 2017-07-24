@@ -1,0 +1,63 @@
+{
+"skeleton": { "hash": "Irb92EoFblckTBPFyBG/k8V5tKc", "spine": "3.5.37", "width": 738.64, "height": 1280, "images": "./尴尬/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone20_300", "parent": "root", "x": 135.07, "y": 629.43 },
+	{
+		"name": "shutiao",
+		"parent": "bone20_300",
+		"length": 74.42,
+		"rotation": -85.7,
+		"x": 1.12,
+		"y": -22.88,
+		"scaleX": 1.435,
+		"scaleY": 1.137
+	}
+],
+"slots": [
+	{ "name": "shutiao", "bone": "shutiao", "attachment": "shutiao" }
+],
+"skins": {
+	"default": {
+		"shutiao": {
+			"shutiao": { "x": 39.59, "y": 3, "scaleX": 1.885, "scaleY": 1.885, "rotation": 85.7, "width": 85, "height": 62 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"shutiao": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"shutiao": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6667, "angle": 0, "curve": "stepped" },
+					{ "time": 0.8333, "angle": 0, "curve": "stepped" },
+					{ "time": 3.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.26, "y": 1, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0.26, "y": 1 },
+					{ "time": 0.8333, "x": 0.79, "y": 1, "curve": "stepped" },
+					{ "time": 3.3333, "x": 0.79, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

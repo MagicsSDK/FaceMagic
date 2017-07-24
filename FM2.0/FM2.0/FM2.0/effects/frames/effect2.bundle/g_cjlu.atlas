@@ -1,0 +1,55 @@
+
+g_cjlu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 331, 183
+  size: 325, 407
+  orig: 325, 407
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 0, 103
+  size: 329, 405
+  orig: 329, 405
+  offset: 0, 0
+  index: -1
+i1
+  rotate: false
+  xy: 74, 53
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+i2
+  rotate: false
+  xy: 0, 32
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+i3
+  rotate: false
+  xy: 331, 106
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 0, 0
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 740, 437
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1

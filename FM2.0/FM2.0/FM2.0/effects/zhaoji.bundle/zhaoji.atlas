@@ -1,0 +1,132 @@
+
+zhaoji.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: false
+  xy: 1441, 828
+  size: 102, 39
+  orig: 102, 39
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 591, 763
+  size: 103, 37
+  orig: 103, 37
+  offset: 0, 0
+  index: -1
+sh1
+  rotate: false
+  xy: 0, 613
+  size: 391, 187
+  orig: 391, 187
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 2165, 903
+  size: 722, 930
+  orig: 722, 930
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1441, 869
+  size: 722, 964
+  orig: 722, 964
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 0, 802
+  size: 715, 1031
+  orig: 715, 1031
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 2889, 939
+  size: 722, 894
+  orig: 722, 894
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 717, 828
+  size: 722, 1005
+  orig: 722, 1005
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 3613, 1232
+  size: 139, 185
+  orig: 139, 185
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 0, 0
+  size: 138, 184
+  orig: 138, 184
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 3788, 1655
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1
+y4
+  rotate: true
+  xy: 393, 634
+  size: 166, 196
+  orig: 166, 196
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 3613, 1419
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 3613, 1594
+  size: 173, 239
+  orig: 173, 239
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 3613, 1044
+  size: 104, 186
+  orig: 104, 186
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 0, 379
+  size: 160, 232
+  orig: 160, 232
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 0, 186
+  size: 151, 191
+  orig: 151, 191
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 162, 441
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1

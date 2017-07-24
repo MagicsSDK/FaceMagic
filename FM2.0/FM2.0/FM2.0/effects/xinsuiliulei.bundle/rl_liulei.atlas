@@ -1,0 +1,118 @@
+
+rl_liulei.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lei11
+  rotate: false
+  xy: 66, 17
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+lei12
+  rotate: false
+  xy: 1700, 86
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+lei21
+  rotate: false
+  xy: 1490, 25
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+lei22
+  rotate: false
+  xy: 130, 17
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+lei31
+  rotate: false
+  xy: 1634, 81
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+lei32
+  rotate: false
+  xy: 1421, 22
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+lei41
+  rotate: false
+  xy: 1634, 49
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+lei42
+  rotate: true
+  xy: 1550, 47
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+lei51
+  rotate: true
+  xy: 0, 0
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+lei52
+  rotate: true
+  xy: 1421, 52
+  size: 58, 127
+  orig: 58, 127
+  offset: 0, 0
+  index: -1
+lei61
+  rotate: true
+  xy: 858, 47
+  size: 63, 232
+  orig: 63, 232
+  offset: 0, 0
+  index: -1
+lei62
+  rotate: true
+  xy: 313, 50
+  size: 60, 276
+  orig: 60, 276
+  offset: 0, 0
+  index: -1
+lei71
+  rotate: true
+  xy: 591, 45
+  size: 65, 265
+  orig: 65, 265
+  offset: 0, 0
+  index: -1
+lei72
+  rotate: true
+  xy: 0, 41
+  size: 69, 311
+  orig: 69, 311
+  offset: 0, 0
+  index: -1
+youmei
+  rotate: false
+  xy: 1092, 44
+  size: 164, 66
+  orig: 164, 66
+  offset: 0, 0
+  index: -1
+zuomei
+  rotate: false
+  xy: 1258, 19
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1

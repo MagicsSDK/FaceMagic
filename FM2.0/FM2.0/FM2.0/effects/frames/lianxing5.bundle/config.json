@@ -1,0 +1,52 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500545754322",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "bear",
+      "personid": "0",
+      "adjust": "0.8",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500544757273",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.5",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.35",
+      "radius_y": "0.35",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500544766118",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.5",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.35",
+      "radius_y": "0.35",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+              {
+              "id": "faceBeautify01",
+              "mode": "faceBeautify",
+              "type": "faceBeautify"
+              }
+    ],
+    "version": "v2"
+}

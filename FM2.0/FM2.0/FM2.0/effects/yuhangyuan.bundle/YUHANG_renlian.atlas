@@ -1,0 +1,41 @@
+
+YUHANG_renlian.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tk1
+  rotate: false
+  xy: 715, 2
+  size: 709, 824
+  orig: 709, 824
+  offset: 0, 0
+  index: -1
+tk2
+  rotate: false
+  xy: 2134, 6
+  size: 704, 820
+  orig: 704, 820
+  offset: 0, 0
+  index: -1
+tk3
+  rotate: false
+  xy: 2840, 13
+  size: 710, 813
+  orig: 710, 813
+  offset: 0, 0
+  index: -1
+tk4
+  rotate: false
+  xy: 1426, 2
+  size: 706, 824
+  orig: 706, 824
+  offset: 0, 0
+  index: -1
+tk5
+  rotate: false
+  xy: 0, 0
+  size: 713, 826
+  orig: 713, 826
+  offset: 0, 0
+  index: -1

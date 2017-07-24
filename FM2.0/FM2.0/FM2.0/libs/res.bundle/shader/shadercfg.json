@@ -1,0 +1,410 @@
+{
+  "shader": [
+    {
+      "vs": "normalv2",
+      "fs": "normalcolor",
+      "programme": "normalv2"
+    },
+    {
+      "vs": "realcamera",
+      "fs": "realcamera",
+      "programme": "realcamera"
+    },
+    {
+      "vs": "debugFacePt",
+      "fs": "debugFacePt",
+      "programme": "debugFacePt"
+    },
+    {
+      "vs": "screencolor",
+      "fs": "screencolor",
+      "programme": "screencolor"
+    },
+    {
+      "vs": "colorselect",
+      "fs": "colorselect",
+      "programme": "colorselect"
+    },
+    {
+      "vs": "colorselectspine",
+      "fs": "colorselectspine",
+      "programme": "colorselect2dspine"
+    },
+    {
+      "vs": "colorselect3d",
+      "fs": "colorselect",
+      "programme": "colorselect3d"
+    },
+    {
+      "vs": "filterShake",
+      "fs": "filterShake",
+      "programme": "filterShake"
+    },
+    {
+      "vs": "coverMask",
+      "fs": "coverMask",
+      "programme": "coverMask"
+    },
+    {
+      "vs": "texAni",
+      "fs": "texAni",
+      "programme": "texAni"
+    },
+    {
+      "vs": "NormalV3A",
+      "fs": "NormalV3A",
+      "programme": "NormalV3A"
+    },
+    {
+      "vs": "NormalV2CT1",
+      "fs": "NormalV2CT1",
+      "programme": "NormalV2CT1"
+    },
+    {
+      "vs": "alivephoto",
+      "fs": "alivephoto",
+      "programme": "alivephoto"
+    },
+    {
+      "vs": "screennor",
+      "fs": "screennor",
+      "programme": "screennor"
+    },
+    {
+      "vs": "screennor",
+      "fs": "yuv2rgb",
+      "programme": "yuv2rgb"
+    },
+    {
+      "vs": "screennor",
+      "fs": "yuv2rgb12",
+      "programme": "yuv2rgb12"
+    },
+    {
+      "vs": "screennor",
+      "fs": "yuv2rgb21",
+      "programme": "yuv2rgb21"
+    },
+    {
+      "vs": "geometry",
+      "fs": "geometry",
+      "programme": "geometry"
+    },
+    {
+      "vs": "geometry3d",
+      "fs": "geometry3d",
+      "programme": "geometry3d"
+    },
+    {
+      "vs": "animateSpine",
+      "fs": "animateSpine",
+      "programme": "animateSpine"
+    },
+    {
+      "vs": "drawfaceBlend",
+      "fs": "drawfaceBlend",
+      "programme": "drawfaceBlend"
+    },
+    {
+      "vs": "drawface2d",
+      "fs": "drawfaceAnimate",
+      "programme": "drawfaceAnimate"
+    },
+    {
+      "vs": "spineMask",
+      "fs": "spineMask",
+      "programme": "spineMask"
+    },
+    {
+      "vs": "animateMask",
+      "fs": "animateMask",
+      "programme": "animateMask"
+    },
+    {
+      "vs": "drawface2d",
+      "fs": "drawface2d",
+      "programme": "drawface2d"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvnv12",
+      "programme": "rgb2yuvnv12"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvnv21",
+      "programme": "rgb2yuvnv21"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvyv12",
+      "programme": "rgb2yuvyv12"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvi420",
+      "programme": "rgb2yuvi420"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvY",
+      "programme": "rgb2yuvY"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvU",
+      "programme": "rgb2yuvU"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvV",
+      "programme": "rgb2yuvV"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvUV",
+      "programme": "rgb2yuvUV"
+    },
+    {
+      "vs": "rgb2yuv",
+      "fs": "rgb2yuvVU",
+      "programme": "rgb2yuvVU"
+    },
+    {
+      "vs": "screennor",
+      "fs": "bgra",
+      "programme": "bgra"
+    },
+    {
+      "vs": "screennor",
+      "fs": "rgba",
+      "programme": "rgba"
+    },
+    {
+      "vs": "animateFrame",
+      "fs": "animateFrame",
+      "programme": "animateFrame"
+    },
+    {
+      "vs": "blend2d",
+      "fs": "blend",
+      "programme": "blend2d"
+    },
+    {
+      "vs": "blend3d",
+      "fs": "blend",
+      "programme": "blend3d"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterNineGrid",
+      "programme": "filterNineGrid"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterEnlargeEye",
+      "programme": "filterEnlargeEye"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterEnlarge2Eye",
+      "programme": "filterEnlarge2Eye"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterEnlargeEllipse",
+      "programme": "filterEnlargeEllipse"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterWhiteBalance",
+      "programme": "filterWhiteBalance"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterWhiteBalanceOp",
+      "programme": "filterWhiteBalanceOp"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterContrast",
+      "programme": "filterContrast"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterHue",
+      "programme": "filterHue"
+    },
+    {
+      "vs": "filter",
+      "fs": "fmColorBalance",
+      "programme": "fmColorBalance"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterSaturation",
+      "programme": "filterSaturation"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterSaturationFast",
+      "programme": "filterSaturationFast"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterSaturationHSV",
+      "programme": "filterSaturationHSV"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterColorLevel",
+      "programme": "filterColorLevel"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterHaze",
+      "programme": "filterHaze"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterEmboss",
+      "programme": "filterEmboss"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterMonochrome",
+      "programme": "filterMonochrome"
+    },
+    {
+      "vs": "filterSketch",
+      "fs": "filterSketch",
+      "programme": "filterSketch"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterBrightness",
+      "programme": "filterBrightness"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterBilateralBlur",
+      "programme": "filterBilateralBlur"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterBilateralBlur2",
+      "programme": "filterBilateralBlur2"
+    },
+    {
+      "vs": "filterBilateralBlurLei",
+      "fs": "filterBilateralBlurLei",
+      "programme": "filterBilateralBlurLei"
+    },
+    {
+      "vs": "filter",
+      "fs": "filterCurveAdjustTex",
+      "programme": "filterCurveAdjustTex"
+    },
+    {
+      "vs": "normal2d",
+      "fs": "normal",
+      "programme": "normal2d"
+    },
+    {
+      "vs": "normal3d",
+      "fs": "normal3d",
+      "programme": "normal3d"
+    },
+    {
+      "vs": "normal3dPLight",
+      "fs": "normal3dPLight",
+      "programme": "normal3dPLight"
+    },
+    {
+      "vs": "normal3dVLight",
+      "fs": "normal3dVLight",
+      "programme": "normal3dVLight"
+    },
+    {
+      "vs": "filterSharpen",
+      "fs": "filterSharpen",
+      "programme": "filterSharpen"
+    },
+    {
+      "vs": "ToneCurveFilter",
+      "fs": "ToneCurveFilter",
+      "programme": "ToneCurveFilter"
+    },
+    {
+      "vs": "SkinModel",
+      "fs": "SkinModel",
+      "programme": "SkinModel"
+    },
+    {
+      "vs": "SkinModel",
+      "fs": "colorselect",
+      "programme": "SkinModelSelect"
+    },
+    {
+      "vs": "texHead",
+      "fs": "texHead",
+      "programme": "texHead"
+    },
+    {
+      "vs": "screennor",
+      "fs": "defaultBlack",
+      "programme": "defaultBlack"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallFace",
+      "programme": "smallFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "shortFace",
+      "programme": "shortFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "pigFace",
+      "programme": "pigFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallShrinkFace",
+      "programme": "smallShrinkFace"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "smallShortShrink",
+      "programme": "smallShortShrink"
+    },
+    {
+      "vs": "smallFace",
+      "fs": "kejiSmallShortFace",
+      "programme": "kejiSmallShortFace"
+    },
+    {
+      "vs": "SkyDome",
+      "fs": "SkyDome",
+      "programme": "SkyDome"
+
+    },
+    {
+      "vs": "screennor",
+      "fs": "alphaMatting",
+      "programme": "alphaMatting"
+    },
+    {
+      "vs": "screennor",
+      "fs": "bgra",
+      "programme": "screennorbgra"
+    },
+    {
+      "vs": "screennor",
+      "fs": "faceBeautify",
+      "programme": "faceBeautify"
+    }
+  ]
+}

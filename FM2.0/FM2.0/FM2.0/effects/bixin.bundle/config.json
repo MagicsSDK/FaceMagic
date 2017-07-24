@@ -1,0 +1,74 @@
+{
+    "action": "image_animation",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {},
+                "spine_name": "xinxin"
+            },
+            "subType": "screen",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.3",
+            "radius_y": "0.3",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w2",
+            "index": "320",
+            "intensity": "0.24",
+            "personid": "0",
+            "radius_x": "0.29",
+            "radius_y": "0.29",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.14",
+            "adjust2": "0.2",
+            "adjust3": "0.14",
+            "adjust4": "0.14",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3",
+    "haveoccasion": "1"
+}

@@ -1,0 +1,27 @@
+{
+"skeleton": { "hash": "xnEZ0OZloBjk//iaTbqv2IlNads", "spine": "3.5.37", "width": 720, "height": 1280, "images": "./卷胡子/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2_190", "parent": "root", "x": -144.94, "y": 738.24 },
+	{ "name": "bone_260", "parent": "root", "x": 6.76, "y": 442.37 },
+	{ "name": "juanhuzi", "parent": "bone_260", "y": -23.89 },
+	{ "name": "yanjing", "parent": "bone2_190", "x": 118.16, "y": -82.88, "scaleX": 1.024, "scaleY": 1.024 }
+],
+"slots": [
+	{ "name": "juanhuzi", "bone": "juanhuzi", "attachment": "juanhuzi" },
+	{ "name": "yanjing", "bone": "yanjing", "attachment": "yanjing" }
+],
+"skins": {
+	"default": {
+		"juanhuzi": {
+			"juanhuzi": { "x": -4.8, "y": -24.92, "scaleX": 0.96, "scaleY": 0.96, "width": 322, "height": 148 }
+		},
+		"yanjing": {
+			"yanjing": { "x": -0.09, "y": -46.77, "scaleX": 1.253, "scaleY": 1.253, "width": 513, "height": 206 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

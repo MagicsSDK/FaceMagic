@@ -1,0 +1,27 @@
+
+f_tousha.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sha
+  rotate: true
+  xy: 0, 291
+  size: 705, 1082
+  orig: 705, 1082
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1084, 742
+  size: 196, 254
+  orig: 196, 254
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 0, 0
+  size: 295, 289
+  orig: 295, 289
+  offset: 0, 0
+  index: -1

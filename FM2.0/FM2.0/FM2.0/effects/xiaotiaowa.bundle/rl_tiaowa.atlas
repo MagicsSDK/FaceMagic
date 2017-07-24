@@ -1,0 +1,55 @@
+
+rl_tiaowa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: false
+  xy: 655, 930
+  size: 88, 17
+  orig: 88, 17
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 539, 795
+  size: 95, 22
+  orig: 95, 22
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 0, 379
+  size: 537, 568
+  orig: 537, 568
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 464, 264
+  size: 71, 113
+  orig: 71, 113
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 0, 127
+  size: 462, 250
+  orig: 462, 250
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 539, 819
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 0, 0
+  size: 117, 125
+  orig: 117, 125
+  offset: 0, 0
+  index: -1

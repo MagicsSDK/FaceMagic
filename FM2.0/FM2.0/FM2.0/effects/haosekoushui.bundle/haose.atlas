@@ -1,0 +1,62 @@
+
+haose.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ke6
+  rotate: false
+  xy: 163, 68
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+ks1
+  rotate: false
+  xy: 393, 170
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+ks2
+  rotate: false
+  xy: 393, 202
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+ks3
+  rotate: true
+  xy: 163, 167
+  size: 76, 228
+  orig: 76, 228
+  offset: 0, 0
+  index: -1
+ks4
+  rotate: false
+  xy: 272, 86
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+ks5
+  rotate: true
+  xy: 0, 0
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+yx
+  rotate: false
+  xy: 0, 83
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+zx
+  rotate: false
+  xy: 0, 83
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1

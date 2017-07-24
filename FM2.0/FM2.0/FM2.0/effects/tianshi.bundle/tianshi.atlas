@@ -1,0 +1,76 @@
+
+tianshi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 0, 696
+  size: 611, 291
+  orig: 611, 291
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 0, 458
+  size: 557, 236
+  orig: 557, 236
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 0, 222
+  size: 556, 234
+  orig: 556, 234
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 1167, 776
+  size: 566, 211
+  orig: 566, 211
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 613, 747
+  size: 552, 240
+  orig: 552, 240
+  offset: 0, 0
+  index: -1
+gh1
+  rotate: false
+  xy: 613, 544
+  size: 373, 201
+  orig: 373, 201
+  offset: 0, 0
+  index: -1
+gh2
+  rotate: false
+  xy: 559, 341
+  size: 373, 201
+  orig: 373, 201
+  offset: 0, 0
+  index: -1
+gh3
+  rotate: true
+  xy: 1735, 614
+  size: 373, 215
+  orig: 373, 215
+  offset: 0, 0
+  index: -1
+gh4
+  rotate: false
+  xy: 558, 138
+  size: 344, 201
+  orig: 344, 201
+  offset: 0, 0
+  index: -1
+gh5
+  rotate: false
+  xy: 0, 0
+  size: 373, 220
+  orig: 373, 220
+  offset: 0, 0
+  index: -1

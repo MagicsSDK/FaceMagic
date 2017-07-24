@@ -1,0 +1,20 @@
+
+juanhuzi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juanhuzi
+  rotate: false
+  xy: 515, 58
+  size: 322, 148
+  orig: 322, 148
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 0
+  size: 513, 206
+  orig: 513, 206
+  offset: 0, 0
+  index: -1

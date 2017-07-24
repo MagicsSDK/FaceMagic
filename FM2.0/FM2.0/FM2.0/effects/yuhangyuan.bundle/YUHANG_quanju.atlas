@@ -1,0 +1,188 @@
+
+YUHANG_quanju.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X4
+  rotate: false
+  xy: 493, 39
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+X44
+  rotate: false
+  xy: 1618, 772
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+X444
+  rotate: false
+  xy: 1478, 661
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+X4444
+  rotate: false
+  xy: 1478, 574
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+X44444
+  rotate: true
+  xy: 574, 36
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+X5
+  rotate: false
+  xy: 668, 43
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+heise
+  rotate: true
+  xy: 0, 300
+  size: 722, 1282
+  orig: 722, 1282
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 1284, 782
+  size: 204, 240
+  orig: 204, 240
+  offset: 0, 0
+  index: -1
+x11
+  rotate: false
+  xy: 1284, 576
+  size: 192, 204
+  orig: 192, 204
+  offset: 0, 0
+  index: -1
+x111
+  rotate: false
+  xy: 202, 67
+  size: 172, 231
+  orig: 172, 231
+  offset: 0, 0
+  index: -1
+x1111
+  rotate: true
+  xy: 577, 125
+  size: 173, 186
+  orig: 173, 186
+  offset: 0, 0
+  index: -1
+x11111
+  rotate: false
+  xy: 0, 17
+  size: 200, 281
+  orig: 200, 281
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1490, 866
+  size: 233, 156
+  orig: 233, 156
+  offset: 0, 0
+  index: -1
+x22
+  rotate: false
+  xy: 1725, 873
+  size: 203, 149
+  orig: 203, 149
+  offset: 0, 0
+  index: -1
+x222
+  rotate: true
+  xy: 1284, 366
+  size: 208, 158
+  orig: 208, 158
+  offset: 0, 0
+  index: -1
+x2222
+  rotate: false
+  xy: 765, 148
+  size: 202, 150
+  orig: 202, 150
+  offset: 0, 0
+  index: -1
+x22222
+  rotate: false
+  xy: 376, 128
+  size: 199, 170
+  orig: 199, 170
+  offset: 0, 0
+  index: -1
+x55
+  rotate: true
+  xy: 1284, 286
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+x555
+  rotate: false
+  xy: 1444, 496
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+x5555
+  rotate: true
+  xy: 1367, 286
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+x55555
+  rotate: false
+  xy: 1444, 424
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 969, 155
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+x66
+  rotate: true
+  xy: 376, 0
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+x666
+  rotate: true
+  xy: 1930, 896
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+x6666
+  rotate: false
+  xy: 1108, 183
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+x66666
+  rotate: false
+  xy: 1490, 749
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1

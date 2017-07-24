@@ -1,0 +1,94 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask1498035560915",
+      "fps": "25",
+      "loop": "1",
+      "images": [
+        "face2.png"
+      ],
+      "typemesh": "facemeshoutline",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1498037751471",
+      "name": "zhengchang",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_130": "130"
+        },
+        "spine_name": "zhengchang"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        },
+        {
+          "category": "dependency",
+          "dependsOn": "w1498037761480",
+          "event": "aniComplete"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0",
+      "terminatedBy": [
+        {
+          "category": "eyeblink"
+        }
+      ]
+    },
+    {
+      "id": "w1498037761480",
+      "name": "chufa",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_130": "130"
+        },
+        "spine_name": "chufa"
+      },
+      "triggeredBy": [
+        {
+          "category": "eyeblink"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "WuZiXu_01",
+      "loop": "1",
+      "name": "WuZiXu_01",
+      "personid": "0",
+      "skinmodel": {
+          "animationPath":"WuZiXu_01.FBX",
+          "usetype": 2
+      },
+      "triggeredBy": [
+          {
+              "category": "any"
+          }
+      ],
+      "type": "skinmodel"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

@@ -1,0 +1,27 @@
+
+mot_quanping.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baijing
+  rotate: false
+  xy: 0, 0
+  size: 720, 369
+  orig: 720, 369
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 0, 371
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 722, 371
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+yuzou_rl.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jg
+  rotate: true
+  xy: 1866, 1555
+  size: 453, 169
+  orig: 453, 169
+  offset: 0, 0
+  index: -1
+taikong/taikong00
+  rotate: false
+  xy: 662, 1608
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong02
+  rotate: false
+  xy: 0, 497
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong38
+  rotate: false
+  xy: 0, 497
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong04
+  rotate: false
+  xy: 1264, 1608
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong36
+  rotate: false
+  xy: 1264, 1608
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong06
+  rotate: false
+  xy: 0, 95
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong34
+  rotate: false
+  xy: 0, 95
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong08
+  rotate: false
+  xy: 662, 1206
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong32
+  rotate: false
+  xy: 662, 1206
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong10
+  rotate: false
+  xy: 1264, 1206
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong30
+  rotate: false
+  xy: 1264, 1206
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong12
+  rotate: false
+  xy: 602, 804
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong28
+  rotate: false
+  xy: 602, 804
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong14
+  rotate: false
+  xy: 602, 402
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong26
+  rotate: false
+  xy: 602, 402
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong16
+  rotate: false
+  xy: 1204, 804
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong24
+  rotate: false
+  xy: 1204, 804
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong18
+  rotate: false
+  xy: 1204, 402
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong22
+  rotate: false
+  xy: 1204, 402
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong20
+  rotate: false
+  xy: 602, 0
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+taikong/taikong39
+  rotate: false
+  xy: 0, 899
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+toutao
+  rotate: false
+  xy: 0, 1301
+  size: 660, 707
+  orig: 660, 707
+  offset: 0, 0
+  index: -1

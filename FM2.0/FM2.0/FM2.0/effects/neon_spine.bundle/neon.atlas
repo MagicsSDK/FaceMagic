@@ -1,0 +1,41 @@
+
+neon.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang
+  rotate: true
+  xy: 0, 267
+  size: 666, 1148
+  orig: 666, 1148
+  offset: 0, 0
+  index: -1
+cherry1
+  rotate: false
+  xy: 1150, 605
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+cherry2
+  rotate: false
+  xy: 580, 116
+  size: 155, 149
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+cherry3
+  rotate: false
+  xy: 1150, 759
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+luck
+  rotate: false
+  xy: 0, 0
+  size: 578, 265
+  orig: 578, 265
+  offset: 0, 0
+  index: -1

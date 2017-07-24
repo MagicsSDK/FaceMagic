@@ -1,0 +1,132 @@
+
+maolihe.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BOx4
+  rotate: true
+  xy: 0, 0
+  size: 387, 413
+  orig: 387, 413
+  offset: 0, 0
+  index: -1
+images/BOx5
+  rotate: true
+  xy: 2378, 609
+  size: 393, 593
+  orig: 393, 593
+  offset: 0, 0
+  index: -1
+images/BOx7
+  rotate: true
+  xy: 2973, 564
+  size: 438, 512
+  orig: 438, 512
+  offset: 0, 0
+  index: -1
+images/Box6
+  rotate: false
+  xy: 0, 389
+  size: 450, 613
+  orig: 450, 613
+  offset: 0, 0
+  index: -1
+images/MEW
+  rotate: false
+  xy: 3770, 899
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+images/dian1
+  rotate: true
+  xy: 452, 642
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+images/dian2
+  rotate: true
+  xy: 1094, 642
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+images/fensedi
+  rotate: true
+  xy: 1736, 642
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+images/mao1
+  rotate: false
+  xy: 728, 400
+  size: 274, 240
+  orig: 274, 240
+  offset: 0, 0
+  index: -1
+images/mao2
+  rotate: false
+  xy: 1004, 400
+  size: 274, 240
+  orig: 274, 240
+  offset: 0, 0
+  index: -1
+images/maojiao
+  rotate: false
+  xy: 452, 394
+  size: 274, 246
+  orig: 274, 246
+  offset: 0, 0
+  index: -1
+images/maoshenzi
+  rotate: false
+  xy: 3487, 768
+  size: 281, 234
+  orig: 281, 234
+  offset: 0, 0
+  index: -1
+images/xin1
+  rotate: false
+  xy: 3487, 655
+  size: 140, 111
+  orig: 140, 111
+  offset: 0, 0
+  index: -1
+images/xin2
+  rotate: false
+  xy: 3896, 916
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+images/youbanshou
+  rotate: false
+  xy: 3487, 567
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 1280, 539
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+images/zuobanshou
+  rotate: false
+  xy: 3770, 814
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 3629, 670
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1

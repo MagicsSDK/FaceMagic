@@ -1,0 +1,6 @@
+framework module MagicStickerStore {
+  umbrella header "MagicStickerStore.h"
+
+  export *
+  module * { export * }
+}

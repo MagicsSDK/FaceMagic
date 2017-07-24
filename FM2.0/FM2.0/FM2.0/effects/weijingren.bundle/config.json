@@ -1,0 +1,90 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask01",
+      "images": [
+        "face4.png"
+      ],
+      "typemesh": "facemeshoutline",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "m1497242249967",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.21",
+      "adjust2": "0.19",
+      "adjust3": "0.2",
+      "adjust4": "0.23"
+    },
+    {
+      "id": "w0",
+      "name": "w0",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "r": "1",
+      "personid": "0",
+      "beforeFilter": "false",
+      "images": [
+        "toukui.png"
+      ],
+      "index": "390",
+      "h": [
+        "0.02",
+        "-0.08"
+      ],
+      "s": [
+        "4.37",
+        "4.37"
+      ],
+      "haveoccasion": "1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1497241674855",
+      "name": "weijingren",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_260": "260"
+        },
+        "spine_name": "weijingren"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

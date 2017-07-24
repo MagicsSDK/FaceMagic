@@ -1,0 +1,198 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "beforeFilter": "false",
+            "fps": "25",
+            "h": [
+                0.52,
+                0.6
+            ],
+            "haveoccasion": "1",
+            "id": "w1",
+            "images": [
+                "zui_00000.png",
+                "zui_00001.png",
+                "zui_00002.png",
+                "zui_00003.png",
+                "zui_00004.png",
+                "zui_00005.png",
+                "zui_00006.png",
+                "zui_00007.png",
+                "zui_00008.png",
+                "zui_00009.png",
+                "zui_00010.png",
+                "zui_00011.png",
+                "zui_00012.png",
+                "zui_00013.png",
+                "zui_00014.png",
+                "zui_00015.png",
+                "zui_00016.png",
+                "zui_00017.png",
+                "zui_00018.png",
+                "zui_00019.png",
+                "zui_00020.png",
+                "zui_00021.png",
+                "zui_00022.png",
+                "zui_00023.png",
+                "zui_00024.png",
+                "zui_00025.png"
+            ],
+            "index": "240",
+            "loop": "0",
+            "name": "w1",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/shishangyj",
+            "resourceType": "sequence",
+            "s": [
+                1.86,
+                1.85
+            ],
+            "selected_image": "zui_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "mouthopen"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "adjust": "0.2",
+            "adjust2": "0.14",
+            "adjust3": "0.14",
+            "adjust4": "0.14",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/shishangyj",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "fps": "25",
+            "h": [
+                0.02,
+                -0.13
+            ],
+            "haveoccasion": "1",
+            "id": "w2",
+            "images": [
+                "yj_00000.png",
+                "yj_00001.png",
+                "yj_00002.png",
+                "yj_00003.png",
+                "yj_00004.png",
+                "yj_00005.png",
+                "yj_00006.png",
+                "yj_00007.png",
+                "yj_00008.png",
+                "yj_00009.png",
+                "yj_00010.png",
+                "yj_00011.png",
+                "yj_00012.png",
+                "yj_00013.png",
+                "yj_00014.png",
+                "yj_00015.png",
+                "yj_00016.png",
+                "yj_00017.png",
+                "yj_00018.png",
+                "yj_00019.png",
+                "yj_00020.png",
+                "yj_00021.png",
+                "yj_00022.png",
+                "yj_00023.png",
+                "yj_00024.png",
+                "yj_00025.png",
+                "yj_00026.png",
+                "yj_00027.png",
+                "yj_00028.png",
+                "yj_00029.png",
+                "yj_00030.png",
+                "yj_00031.png",
+                "yj_00032.png",
+                "yj_00033.png",
+                "yj_00034.png",
+                "yj_00035.png",
+                "yj_00036.png",
+                "yj_00037.png",
+                "yj_00038.png",
+                "yj_00039.png",
+                "yj_00040.png",
+                "yj_00041.png",
+                "yj_00042.png",
+                "yj_00043.png",
+                "yj_00044.png",
+                "yj_00045.png",
+                "yj_00046.png",
+                "yj_00047.png",
+                "yj_00048.png",
+                "yj_00049.png",
+                "yj_00050.png",
+                "yj_00051.png",
+                "yj_00052.png",
+                "yj_00053.png",
+                "yj_00054.png",
+                "yj_00055.png",
+                "yj_00056.png",
+                "yj_00057.png",
+                "yj_00058.png",
+                "yj_00059.png",
+                "yj_00060.png",
+                "yj_00061.png",
+                "yj_00062.png",
+                "yj_00063.png",
+                "yj_00064.png",
+                "yj_00065.png",
+                "yj_00066.png",
+                "yj_00067.png",
+                "yj_00068.png",
+                "yj_00069.png",
+                "yj_00070.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w2",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/shishangyj",
+            "s": [
+                2.69,
+                2.7
+            ],
+            "selected_image": "yj_00000.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "zhuang7.png"
+            ],
+            "mappings": {
+                "zhuang7.png": "/Users/wangyukun/Downloads/zhuang7.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/shishangyj",
+            "subType": "static",
+            "type": "mask"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

@@ -1,0 +1,83 @@
+
+xiongmao_qj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y21
+  rotate: false
+  xy: 302, 24
+  size: 268, 64
+  orig: 268, 64
+  offset: 0, 0
+  index: -1
+y46
+  rotate: false
+  xy: 0, 148
+  size: 303, 362
+  orig: 303, 362
+  offset: 0, 0
+  index: -1
+ye12
+  rotate: false
+  xy: 637, 259
+  size: 234, 104
+  orig: 234, 104
+  offset: 0, 0
+  index: -1
+ye13
+  rotate: true
+  xy: 0, 0
+  size: 146, 134
+  orig: 146, 134
+  offset: 0, 0
+  index: -1
+ye14
+  rotate: true
+  xy: 136, 10
+  size: 136, 164
+  orig: 136, 164
+  offset: 0, 0
+  index: -1
+ye22
+  rotate: true
+  xy: 305, 90
+  size: 156, 177
+  orig: 156, 177
+  offset: 0, 0
+  index: -1
+ye23
+  rotate: false
+  xy: 468, 290
+  size: 167, 220
+  orig: 167, 220
+  offset: 0, 0
+  index: -1
+ye33
+  rotate: false
+  xy: 637, 365
+  size: 234, 145
+  orig: 234, 145
+  offset: 0, 0
+  index: -1
+ye41
+  rotate: false
+  xy: 305, 248
+  size: 161, 262
+  orig: 161, 262
+  offset: 0, 0
+  index: -1
+ye42
+  rotate: false
+  xy: 572, 70
+  size: 171, 187
+  orig: 171, 187
+  offset: 0, 0
+  index: -1
+ye43
+  rotate: true
+  xy: 873, 242
+  size: 268, 92
+  orig: 268, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+yuzou_qj.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 304
+  size: 285, 287
+  orig: 285, 287
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1652, 1762
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+111
+  rotate: false
+  xy: 202, 193
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+1111
+  rotate: false
+  xy: 0, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+11111
+  rotate: false
+  xy: 0, 0
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+111111
+  rotate: false
+  xy: 355, 438
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 128
+  size: 200, 174
+  orig: 200, 174
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 1446, 1519
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+222
+  rotate: false
+  xy: 1652, 1715
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+2222
+  rotate: false
+  xy: 85, 97
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+22222
+  rotate: false
+  xy: 406, 510
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 287, 370
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+333
+  rotate: false
+  xy: 202, 229
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+33333
+  rotate: false
+  xy: 1567, 1626
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 287, 469
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 287, 403
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+444
+  rotate: false
+  xy: 1446, 1563
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+4444
+  rotate: false
+  xy: 1745, 1836
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+44444
+  rotate: false
+  xy: 406, 540
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+444444
+  rotate: false
+  xy: 1446, 1672
+  size: 204, 203
+  orig: 204, 203
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 724, 595
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+bjhe
+  rotate: false
+  xy: 0, 593
+  size: 722, 1282
+  orig: 722, 1282
+  offset: 0, 0
+  index: -1

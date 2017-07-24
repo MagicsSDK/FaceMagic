@@ -1,0 +1,119 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "disappearAngle": "91",
+            "id": "w0",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xiaokeai",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": "91",
+            "id": "w1",
+            "index": "320",
+            "intensity": "0.2",
+            "personid": "0",
+            "radius_x": "0.26",
+            "radius_y": "0.26",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xiaokeai",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.01",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.22",
+            "adjust2": "0.2",
+            "adjust3": "0.2",
+            "adjust4": "0.25",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xiaokeai",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "beforeFilter": false,
+            "fps": "25",
+            "h": [
+                0.02,
+                -0.07
+            ],
+            "haveoccasion": "1",
+            "id": "w3",
+            "images": [
+                "saihong.png"
+            ],
+            "index": "390",
+            "loop": "1",
+            "name": "w3",
+            "personid": "0",
+            "plist": [],
+            "r": "1",
+            "resourcePath": "/Users/wangyukun/MagicAssistantOutput/animations/xiaokeai",
+            "resourceType": "sequence",
+            "s": [
+                3.26,
+                3.26
+            ],
+            "selected_image": "saihong.png",
+            "subType": "face",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone3_50": "50",
+                    "bone5_380": "380",
+                    "bone6_190": "190",
+                    "bone7_240": "240",
+                    "bone_100": "100"
+                },
+                "spine_name": "xiaokeai"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

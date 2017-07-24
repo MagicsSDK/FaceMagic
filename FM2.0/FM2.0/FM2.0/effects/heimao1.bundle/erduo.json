@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "erduo2_00000.png",
+	"frame": {"x":640,"y":500,"w":618,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":145,"w":618,"h":248},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00001.png",
+	"frame": {"x":2,"y":512,"w":614,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":137,"w":614,"h":256},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00002.png",
+	"frame": {"x":1228,"y":778,"w":608,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":127,"w":608,"h":266},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00003.png",
+	"frame": {"x":618,"y":750,"w":608,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":121,"w":608,"h":272},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00004.png",
+	"frame": {"x":1260,"y":504,"w":608,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":121,"w":608,"h":272},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00005.png",
+	"frame": {"x":2,"y":770,"w":608,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":125,"w":608,"h":268},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00006.png",
+	"frame": {"x":612,"y":1024,"w":606,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":136,"w":606,"h":266},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00007.png",
+	"frame": {"x":2,"y":1040,"w":604,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":151,"w":604,"h":252},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00008.png",
+	"frame": {"x":1302,"y":254,"w":624,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":155,"w":624,"h":248},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00009.png",
+	"frame": {"x":658,"y":250,"w":642,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":155,"w":642,"h":248},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00010.png",
+	"frame": {"x":658,"y":2,"w":652,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":156,"w":652,"h":246},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00011.png",
+	"frame": {"x":2,"y":2,"w":654,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":144,"w":654,"h":256},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00012.png",
+	"frame": {"x":1312,"y":2,"w":648,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":143,"w":648,"h":250},
+	"sourceSize": {"w":750,"h":500}
+},
+{
+	"filename": "erduo2_00013.png",
+	"frame": {"x":2,"y":260,"w":636,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":143,"w":636,"h":250},
+	"sourceSize": {"w":750,"h":500}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "erduo.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b0e2c1e4036b5762cf9bb7eada40af51:1/1$"
+}
+}

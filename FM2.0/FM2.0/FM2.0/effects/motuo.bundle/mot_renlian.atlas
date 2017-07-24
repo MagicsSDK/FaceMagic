@@ -1,0 +1,62 @@
+
+mot_renlian.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jp1
+  rotate: false
+  xy: 542, 310
+  size: 426, 192
+  orig: 426, 192
+  offset: 0, 0
+  index: -1
+jp2
+  rotate: false
+  xy: 542, 116
+  size: 426, 192
+  orig: 426, 192
+  offset: 0, 0
+  index: -1
+jp3
+  rotate: false
+  xy: 970, 310
+  size: 426, 192
+  orig: 426, 192
+  offset: 0, 0
+  index: -1
+jp4
+  rotate: false
+  xy: 970, 116
+  size: 426, 192
+  orig: 426, 192
+  offset: 0, 0
+  index: -1
+jp5
+  rotate: false
+  xy: 1398, 310
+  size: 426, 192
+  orig: 426, 192
+  offset: 0, 0
+  index: -1
+m1
+  rotate: true
+  xy: 0, 0
+  size: 87, 290
+  orig: 87, 290
+  offset: 0, 0
+  index: -1
+m2
+  rotate: true
+  xy: 1398, 219
+  size: 89, 216
+  orig: 89, 216
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 0, 89
+  size: 540, 413
+  orig: 540, 413
+  offset: 0, 0
+  index: -1

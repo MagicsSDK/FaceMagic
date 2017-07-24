@@ -1,0 +1,40 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500368634278",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "1",
+      "mode": "slim_snake_shrink",
+      "personid": "0",
+      "adjust": "0.4",
+      "adjust2": "0.4",
+      "adjust3": "0.4",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500369532977",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "0",
+      "typemesh": "default",
+      "images": [
+        "mz33.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}
