@@ -15,6 +15,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"guoxiuyan === 🐼");
+//    /sdfdfbnb
+//    asdsdgbn
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
