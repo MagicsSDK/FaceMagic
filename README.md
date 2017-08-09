@@ -65,12 +65,13 @@ mfm2 = [FM2 new];
 [mfm2 fm2Init:NULL Version:2];
 
 [mfm2 startEngine:fm2DETECTTYPE];(识别库类型设置)
-
+//[mfm2 enableDDrawMode:true];//用FaceMagic做显示 不获取数据流
+[mfm2 enableDDrawMode:false];//不用FaceMagic做显示 获取数据流
 [mfm2 createScene:@"fm2" Width:[UIScreen mainScreen].bounds.size.width*scale Height:[UIScreen mainScreen].bounds.size.height*scale];
 
 [mfm2 setInputFormat:fm2PixelFormatYUV420V Width:videoWidth Height:videoHeight Angle:videoAngle Name:@"fm2"];
 
-[mfm2 setOutputFormat:fm2PixelFormatYUV420V Name:@"fm2"];`
+[mfm2 enableOutputPixelBuffer];`
 
 ## 传入相机数据流
 
@@ -128,9 +129,9 @@ mfm2 = [FM2 new];
                 CMRotationMatrix deviceRotation = [self getRotationMatrix];
                 [mfm2 updateGyroDataX:deviceRotation.m31 Y:deviceRotation.m32 Z:-deviceRotation.m33];
             }
-    //推送相机图片
-     
-     [mfm2 pushCameraImage:yuvFrame.plane[0] Name:@"fm2"];
+    //推送相机数据流
+     
+      [mfm2 pushCameraPixelBuffer:imageBuffer Name:@"fm2" WithHandle:nil];
      
      [self.cameraVideoView display];
      
