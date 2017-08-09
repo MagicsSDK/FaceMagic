@@ -124,14 +124,20 @@ mfm2 = [FM2 new];
      //推送识别结果
      
      [mfm2 pushDetectDataAS:detectResult.fmFaceCount facePoints:detectResult.fmFacePoints faceRect:detectResult.fmFaceRects faceOrient:detectResult.fmFaceOrients Name:@"fm2"];
+     
      //这是3D 特效 调用函数
+     
       if (_sensorActive) {
+      
                 CMRotationMatrix deviceRotation = [self getRotationMatrix];
+                
                 [mfm2 updateGyroDataX:deviceRotation.m31 Y:deviceRotation.m32 Z:-deviceRotation.m33];
+                
             }
+            
     //推送相机数据流
      
-      [mfm2 pushCameraPixelBuffer:imageBuffer Name:@"fm2" WithHandle:nil];
+     [mfm2 pushCameraPixelBuffer:imageBuffer Name:@"fm2" WithHandle:nil];
      
      [self.cameraVideoView display];
      
